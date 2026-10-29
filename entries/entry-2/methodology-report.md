@@ -14,6 +14,8 @@ This entry is one of three from the same entrant, produced by the same pipeline 
 | References | 60, of which 59 matched in OpenAlex or Crossref |
 | Final length | 5,118 words before the references |
 
+Code and all records (anonymized): https://anonymous.4open.science/r/preregistered-essays-56E6/
+
 Records for this entry are in `records/` (run = selection, polish = polishing). To check the logs:
 
 > `python3 records/verify_log.py records/run/log.jsonl records/polish/log.jsonl`
@@ -49,7 +51,9 @@ area and a few thesis statements, in progress reports), but gave no feedback on 
 and made no choice between candidates.
 
 Every model request and response is recorded verbatim in a hash-chained log, which
-is submitted with this report (section 9).
+is submitted with this report (section 9). The pipeline's code, all three entries'
+records, the pilot runs and the companion study's data are in an anonymized
+repository: **https://anonymous.4open.science/r/preregistered-essays-56E6/**
 
 ## 2. Who did what
 
@@ -407,7 +411,10 @@ frontier's misses are real works.
 
 ## 9. Records submitted
 
-Each entry's package contains its selection run and its polishing run:
+Everything below is in the anonymized repository
+(https://anonymous.4open.science/r/preregistered-essays-56E6/), along with the
+pipeline's code and tests. Each entry's package contains its selection run and its
+polishing run:
 
 - `run/log.jsonl` and `polish/log.jsonl`: every event in order. That covers the
   configuration, the pre-registration, every model request and response (system
