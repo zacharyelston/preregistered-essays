@@ -1,0 +1,294 @@
+{
+ "rule_sha256": "b4b2c2654abb3ff1b47531ea3257ab1490b6b2beb68d80c629ad18f1570f5c96",
+ "rounds": [
+  {
+   "round": 1,
+   "accepted": true,
+   "revised_wins": 6,
+   "of": 6,
+   "words": 5223,
+   "major_issues": 9
+  },
+  {
+   "round": 2,
+   "accepted": true,
+   "revised_wins": 6,
+   "of": 6,
+   "words": 5472,
+   "major_issues": 8
+  },
+  {
+   "round": 3,
+   "accepted": true,
+   "revised_wins": 6,
+   "of": 6,
+   "words": 5634,
+   "major_issues": 9
+  }
+ ],
+ "citations": {
+  "c0": {
+   "references": 51,
+   "unverified": 3,
+   "unverified_list": [
+    {
+     "authors": [
+      "Andrews",
+      "Birch"
+     ],
+     "title": "What has feelings?",
+     "year": 2023
+    },
+    {
+     "authors": [
+      "Chen",
+      "Arditi",
+      "Sleight",
+      "Evans",
+      "Lindsey"
+     ],
+     "title": "Persona vectors: Monitoring and controlling character traits in language models",
+     "year": 2025
+    },
+    {
+     "authors": [
+      "Damasio"
+     ],
+     "title": "Descartes' Error: Emotion, Reason, and the Human Brain",
+     "year": 1994
+    }
+   ]
+  },
+  "c1": {
+   "references": 51,
+   "unverified": 23,
+   "unverified_list": [
+    {
+     "authors": [
+      "Andrews",
+      "Birch"
+     ],
+     "title": "What has feelings?",
+     "year": 2023
+    },
+    {
+     "authors": [
+      "Chalmers"
+     ],
+     "title": "Could a large language model be conscious?",
+     "year": 2023
+    },
+    {
+     "authors": [
+      "Chen",
+      "Arditi",
+      "Sleight",
+      "Evans",
+      "Lindsey"
+     ],
+     "title": "Persona vectors: Monitoring and controlling character traits in language models",
+     "year": 2025
+    },
+    {
+     "authors": [
+      "Com\u0219a",
+      "Shanahan"
+     ],
+     "title": "Does it make sense to speak of introspection in large language models?",
+     "year": 2025
+    },
+    {
+     "authors": [
+      "Damasio"
+     ],
+     "title": "Descartes' Error: Emotion, Reason, and the Human Brain",
+     "year": 1994
+    },
+    {
+     "authors": [
+      "Fricker"
+     ],
+     "title": "Against gullibility",
+     "year": 1994
+    },
+    {
+     "authors": [
+      "Geiger",
+      "Lu",
+      "Icard",
+      "Potts"
+     ],
+     "title": "Causal abstractions of neural networks",
+     "year": 2021
+    },
+    {
+     "authors": [
+      "Geirhos",
+      "Jacobsen",
+      "Michaelis",
+      "Zemel",
+      "Brendel",
+      "Bethge",
+      "Wichmann"
+     ],
+     "title": "Shortcut learning in deep neural networks",
+     "year": 2020
+    },
+    {
+     "authors": [
+      "Goldberg"
+     ],
+     "title": "Relying on Others: An Essay in Epistemology",
+     "year": 2010
+    },
+    {
+     "authors": [
+      "Green",
+      "Michel"
+     ],
+     "title": "What might machines mean?",
+     "year": 2022
+    },
+    {
+     "authors": [
+      "James"
+     ],
+     "title": "What is an emotion?",
+     "year": 1884
+    },
+    {
+     "authors": [
+      "Kammerer",
+      "Frankish"
+     ],
+     "title": "What forms could introspective systems take? A research programme",
+     "year": 2023
+    },
+    {
+     "authors": [
+      "Korman"
+     ],
+     "title": "Debunking arguments",
+     "year": 2019
+    },
+    {
+     "authors": [
+      "Lackey"
+     ],
+     "title": "Learning from Words: Testimony as a Source of Knowledge",
+     "year": 2008
+    },
+    {
+     "authors": [
+      "Lin",
+      "Hilton",
+      "Evans"
+     ],
+     "title": "Teaching models to express their uncertainty in words",
+     "year": 2022
+    },
+    {
+     "authors": [
+      "Lindquist",
+      "Satpute",
+      "Gendron"
+     ],
+     "title": "Does language do more than communicate emotion?",
+     "year": 2015
+    },
+    {
+     "authors": [
+      "Lindsey"
+     ],
+     "title": "Emergent introspective awareness in large language models",
+     "year": 2025
+    },
+    {
+     "authors": [
+      "Mandelkern",
+      "Linzen"
+     ],
+     "title": "Do language models' words refer?",
+     "year": 2024
+    },
+    {
+     "authors": [
+      "Millikan"
+     ],
+     "title": "On swampkinds",
+     "year": 1996
+    },
+    {
+     "authors": [
+      "Perez",
+      "Long"
+     ],
+     "title": "Towards evaluating AI systems for moral status using self-reports",
+     "year": 2023
+    },
+    {
+     "authors": [
+      "Plunkett",
+      "Morris",
+      "Reddy",
+      "Morales"
+     ],
+     "title": "Self-interpretability: LLMs can describe complex internal processes that drive their decisions, and improve with training",
+     "year": 2025
+    },
+    {
+     "authors": [
+      "Prinz"
+     ],
+     "title": "Gut Reactions: A Perceptual Theory of Emotion",
+     "year": 2004
+    },
+    {
+     "authors": [
+      "Wittgenstein"
+     ],
+     "title": "Philosophical Investigations",
+     "year": 1953
+    }
+   ]
+  }
+ },
+ "words": 5634,
+ "final_sha256": "0b61294c1bad00000e21a557770c22c7314042c3d6ffff0527185b02fbd1b23d",
+ "finished_at": "2026-10-29T01:20:56-0400",
+ "citations_final_check": {
+  "of": "c1.refs",
+  "references": 51,
+  "verified": 48,
+  "unchecked": 0,
+  "unverified": [
+   {
+    "authors": [
+     "Andrews",
+     "Birch"
+    ],
+    "title": "What has feelings?",
+    "year": 2023
+   },
+   {
+    "authors": [
+     "Chen",
+     "Arditi",
+     "Sleight",
+     "Evans",
+     "Lindsey"
+    ],
+    "title": "Persona vectors: Monitoring and controlling character traits in language models",
+    "year": 2025
+   },
+   {
+    "authors": [
+     "Damasio"
+    ],
+    "title": "Descartes' Error: Emotion, Reason, and the Human Brain",
+    "year": 1994
+   }
+  ],
+  "year_notes": 3
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "rule_sha256": "599b6f6493be11747e91347901aaa6c6c12fc766d234173231f9e27c98734924",
+ "ranking": [
+  {
+   "id": "t01",
+   "score": 0.6,
+   "gate_failures": [],
+   "metrics": {
+    "words": 5372,
+    "steps": 25,
+    "critic_flag_rate": 0.0,
+    "critic_clean": 1.0,
+    "novelty": 0.5,
+    "objection_addressed": 0.5,
+    "grounded": null
+   }
+  },
+  {
+   "id": "t02",
+   "score": 0.6,
+   "gate_failures": [],
+   "metrics": {
+    "words": 5957,
+    "steps": 25,
+    "critic_flag_rate": 0.0,
+    "critic_clean": 1.0,
+    "novelty": 0.5,
+    "objection_addressed": 0.5,
+    "grounded": null
+   }
+  }
+ ],
+ "winner": "t01",
+ "critic_stubbed": false,
+ "log_head": "d6cf87bb315c5a845e00268fa04ad40be3db3b415ce767670207c86a55bd1781",
+ "selected_at": "2026-10-28T21:36:58-0400"
+}

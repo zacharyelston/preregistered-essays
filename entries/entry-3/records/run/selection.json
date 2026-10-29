@@ -1,0 +1,218 @@
+{
+ "rule_sha256": "f5e71abbef0cbee86d2fda6469102a8bf2d243dcf1a80311a57cf545a2541f7a",
+ "ranking": [
+  {
+   "id": "t02",
+   "score": 0.6,
+   "gate_failures": [],
+   "metrics": {
+    "words": 4395,
+    "steps": 24,
+    "critic_flag_rate": 0.0,
+    "critic_clean": 1.0,
+    "novelty": 0.5,
+    "objection_addressed": 0.5,
+    "grounded": null
+   }
+  },
+  {
+   "id": "t03",
+   "score": 0.6,
+   "gate_failures": [],
+   "metrics": {
+    "words": 2947,
+    "steps": 24,
+    "critic_flag_rate": 0.0,
+    "critic_clean": 1.0,
+    "novelty": 0.5,
+    "objection_addressed": 0.5,
+    "grounded": null
+   }
+  },
+  {
+   "id": "t16",
+   "score": 0.6,
+   "gate_failures": [],
+   "metrics": {
+    "words": 3200,
+    "steps": 22,
+    "critic_flag_rate": 0.0,
+    "critic_clean": 1.0,
+    "novelty": 0.5,
+    "objection_addressed": 0.5,
+    "grounded": null
+   }
+  }
+ ],
+ "winner": "t02",
+ "critic_stubbed": false,
+ "final_pairwise": {
+  "winner": "t02",
+  "wins": {
+   "t02": 11,
+   "t03": 1,
+   "t16": 6
+  },
+  "order": [
+   "t02",
+   "t16",
+   "t03"
+  ],
+  "comparisons": 18,
+  "unusable": 0,
+  "slot_picks": {
+   "first": 7,
+   "second": 11
+  },
+  "verdicts": [
+   {
+    "first": "t02",
+    "second": "t03",
+    "round": 0,
+    "better": "A",
+    "reason": "A makes the more valuable contribution because it gives a sharper, more applicable diagnostic: a genuine social fact is identified by a shared space of second-person answerability, with a five-condition test covering reason-demands, exceptions, changes of standing, and corrective maintenance. Although B raises the important diachronic problem of drift and change, its central criterion of 'publicly intelligible change' remains less precise and more vulnerable to the circularity objection: to decide whether an alteration is intelligible as a change in a social fact, one still needs an independent way to identify the normative status of the prior regularity. A at least turns a familiar cluster of ideas in Hart, Strawson, and Bratman into a clearer test for distinguishing institutional or normative social facts from mere behavioral regularities.",
+    "winner": "t02"
+   },
+   {
+    "first": "t02",
+    "second": "t03",
+    "round": 1,
+    "better": "A",
+    "reason": "Essay A makes the more valuable contribution because it gives a clearer, more defensible criterion for distinguishing genuine social facts from mere regularities: a regularity is normative when deviations trigger recurrent second-person reason-demands, admit assessable excuses or justifications, alter the agent's standing, and are maintained by corrective practices. This directly confronts the circularity objection and connects well with Hart, Strawson, Searle, Lewis, Bratman, and the broader second-personal responsibility literature. Essay B usefully raises drift and identity over time, and its treatment of unreflective change is worth taking seriously, but its publicly intelligible change criterion is vaguer and more vulnerable to circularity: to decide whether an alteration is intelligible as a change to the fact itself, one must already possess the identity conditions the criterion claims to supply through a shared normative attitude. Its markers of appeal, criticism, revision, and accountability are suggestive but less procedurally useful than A's conditions. Thus A is more philosophically productive, though both essays need further work on diachronic change and norm emergence.",
+    "winner": "t02"
+   },
+   {
+    "first": "t02",
+    "second": "t03",
+    "round": 2,
+    "better": "A",
+    "reason": "A gives a more precise diagnostic for separating institutional/normative facts from mere regularities: second-person reason-demands, a practice of exceptions, changes in standing, and corrective maintenance. It directly engages the circularity objection, concedes that no wholly non-social marker is available, and proposes a structurally observable test. B's 'publicly intelligible change' is suggestive but underdetermined: if a fact's identity is supplied by a shared normative attitude, then any change in that attitude is by definition a change in the fact, and 'public intelligibility' does not supply an independent test. A is still close to Hart, Strawson, Searle, and Lewis, but it offers a clearer, more usable criterion and concrete cases; B's diachronic focus is interesting but its core argument is vaguer and less defensible.",
+    "winner": "t02"
+   },
+   {
+    "first": "t03",
+    "second": "t02",
+    "round": 0,
+    "better": "B",
+    "reason": "B makes the more valuable contribution because it turns the familiar distinction between social facts and mere regularities into a clearer diagnostic criterion: a shared space of second-person answerability. It distinguishes violations from failed predictions, spells out five observable structural features, and uses them to answer the circularity objection more directly than A does. A offers a useful treatment of drift and unreflective change, but its central claim that a social fact is one whose alteration is publicly intelligible as a change to the fact itself remains underdetermined and close to circular, because a public space of reasons or shared normative attitude is not independently characterized. B is not perfect, since the reason-demand and standing conditions are already normative and the account may underplay quiet normative fade-out, but it gives social ontology a more precise, less question-begging tool for distinguishing institutional facts from regularities.",
+    "winner": "t02"
+   },
+   {
+    "first": "t03",
+    "second": "t02",
+    "round": 1,
+    "better": "B",
+    "reason": "B makes the more valuable contribution. Its central criterion—social facts as shared spaces of normative answerability, where deviations invite second-person reason-demands, exceptions, and changes in standing—gives social ontology a clearer diagnostic than A's 'publicly intelligible change'. A's criterion, that a change is intelligible as a change to the fact itself, is easily read as circular, because one must already know the fact's identity and normative status to assess whether the change belongs to that fact; its list of markers, such as appeal, criticism, and revision, does not sufficiently separate institutional facts from regularities that can be narrated in normative language. B confronts the circularity objection directly and supplies a five-condition test involving a standard, reason-demand, assessable answers, standing change, and corrective maintenance. This is more operational and less purely lexical. B also situates the account in relevant second-person and normativity literature, including Strawson's reactive attitudes, Scanlon's reasons, Austin's illocutionary force, and Hart's internal point of view, making the distinction between violations and failed predictions sharper. Although B's test is not perfectly non-circular and may need refinement for weak or contested norms, it advances the literature more than A's broader, less sharply formulated drift analysis.",
+    "winner": "t02"
+   },
+   {
+    "first": "t03",
+    "second": "t02",
+    "round": 2,
+    "better": "B",
+    "reason": "Essay B makes the more valuable contribution because it develops a sharper, more philosophically useful criterion for distinguishing social facts from mere regularities: a genuine social fact constitutes a shared second-person space of normative answerability, in which deviations are treated as potential violations, can be excused or justified, and may alter standing. B does not merely restate Searle, Lewis, or Bicchieri; it integrates Hart’s internal point of view, Strawson’s reactive attitudes, Austin’s speech-act framework, and Bratman’s account of common intention to explain what makes a regularity more than a pattern. Its five-part test—regularity, second-person reason-demand, assessable answers, change in standing, and maintenance through corrective practices—is more concrete and diagnostically useful than Essay A’s criterion of public intelligibility. A’s central notion, that a social fact is one whose alteration is publicly intelligible as a change to the fact itself, remains too programmatic and vulnerable to the charge that it either presupposes the normative or institutional status it is supposed to identify, or is satisfied by later narration of any stable regularity. A’s discussion of drift is useful, but it mostly applies standard accounts of institutional facts and social norms without resolving the core objection as clearly as B attempts to do. B therefore advances the philosophical problem more directly, even if its answerability criterion cannot be made wholly non-social.",
+    "winner": "t02"
+   },
+   {
+    "first": "t02",
+    "second": "t16",
+    "round": 0,
+    "better": "A",
+    "reason": "A makes the more valuable contribution because it turns a familiar intuition about institutions into a more usable criterion: a regularity is social in the strong sense when deviations can trigger second-person reason-demands, be assessed as excuses or justifications, and alter standings. That criterion usefully connects Hart's internal point of view, Strawson's reactive attitudes, and Searle's status functions, and it is more precise than B's appeal to a public practice of justification, exception, and change. A's argument is not wholly non-circular, since recognizing a reason-demand already relies on normative concepts, but it at least identifies lower-level features that can be observed in particular cases. B is more ambitious, but its thesis that a genuine social fact is a coincidental regularity is overstrong for directly created institutions, and its reply that the presupposition is local does not explain why the background public practice is normative rather than just another causally stable habit.",
+    "winner": "t02"
+   },
+   {
+    "first": "t02",
+    "second": "t16",
+    "round": 1,
+    "better": "B",
+    "reason": "Both essays address the same well-known distinction, but B makes the more substantial philosophical contribution: it sharpens the issue by contrasting causal continuity with normative integration and explains how social facts can persist and remain identical through changes in participants, tokens, and causal breaks. A offers a more detailed diagnostic test, but that test remains close to the normative vocabulary it is meant to detect and does not do much to explain persistence, identity, or the transition from regularity to institution. B’s account of public justification, exception, and change is less fully operationalized, but it engages the deeper explanatory problem more directly.",
+    "winner": "t16"
+   },
+   {
+    "first": "t02",
+    "second": "t16",
+    "round": 2,
+    "better": "A",
+    "reason": "A offers the more useful philosophical contribution because it turns a familiar Hart/Strawson/Searle intuition into a concrete diagnostic: a regularity counts as a genuine social fact when deviations are treated as warranting second-person reason-demands, can be reclassified by public excuses or exceptions, alter the agent's standing, and are maintained by corrective practices. That gives social ontology a workable test for the transition from mere regularity to institution. B's claim that persistence is explained by normative integration rather than causal continuity is interesting but under-argued and somewhat re-descriptive; its 'public practice of justification, exception, and change' is not independently identifiable, and the circularity reply merely relocates the problem to a higher-order normative practice. B also awkwardly treats a genuine social fact as a coincidental regularity, whereas A's answerability framing is ontologically cleaner.",
+    "winner": "t02"
+   },
+   {
+    "first": "t16",
+    "second": "t02",
+    "round": 0,
+    "better": "B",
+    "reason": "B makes the more valuable contribution because it gives a sharper, more usable criterion for distinguishing social facts from mere regularities: a shared space of second-person answerability, in which deviations warrant reason-demands, can be excused or justified, and change the parties' standing. By drawing on Strawson, Scanlon, Bratman, and Austin, it formulates a five-part diagnostic that is more precise than A's broad appeal to a public practice of justification, exception, and change. A's interesting claim that social facts are explained by normative integration rather than causal continuity is under-argued: the public practice itself is a socially and causally sustained regularity, and A's local-presupposition reply does not explain why the practice's causal stability is not the relevant explanatory variable. B confronts the circularity problem more directly, concedes that no wholly non-social marker can exist, and identifies lower-level interactional features that can be observed before the classification is made. That makes its contribution more philosophically precise and more useful for social ontology.",
+    "winner": "t02"
+   },
+   {
+    "first": "t16",
+    "second": "t02",
+    "round": 1,
+    "better": "B",
+    "reason": "B makes the more valuable contribution because it gives a more general and philosophically precise criterion for distinguishing genuine social facts from mere behavioral regularities: the constitution of a shared space of second-personal answerability, with reason-demands, exceptions, and changes in standing. Its violation/failed-prediction distinction and five-condition diagnostic are more operationalizable and better suited to handling the circularity objection than A's more abstract claim that social persistence is explained by normative integration rather than causal continuity. A's account is narrower, since it frames social facts in terms of incorporated regularities, and its explanatory contrast risks restating that a pattern has normative status without resolving the explanatory problem as sharply.",
+    "winner": "t02"
+   },
+   {
+    "first": "t16",
+    "second": "t02",
+    "round": 2,
+    "better": "B",
+    "reason": "B makes the more valuable contribution because it gives a sharper, more actionable criterion for the difference between social facts and mere regularities: a genuine social fact is a shared space of second-personal answerability, in which deviations are treated as potential violations, can be met with assessable excuses or justifications, and can alter standing. Its five-condition test—regularity, reason-demand, assessable answers, standing-change, and maintenance by corrective practice—does more than A's triad of justification, exception, and change, and it engages the circularity objection more carefully by requiring independence from the particular classification rather than from all sociality. A's account is less developed: the public practice that supposedly explains a regularity's social-fact status is itself a social fact, and A does not show how a pattern acquires normative status except by assuming the very practices it wants to explain. Its claim that persistence is explained 'rather than' by causal continuity is also doubtful, since normative persistence is normally at least partly causal, as Bicchieri and Elster recognize. B's test is still vulnerable to the charge that reason-demands already presuppose normativity, but it provides a clearer diagnostic, a better account of violation versus failed prediction, and a more concrete advance in the social-ontology and second-personal-normativity literature.",
+    "winner": "t02"
+   },
+   {
+    "first": "t03",
+    "second": "t16",
+    "round": 0,
+    "better": "B",
+    "reason": "B makes the more valuable contribution because it develops a genuinely explanatory account of social-fact persistence and identity: a pattern counts as a genuine social fact when it is incorporated into a public practice of justification, exception, and change, so that its continuation is explained by normative integration rather than causal continuity of tokens. This is sharper and more philosophically productive than A’s criterion, which says a social fact is one whose alteration is publicly intelligible as a change to the fact itself. That A-criterion is clarifying but remains underdetermined and somewhat circular: to treat a change as a change “to the fact itself,” one must already have the normative identity conditions of the fact, and A’s appeal to a public space of reasons largely restates standard normative/institutional ontology without supplying a more independent discriminative test. B, by contrast, spells out the explanatory contrast between (C) causal continuity and (N) public normative integration, gives a useful three-operation test, explains how social facts persist through causal breaks (laws, property, meetings, companies), and directly engages the circularity/collapse objection by distinguishing local presupposition, causal realization, and explanatory variable. Its use of Hart, Elster, Gilbert, Bratman, and Raz makes the account more precise. B is not flawless—the local-presupposition response leaves open the deeper question of how normative practices themselves arise, and the “coincidental regularity” framing is more suggestive than strictly necessary—but its contribution to understanding the explanatory status of social facts is stronger and more consequential than A’s.",
+    "winner": "t16"
+   },
+   {
+    "first": "t03",
+    "second": "t16",
+    "round": 1,
+    "better": "B",
+    "reason": "B makes the more valuable contribution. It formulates a sharper explanatory distinction: a pattern's social-fact status and persistence are explained by its incorporation into a public grammar of justification, exception, and change, rather than by causal continuity. The three operations, the contrast between causal realization and explanatory variable, and the local-presupposition reply to the circularity objection give the essay a substantive argument. A is clear but largely restates familiar claims from Searle, Lewis, Bicchieri, Gilbert, and Bratman; its public-intelligibility criterion is close to a restatement of shared normative attitude and does not adequately explain how to determine whether drift has changed the normative fact or only behavior. B's treatment of identity over time, and its use of Hartian secondary rules and Searlean status functions to explain why public practices are not viciously presuppositional, are more philosophically productive, even if B's initial phrasing as incorporated coincidental regularities is somewhat overbroad.",
+    "winner": "t16"
+   },
+   {
+    "first": "t03",
+    "second": "t16",
+    "round": 2,
+    "better": "B",
+    "reason": "Essay B makes the more valuable contribution because it offers a sharper explanatory contrast between causal continuity and normative integration, specifies the public operations of justification, exception, and change, and more systematically addresses the circularity objection by distinguishing local presupposition from vicious regress. Essay A's core criterion, that a social fact is one whose alteration is publicly intelligible as a change to the fact itself, is closer to restating social status than independently discriminating norms from mere regularities; its treatment of drift is useful but less philosophically precise. B also does better work on identity over causal breaks and the difference between causal realization and normative explanation, though its 'coincidental regularity' framing is potentially misleading for created institutional facts and its appeal to public practices still inherits standard Searle/Hart-style assumptions. Overall, B advances the debate on the persistence and explanation of social facts more clearly.",
+    "winner": "t16"
+   },
+   {
+    "first": "t16",
+    "second": "t03",
+    "round": 0,
+    "better": "B",
+    "reason": "B offers the more valuable contribution because it addresses a real problem A leaves underdeveloped: how social facts can change by unreflective drift without public announcement, vote, or formal amendment. Its three-way distinction—behavior drifts while the shared normative standard persists, the constitutive normative attitude itself drifts, or a mere descriptive regularity drifts—gives a useful analytic for institutional change and is grounded in Searle's constitutive rules, Bicchieri's normative and empirical expectations, Lewisian common expectations, and Ostromian drift. A's account is clearer but less novel and overstates its case: defining a genuine social fact as a 'coincidental regularity' incorporated into public justification, exception, and change is too origin-dependent for instituted facts such as laws, offices, and currency, and its reply to the circularity/causal-continuity objection largely restates that norms are socially maintained without explaining how a non-normative regularity acquires normative status. Both essays rehearse much of the standard Searle/Hart/Lewis/Gilbert/Bicchieri landscape, but B's treatment of change and drift advances the philosophical discussion more.",
+    "winner": "t03"
+   },
+   {
+    "first": "t16",
+    "second": "t03",
+    "round": 1,
+    "better": "A",
+    "reason": "A is the better contribution, though neither paper solves the foundational problem of how a public normative space emerges from non-normative behavior. A gives a clearer criterion: a genuine social fact is a regularity incorporated into a public practice of justification, exception, and change. It also directly engages the central objection, namely that the background public practice is itself a causal social fact. Its reply that the presupposition is local rather than vicious, and that causal realization is not the same as explanatory collapse, is philosophically more precise than B's response. A's account still has serious limits: it does not explain the status of the foundational public practice, and its anti-causalist wording overstates the case for Lewisian conventions, which persist through coordination, expectations, and incentives. B raises an important issue about gradual drift and identity over time, and its taxonomy of behavioral drift, normative drift, and mere descriptive drift is potentially useful. But B's core criterion is less determinate and more circular: if a social fact is 'one whose alteration is publicly intelligible as a change to the fact itself', the criterion already assumes the identity conditions of social facts that it is meant to establish. B's appeal to a public space of reasons, shared normative attitudes, and Bicchieri's norm components does not supply an independent test for when drift in attitude changes the fact rather than merely changes behavior. On balance, A's argument is more rigorous, and its framework, despite familiar debts to Hart, Searle, and Raz, makes the more valuable contribution.",
+    "winner": "t16"
+   },
+   {
+    "first": "t16",
+    "second": "t03",
+    "round": 2,
+    "better": "A",
+    "reason": "A makes the more valuable contribution because it states a more determinate criterion—in the Hartian sense, incorporation into a public practice of justification, exception, and change—and directly addresses the central objection that the explaining practice is itself social and causally sustained. Its local-presupposition response and distinction between causal realization and explanatory variable are useful, even if A's 'rather than causal continuity' claim is somewhat strong. B's analysis of unannounced drift is a real strength, but its publicly intelligible criterion is too vague and question-begging: it does not independently identify the shared normative attitude required to distinguish social facts from merely narrated regularities.",
+    "winner": "t16"
+   }
+  ],
+  "tie_at_top": false
+ },
+ "decided_by": "pairwise",
+ "log_head": "3a20804570478d98d24d77cead08460b78d403e93cdb45acad030546b2a32eb6",
+ "selected_at": "2026-10-29T05:28:17-0400"
+}

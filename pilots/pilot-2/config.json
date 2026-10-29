@@ -1,0 +1,26 @@
+{
+ "area": null,
+ "arm": "frontier",
+ "avoid_areas": [
+  "Philosophy of mind / epistemology of introspection (When a system's self-reports about its inner states are produced by a process trained to reproduce human self-reports, can those reports still be evidence that it has the states they describe? And does the answer threaten human introspective testimony too, given that humans also learn their mental vocabulary and reporting habits from a linguistic community?)"
+ ],
+ "critic": {
+  "base_model": "phi-4",
+  "hat_model": "fallacy-restraint",
+  "key_env": null,
+  "kind": "openai-compat",
+  "url": "http://localhost:8001/api/v1/namespaces/[redacted-project]/services/[redacted-project]-serve:8000/proxy"
+ },
+ "myvect": null,
+ "objector": {
+  "effort": "high",
+  "kind": "queue",
+  "model": "claude-opus-5-5"
+ },
+ "objector_same_model_as_writer": true,
+ "writer": {
+  "effort": "high",
+  "kind": "queue",
+  "model": "claude-opus-5-5"
+ }
+}

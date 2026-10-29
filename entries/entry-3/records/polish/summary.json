@@ -1,0 +1,138 @@
+{
+ "rule_sha256": "b4b2c2654abb3ff1b47531ea3257ab1490b6b2beb68d80c629ad18f1570f5c96",
+ "rounds": [
+  {
+   "round": 1,
+   "accepted": true,
+   "revised_wins": 6,
+   "of": 6,
+   "words": 4189,
+   "major_issues": 6
+  },
+  {
+   "round": 2,
+   "accepted": true,
+   "revised_wins": 6,
+   "of": 6,
+   "words": 5278,
+   "major_issues": 5
+  },
+  {
+   "round": 3,
+   "accepted": true,
+   "revised_wins": 6,
+   "of": 6,
+   "words": 5509,
+   "major_issues": 6
+  }
+ ],
+ "citations": {
+  "c0": {
+   "references": 17,
+   "unverified": 0,
+   "unchecked": 8,
+   "unverified_list": []
+  }
+ },
+ "words": 5406,
+ "final_sha256": "bb35ec6e90677bd2a9eb5d71da4e7c4fb1d4ca9a7b9bf9d8898682cd28e07960",
+ "finished_at": "2026-10-29T07:48:18-0400",
+ "citations_final_check": {
+  "of": "c0.refs",
+  "references": 17,
+  "verified": 12,
+  "unchecked": 0,
+  "unverified": [
+   {
+    "authors": [
+     "Bratman"
+    ],
+    "title": "Sharing intentions",
+    "year": 1992
+   },
+   {
+    "authors": [
+     "Geis"
+    ],
+    "title": "Commitment and consequence",
+    "year": 1979
+   },
+   {
+    "authors": [
+     "Olson"
+    ],
+    "title": "Group Belief: A New Theory",
+    "year": 2015
+   },
+   {
+    "authors": [
+     "Searle"
+    ],
+    "title": "Standards of Cooperation: The Adam Smith Lecture",
+    "year": 2010
+   },
+   {
+    "authors": [
+     "Tuomela"
+    ],
+    "title": "The Elements of Philosophy: A Social Cognitive Approach",
+    "year": 2013
+   }
+  ],
+  "year_notes": 8
+ },
+ "citations_valid_fix": {
+  "sent_to_writer": [
+   {
+    "authors": [
+     "Bratman"
+    ],
+    "title": "Sharing intentions",
+    "year": 1992
+   },
+   {
+    "authors": [
+     "Geis"
+    ],
+    "title": "Commitment and consequence",
+    "year": 1979
+   },
+   {
+    "authors": [
+     "Olson"
+    ],
+    "title": "Group Belief: A New Theory",
+    "year": 2015
+   },
+   {
+    "authors": [
+     "Searle"
+    ],
+    "title": "Standards of Cooperation: The Adam Smith Lecture",
+    "year": 2010
+   },
+   {
+    "authors": [
+     "Tuomela"
+    ],
+    "title": "The Elements of Philosophy: A Social Cognitive Approach",
+    "year": 2013
+   }
+  ],
+  "references_after": 13,
+  "verified_after": 12,
+  "unchecked_after": 0,
+  "unverified_after": [
+   {
+    "authors": [
+     "Bratman"
+    ],
+    "title": "Sharing intentions",
+    "year": 1992
+   }
+  ],
+  "from_sha256": "6478b69a99f491ae7dfbfb69073459ac3103ceee6ca6d41d326fe9247d2df543",
+  "to_sha256": "bb35ec6e90677bd2a9eb5d71da4e7c4fb1d4ca9a7b9bf9d8898682cd28e07960",
+  "words": 5406
+ }
+}

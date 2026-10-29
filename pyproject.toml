@@ -1,0 +1,13 @@
+[project]
+name = "preregistered-essays"
+version = "1.0.0"
+description = "A pre-registered, fully logged pipeline for AI-written philosophy essays"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+api = ["anthropic>=2.3"]
+test = ["pytest"]
+
+[tool.setuptools]
+packages = ["essay"]

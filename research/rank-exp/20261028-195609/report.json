@@ -1,0 +1,181 @@
+{
+ "run": "20261028-195609",
+ "frontier_self_tau": [
+  0.716
+ ],
+ "frontier_top": [
+  "t02",
+  "t01"
+ ],
+ "frontier_pooled": [
+  "t02",
+  "t01",
+  "t06",
+  "t07",
+  "t17",
+  "t11",
+  "t18",
+  "t20",
+  "t15",
+  "t05",
+  "t09",
+  "t04",
+  "t10",
+  "t19",
+  "t16",
+  "t14",
+  "t03",
+  "t12",
+  "t13",
+  "t08"
+ ],
+ "frontier_each_vs_pooled": [
+  0.579,
+  0.516,
+  0.547,
+  0.568
+ ],
+ "rows": [
+  {
+   "model": "devstral",
+   "variant": "list",
+   "tau": 0.137,
+   "top2_overlap": 1,
+   "tau_vs_fixed_ref": 0.126,
+   "tau_each_ref": [
+    0.158,
+    0.063,
+    0.105,
+    0.168
+   ],
+   "unusable": 0
+  },
+  {
+   "model": "devstral",
+   "variant": "listshuf5",
+   "tau": -0.232,
+   "top2_overlap": 0,
+   "tau_vs_fixed_ref": -0.221,
+   "tau_each_ref": [
+    -0.147,
+    -0.263,
+    -0.137,
+    -0.116
+   ],
+   "unusable": 0
+  },
+  {
+   "model": "devstral",
+   "variant": "listshuf5r",
+   "tau": 0.242,
+   "top2_overlap": 2,
+   "tau_vs_fixed_ref": 0.147,
+   "tau_each_ref": [
+    0.158,
+    0.126,
+    0.232,
+    0.379
+   ],
+   "unusable": 0
+  },
+  {
+   "model": "phi-4",
+   "variant": "list-lenient",
+   "tau": 0.063,
+   "top2_overlap": 0,
+   "tau_vs_fixed_ref": 0.074,
+   "tau_each_ref": [
+    0.084,
+    0.053,
+    0.032,
+    0.179
+   ],
+   "unusable": 0
+  },
+  {
+   "model": "phi-4",
+   "variant": "list",
+   "tau": null
+  },
+  {
+   "model": "phi-4",
+   "variant": "listshuf5-lenient",
+   "tau": -0.2,
+   "top2_overlap": 0,
+   "tau_vs_fixed_ref": -0.042,
+   "tau_each_ref": [
+    -0.011,
+    -0.147,
+    -0.253,
+    -0.147
+   ],
+   "unusable": 0
+  },
+  {
+   "model": "phi-4",
+   "variant": "listshuf5",
+   "tau": -0.021,
+   "top2_overlap": 1,
+   "tau_vs_fixed_ref": 0.053,
+   "tau_each_ref": [
+    0.084,
+    -0.074,
+    0.011,
+    -0.074
+   ],
+   "unusable": 3
+  },
+  {
+   "model": "phi-4",
+   "variant": "listshuf5r",
+   "tau": 0.263,
+   "top2_overlap": 0,
+   "tau_vs_fixed_ref": 0.295,
+   "tau_each_ref": [
+    0.326,
+    0.211,
+    0.063,
+    0.189
+   ],
+   "unusable": 0
+  },
+  {
+   "model": "qwen-low",
+   "variant": "listshuf5",
+   "tau": -0.116,
+   "top2_overlap": 1,
+   "tau_vs_fixed_ref": -0.105,
+   "tau_each_ref": [
+    -0.095,
+    -0.105,
+    -0.021,
+    -0.063
+   ],
+   "unusable": 0
+  },
+  {
+   "model": "qwen-off",
+   "variant": "listshuf5",
+   "tau": 0.021,
+   "top2_overlap": 1,
+   "tau_vs_fixed_ref": -0.053,
+   "tau_each_ref": [
+    -0.042,
+    -0.053,
+    0.074,
+    0.053
+   ],
+   "unusable": 0
+  }
+ ],
+ "frontier_shuffled": {
+  "self_tau": [
+   0.663
+  ],
+  "top": [
+   "t01",
+   "t02"
+  ],
+  "tau_fixed_vs_shuffled": 0.411
+ }
+}

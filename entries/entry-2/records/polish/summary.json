@@ -1,0 +1,109 @@
+{
+ "rule_sha256": "b4b2c2654abb3ff1b47531ea3257ab1490b6b2beb68d80c629ad18f1570f5c96",
+ "rounds": [
+  {
+   "round": 1,
+   "accepted": true,
+   "revised_wins": 6,
+   "of": 6,
+   "words": 4696,
+   "major_issues": 7
+  },
+  {
+   "round": 2,
+   "accepted": true,
+   "revised_wins": 6,
+   "of": 6,
+   "words": 5556,
+   "major_issues": 7
+  },
+  {
+   "round": 3,
+   "accepted": true,
+   "revised_wins": 6,
+   "of": 6,
+   "words": 5118,
+   "major_issues": 8
+  }
+ ],
+ "citations": {
+  "c0": {
+   "references": 60,
+   "unverified": 2,
+   "unchecked": 0,
+   "unverified_list": [
+    {
+     "authors": [
+      "Dawid"
+     ],
+     "title": "Comment on Stockmarr, \"Likelihood ratios for evaluating DNA evidence when the suspect is found through a database search\"",
+     "year": 2001
+    },
+    {
+     "authors": [
+      "Worrall"
+     ],
+     "title": "New evidence for old",
+     "year": 2002
+    }
+   ]
+  },
+  "c1": {
+   "references": 58,
+   "unverified": 0,
+   "unchecked": 0,
+   "unverified_list": []
+  }
+ },
+ "words": 5118,
+ "final_sha256": "5ff297960b5b0be20d86638e285ba321b8ff2afcb1182872212158b88250c3e5",
+ "finished_at": "2026-10-29T02:41:44-0400",
+ "citation_fix_reverted": {
+  "from_sha256": "1022fbfc3defada15d152c148c0347a92abfab8a22e55d8bd1cf5c7f06d474f7",
+  "to_sha256": "ffb7aaedab9f4950acf0183241dff81be713eded4c752935bbd44b0d9b05b6b4",
+  "reason": "The fix pass removed Dawid (2001) and Worrall (2002) because Crossref did not match them while OpenAlex was refusing requests (keyless daily budget exhausted). Under the corrected rule (a8f... / a47953a: a miss with any source down is unchecked) neither would have been sent to the writer. To be re-verified with OpenAlex after its budget resets.",
+  "words": 5118
+ },
+ "citations_final_check": {
+  "of": "c0.refs",
+  "references": 60,
+  "verified": 59,
+  "unchecked": 0,
+  "unverified": [
+   {
+    "authors": [
+     "Worrall"
+    ],
+    "title": "New evidence for old",
+    "year": 2002
+   }
+  ],
+  "year_notes": 2
+ },
+ "citations_valid_fix": {
+  "sent_to_writer": [
+   {
+    "authors": [
+     "Worrall"
+    ],
+    "title": "New evidence for old",
+    "year": 2002
+   }
+  ],
+  "references_after": 60,
+  "verified_after": 59,
+  "unchecked_after": 0,
+  "unverified_after": [
+   {
+    "authors": [
+     "Worrall"
+    ],
+    "title": "New evidence for old",
+    "year": 2002
+   }
+  ],
+  "from_sha256": "ffb7aaedab9f4950acf0183241dff81be713eded4c752935bbd44b0d9b05b6b4",
+  "to_sha256": "5ff297960b5b0be20d86638e285ba321b8ff2afcb1182872212158b88250c3e5",
+  "words": 5118
+ }
+}

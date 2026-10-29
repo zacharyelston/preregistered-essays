@@ -1,0 +1,24 @@
+{
+ "area": null,
+ "arm": "frontier",
+ "avoid_areas": [],
+ "critic": {
+  "base_model": "phi-4",
+  "hat_model": "fallacy-restraint",
+  "key_env": null,
+  "kind": "openai-compat",
+  "url": "http://localhost:8001/api/v1/namespaces/[redacted-project]/services/[redacted-project]-serve:8000/proxy"
+ },
+ "myvect": null,
+ "objector": {
+  "effort": "high",
+  "kind": "queue",
+  "model": "claude-opus-5-5"
+ },
+ "objector_same_model_as_writer": true,
+ "writer": {
+  "effort": "high",
+  "kind": "queue",
+  "model": "claude-opus-5-5"
+ }
+}

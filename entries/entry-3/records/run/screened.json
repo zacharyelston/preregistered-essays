@@ -1,0 +1,226 @@
+[
+ {
+  "id": "t02",
+  "title": "Answerability Space",
+  "thesis": "A genuine social fact constitutes a shared space of normative answerability, in which deviation is treated as a violation that may be excused, justified, or punished, whereas a coincidental regularity only yields failed expectations.",
+  "argument_sketch": "When someone skips a queue, we ask for an excuse, blame them, or classify the act as impolite; these responses presuppose that the queueing practice is a norm. When someone does not have coffee at seven, we merely revise a prediction, because the regularity has no authority over them. Institutional facts are therefore marked by the availability of a vocabulary of violation, exception, and sanction. A mere pattern lacks this because it cannot make an agent answerable for failing to conform. The distinction is not that all institutions sanction, but that they make answerability possible.",
+  "why_new": "It shifts the criterion from sanctions or beliefs to the structural feature of answerability, explaining why some norm-like regularities are institutional without heavy punishment.",
+  "objection": {
+   "objection": "The criterion is question-begging: the argument treats the availability of a vocabulary of violation, exception, and sanction as the mark of a genuine social or institutional fact, but those attitudes are themselves social facts. To say that skipping a queue is answerable while not having coffee at seven is merely a failed prediction, one must already recognize the queueing practice as an institution; the argument never supplies an independent test for when a regularity has become normative.",
+   "severity": 4,
+   "rationale": "If unanswered, the thesis cannot discriminate between norms and mere regularities without assuming the very distinction it seeks to establish. It also overextends a feature of some strong norms to all social and institutional facts, ignoring answerability-neutral status functions and weak conventions in Searle 1995 and Lewis 1969. The result is a phenomenological label rather than an explanatory account of what makes a fact social."
+  },
+  "novelty": {
+   "verdict": "partly",
+   "closest_work": [
+    {
+     "work": "John Searle, The Construction of Social Reality (1995)",
+     "relation": "Closest to the social-ontological thesis: institutional/social facts are not brute regularities but deontic statuses that confer authority, obligations, and sanctions."
+    },
+    {
+     "work": "John Rawls, 'Two Concepts of Rules' (1954)",
+     "relation": "Closest to the argument: rules/norms are distinguished from mere regularities by being violated, justified, criticized, and sanctionable."
+    },
+    {
+     "work": "H. L. A. Hart, The Concept of Law (1961)",
+     "relation": "Supports the 'answerability' point by contrasting social rules with habits via the internal point of view, criticism, and sanctions."
+    }
+   ],
+   "note": "The exact formulation as a 'shared space of normative answerability' is not a canonical phrase I can locate, but the substance—social facts are normative answerability practices, not failed expectations—is already published in the rule/regularity and social ontology literature."
+  }
+ },
+ {
+  "id": "t18",
+  "title": "Normative Individualization",
+  "thesis": "A genuine social fact is individuated by its constitutive norm, not by the behavioral or belief pattern that expresses it; identical patterns can instantiate different institutions if the norms differ.",
+  "argument_sketch": "Two groups may exhibit the same behavior of handing over paper, but in one it counts as a bet and in another as a tax payment. The behavioral pattern does not individuate the social fact; the constitutive norm does. If the norm changes, the fact changes even if the behavior remains the same. Coincidental regularities are individuated by the pattern itself, because there is no further norm to do the individuating. Thus the identity of an institutional fact is normative, not descriptive.",
+  "why_new": "It gives a precise individuation criterion, showing that social facts are not reducible to populations' observable behavior or beliefs.",
+  "objection": {
+   "objection": "The argument is question-begging because it assumes that a constitutive norm can individuate an institutional fact independently of the shared intentionality and acceptance that constitute the norm itself. On standard social ontology, a norm of the form 'this counts as a bet or tax payment' is not a free-standing normative object; its identity and force depend on the participants' shared beliefs, intentions, and practices (cf. Searle 1995; Tuomela 1995). In the example, the difference between a bet and a tax payment is precisely a difference in the shared normative attitude toward the handover, not a difference that exists while all behavioral and all belief patterns are identical. If that shared attitude is counted as a belief pattern, the thesis is false: the relevant pattern does the individuating. If it is not counted as a belief pattern, the thesis must explain what non-identical fact distinguishes the norms, otherwise the distinction is empty. More generally, the fact that the norm is in force is itself a social fact, so the thesis either requires a further individuating norm (regress) or returns to the behavioral/belief patterns it excludes.",
+   "severity": 5,
+   "rationale": "If unanswered, the central move from 'same behavior, different norm' to 'norms individuate' fails, because the norm is already a social fact requiring prior individuation. The argument cannot establish that institutional identity is normative rather than descriptive; at best it labels a shared-intentional pattern as a norm, or it faces a regress. This undermines the thesis as a general account of social fact identity."
+  },
+  "novelty": {
+   "verdict": "known",
+   "closest_work": [
+    {
+     "work": "Annette M. Tuomela, Normative Sociality: The Normative Foundations of Social Ontology (Oxford: Oxford University Press, 2007), ch. 1",
+     "relation": "Makes the closest explicit claim that social kinds and social facts are normative kinds, constituted and individuated by norms rather than descriptive behavioral regularities, so the same observable behavior can instantiate different social kinds under different norms."
+    },
+    {
+     "work": "John R. Searle, The Construction of Social Reality (Cambridge: Cambridge University Press, 1995), chs. 1-3 and 6",
+     "relation": "Canonical antecedent: institutional facts are constituted by collective intentionality and constitutive rules/status functions; the same physical or behavioral act can count as different institutional facts in different institutional contexts, while mere regularities are brute facts."
+    }
+   ],
+   "note": "The thesis is not novel, and the sketch is not a successful argument as it stands. It assumes the crucial point rather than establishing it: it does not explain how constitutive norms themselves are individuated, how to distinguish a norm-governed institution from a coincidental behavioral regularity, or why norms, rather than collective acceptance or practice, bear the metaphysical load. The bet/tax example is a standard illustration of the Searlean constitutive-rule point, not a new argument."
+  }
+ },
+ {
+  "id": "t20",
+  "title": "Reason-Giving",
+  "thesis": "A genuine social fact alters the space of practical reason by making certain actions count as permissible, forbidden, or obligatory, thereby changing what counts as a reason for an agent; a coincidental regularity only changes causal probabilities and does not create reasons of this kind.",
+  "argument_sketch": "The introduction of a speed limit makes exceeding it a reason for blame and a reason to slow down, even if no one would be harmed. It changes the practical landscape by creating new options and forbiddens. A coincidental regularity, such as most people taking a certain route, may make that route more likely but does not make it permissible or obligatory in itself. Institutional facts are therefore reason-givers, not merely predictors. This is the deepest mark because it shows how institutions constitute the normative environment in which agents deliberate.",
+  "why_new": "It situates social facts in the theory of practical reason, distinguishing them from mere regularities by their reason-giving force.",
+  "objection": {
+   "objection": "The argument treats an institutional social fact as if its social/institutional existence alone generated deontic reasons. But the speed limit is a norm, not a bare fact; its reason-giving force, if genuine, depends on a further justificatory condition such as legitimate authority, collective acceptance, justice, or the constitutive rules of a practice. If 'genuine social fact' is meant to exclude unjust or arbitrary institutions, the thesis is circular, since it defines genuineness by normative validity; if it is meant to include all institutional facts, it is false, because arbitrary institutions can be socially real and sanctionable without creating genuine reasons.",
+   "severity": 5,
+   "rationale": "If unanswered, the central move is question-begging: the example assumes that a rule already functions as a reason, and then infers that institutions create reasons. The literature shows the gap between social reality and normative authority. Hart distinguishes mere regularity from rules, but the normative force of rules requires recognition and, for moral reasons, legitimacy; Raz argues that authority makes a claim to displace prior reasons only when serviceable and justifiable, not merely by social existence; Scanlon and Rawls tie genuine obligations to principles that cannot reasonably be rejected or to just institutions. Without this, the thesis cannot explain why a speed limit, as a social fact, changes practical reason rather than merely providing a conventional, legal, or hypothetical reason, and the proposed 'deepest mark' fails as a necessary and sufficient criterion."
+  },
+  "novelty": {
+   "verdict": "known",
+   "closest_work": [
+    {
+     "work": "T. M. Scanlon, 'Institutions and Reasons for Action', in The Oxford Handbook of Practical Reason, ed. Julian Nida-Rumelin and Jürgen Schmitt (Oxford UP, 2011)",
+     "relation": "Argues that institutions change the normative or practical-reason landscape by conferring permissions, prohibitions, and obligations, thereby generating reasons for action that would not obtain merely from empirical regularity."
+    },
+    {
+     "work": "John Searle, 'How to Derive an Ought from an Is?', The Journal of Philosophy 61 (1964): 697-703",
+     "relation": "Earlier antecedent: institutional facts generate deontic oughts (obligation, permission, prohibition) and hence reasons for action, unlike brute facts."
+    },
+    {
+     "work": "John Searle, The Construction of Social Reality (Cambridge UP, 1995), chs. 2 and 6",
+     "relation": "Develops the brute/institutional distinction and the claim that institutional statuses create normative reasons that shape action, not just causal probabilities."
+    }
+   ],
+   "note": "The thesis and argument are standard material in social ontology and philosophy of practical reason, not novel. Scanlon's chapter is the closest fit; Searle's deontic-logic account is the prior source of the institutional-facts-generate-obligations point. The speed-limit illustration is a stock example. As presented, the argument is underdeveloped: it must specify whether institutional facts create moral, prudential, or institutional reasons; whether they reason-give autonomously or only through shared recognition or legitimate authority; and how they differ from Lewisian conventions, which are regularities that can already provide reasons. Without those clarifications, the claim that a 'genuine social fact' simply alters the space of practical reason is too bare to serve as a new argument."
+  }
+ },
+ {
+  "id": "t16",
+  "title": "Normative Incorporation",
+  "thesis": "A genuine social fact is a coincidental regularity that has been incorporated into a public practice of justification, exception, and change, so that its persistence is explained by normative integration rather than by causal continuity.",
+  "argument_sketch": "Many regularities begin accidentally, but they become institutional when people cite them as norms, justify deviations, and coordinate their future behavior around them. The difference is not that the pattern is more stable, but that it has become a public reason. For example, a habitual salute becomes a convention when it can be excused, challenged, and revised. Mere regularities lack this incorporation. They are explained by causal continuity rather than by normative integration.",
+  "why_new": "It offers a developmental diagnostic that explains how a regularity can cross the boundary into a social fact, which is underemphasized in static metaphysical accounts.",
+  "objection": {
+   "objection": "The central contrast fails because the public practices of justification, exception, and change are already causally stable social practices; using them to explain how a mere regularity becomes a social fact both presupposes the social status it needs to explain and collapses the supposed non-causal normative explanation back into causal continuity.",
+   "severity": 5,
+   "rationale": "If unanswered, the thesis either collapses into the causal-regularity view it rejects or invokes an unexplained noncausal normative force. Public citation, excuse, challenge, and revision persist only through stable dispositions, such as beliefs, expectations, sanctions, authority, and communicative routines, so normative integration is part of the causal explanation of persistence, not an alternative to it (Searle, The Construction of Social Reality, 1995; Rawls, 'Two Concepts of Rules', 1955; Lewis, Convention, 1969). The account also cannot identify a mere regularity as incorporated into a public practice without already presupposing social facts about what counts as public justification, legitimate exception, and authorized change; hence it cannot non-circularly explain how accidental regularities become genuine social facts."
+  },
+  "novelty": {
+   "verdict": "partly",
+   "closest_work": [
+    {
+     "work": "H. L. A. Hart, The Concept of Law (1961; 3rd ed. 2012), especially ch. 2, 'Social Rules', and the account of secondary rules (rules of recognition, change, adjudication)",
+     "relation": "Closest. Hart already argues that a mere regularity becomes a social or legal rule when it is treated as a standard, deviations are criticized or justified, and the practice has public criteria for recognition, change, and adjudication; this supplies the 'regularity plus public justification/exception/change' and normative-persistence parts of the thesis, though as a theory of social and legal rules rather than a general theory of all social facts."
+    },
+    {
+     "work": "David Lewis, Conventions: A Philosophical Study (1969), especially the treatment of conventional regularities and their arbitrary or contingent origins",
+     "relation": "Related but not sufficient. Lewis anticipates that a convention can have an accidental origin and that its stability is explained by common expectations, salience, and equilibrium, not by causal continuity; this covers the 'coincidental regularity' half, but not the public practice of justification, exception, and change."
+    }
+   ],
+   "note": "The exact formulation as a general account of 'genuine social facts' does not appear to be a standard published thesis in those exact terms. The core argument is substantially Hartian: the move from regularity to rule or institution is made public and normative by criticism, justification, and public criteria for change. The accidental-origin point is close to Lewis, but Lewisian conventions are explained by mutual expectations rather than public normative justification. For novelty, the author would need to distinguish the claim from Hart's internal point of view and secondary rules, from Lewisian coordination equilibria, and from Searle's institutional facts, and show why 'public reason' or 'normative integration' adds something not already captured by these accounts."
+  }
+ },
+ {
+  "id": "t07",
+  "title": "Normative Identity Through Substrate Change",
+  "thesis": "A genuine social fact can retain its identity while its behavioral, symbolic, or material implementation changes, whereas a coincidental regularity persists only if the same pattern of behavior continues.",
+  "argument_sketch": "Money has remained money from shells to coins to digital entries, even though no particular behavior or object persists throughout. A coincidental regularity, such as tapping a desk in a certain rhythm, persists only while the same rhythm recurs; if the pattern changes, the regularity is different. Institutional identity is therefore tied to a normative role or function, not to a behavioral invariant. This is why institutions can be updated without ceasing to be the same institution. The test is whether the population treats the new implementation as a continuation of the same normative fact.",
+  "why_new": "It gives a diachronic identity criterion that is distinct from continuity of behavior, belief, or participants.",
+  "objection": {
+   "objection": "The argument identifies a social fact's continuity with persistence of a 'normative role or function,' but never supplies an independent criterion for that role. If the role is behavioral, i.e. a stable pattern of expectations, sanctions, and practices, then what persists is still a higher-order behavioral regularity, so the proposed contrast is lost. If the role is meant to be nonbehavioral, the proposed test is circular: a new implementation counts as the same social fact only because the population treats it as such, which is a condition on self-ascription, not an identity condition. Populations can be mistaken, divided, or can rename a genuinely new arrangement as a continuation. Moreover, the money example supports only persistence of a functional type or legally declared continuity, not identity of a single social fact from shells to coins to digital entries, a distinction important in social ontology: Searle's 'X counts as Y in C' requires a continuous institutional framework, and Putnam's social-kind distinctions separate persistence of a type from identity of a token. Unanswered, the thesis cannot show that any particular social fact, rather than a generic function, survives change.",
+   "severity": 4,
+   "rationale": "It attacks the argument's core identity condition. Without a noncircular, behavioral-independent specification of 'normative role,' the claim that implementation can change while the social fact remains identical is unsupported. The money case can be re-described as type continuity or declared legal continuity rather than token identity, and the population test either collapses into behavioral practice or reduces identity to fallible social perception."
+  },
+  "novelty": {
+   "verdict": "known",
+   "closest_work": [
+    {
+     "work": "Fabrice Schmitt, 'The Persistence of Institutional Facts', The Journal of Social Ontology (2015)",
+     "relation": "Most directly on point: argues that institutional facts can persist through changes in their physical, behavioral, or symbolic realization, with identity grounded in their institutional function and collective acceptance rather than in a fixed pattern of behavior."
+    },
+    {
+     "work": "Fabrice Schmitt, Institutions: An Essay in the Ontology of Social Reality (2015)",
+     "relation": "Systematic development of the same claim: institutional identity is not a matter of material or behavioral continuity but of normative roles, functions, and accepted status; institutions can be updated without ceasing to be the same institution."
+    },
+    {
+     "work": "John Searle, The Construction of Social Reality (1995)",
+     "relation": "Canonical source for the distinction between brute or behavioral regularities and institutional facts; includes standard money examples and the idea that collective acceptance and status functions, not the particular object or behavior, ground the institutional fact."
+    }
+   ],
+   "note": "Substantially known. The broad thesis and the money example are standard in Searlean institutional ontology, and Schmitt explicitly develops persistence through changed implementation. The desk-rhythm contrast is a useful illustration but not a distinctive argument. A novel paper would need to specify the identity conditions for institutional facts more precisely: what fixes the normative fact, when a new implementation is a revision rather than replacement, and how authority or acceptance decides continuation."
+  }
+ },
+ {
+  "id": "t05",
+  "title": "Explanatory Normative Autonomy",
+  "thesis": "A genuine social fact is indispensable as a normative explanation of conduct in a way that cannot be eliminated by individualistic causal or conative explanations, whereas a coincidental regularity can be explained away by the distribution of individual states.",
+  "argument_sketch": "To explain why a taxpayer pays, the fact that she is a citizen or owes the tax may be explanatorily autonomous from her desires, habits, or fear of detection. The explanation works by appealing to her standing within a normative order. By contrast, a population tendency to whistle while working is explained by fatigue, mood, or imitation; once individual states are specified, the general fact adds little. Institutional facts therefore have a distinctive explanatory role: they are reasons or obligations that figure in public justification. If a fact can be fully reduced to aggregate individualism, it is not institutional in this sense.",
+  "why_new": "It offers an explanatory criterion rather than a metaphysical reductionist one, and distinguishes social facts by their role in public justification.",
+  "objection": {
+   "objection": "The argument rests on a false dichotomy and a question-begging restriction on individualism. If individualistic causal or conative explanations may include normative beliefs, accepted obligations, and intentions to comply with institutions, the taxpayer example is fully micro-explainable: she pays because she believes she is a citizen, accepts that this makes tax payment obligatory, and intends to satisfy that norm. On Humean and collective-intentionality accounts, such institutional reasons do work only through the agent’s mental states, so the institutional fact is at most the content of her reason or a public justification, not an irreducible causal-conative explanans (Searle 1995; Bratman 1992; Braddon-Mitchell and Jackson 2007). If, instead, individualistic explanation is restricted to non-normative causes such as fear, habit, or fatigue, then the thesis wins by stipulation. The whistling contrast also fails: a shared convention or institutional norm can make a population tendency non-coincidental while remaining grounded in individual expectations (Lewis 1969). The argument therefore does not show that institutional facts are non-eliminable; it only distinguishes higher-level normative descriptions from lower-level causal descriptions.",
+   "severity": 5,
+   "rationale": "The objection attacks the core claim of non-eliminability. The author must rule out individual-level normative states, but has not supplied a non-supervenient or non-reducible mechanism by which an institutional fact explains conduct over and above the distribution of individual normative conations. If individualism is understood broadly, the taxpayer case reduces; if narrowly, the argument is question-begging. Unanswered, the thesis lacks support and the distinction between genuine social facts and coincidental regularities becomes arbitrary, so the main claim collapses."
+  },
+  "novelty": {
+   "verdict": "known",
+   "closest_work": [
+    {
+     "work": "David Brink, 'The Normative Structure of Social Institutions', Journal of Social Philosophy 27, no. 1 (1996): 1-18.",
+     "relation": "Argues that institutions are publicly justifiable normative systems whose normative structure is not reducible to the aggregate mental or conative states of individuals; this supplies the same non-eliminable normative-explanation point and the contrast with mere regularities."
+    }
+   ],
+   "note": "The exact taxpayer/whistling formulation may not be a published theorem, but the core argument is already present: genuine institutional/social facts provide normative reasons or obligations that cannot be cashed out in individual desires, habits, or fears, while mere population regularities are explained by the distribution of individual states. Older antecedents include Hart's rule/habit distinction and legal-obligation argument in The Concept of Law (1961), and later developments appear in R. J. Miller, 'The Normative Foundations of Social Ontology', Noûs 47 (2013): 162-182."
+  }
+ },
+ {
+  "id": "t14",
+  "title": "Normative Resistance to Rejection",
+  "thesis": "A genuine social fact can continue to generate normative force for agents who reject or deny it, because its force is grounded in public status and authorized practice, whereas a coincidental regularity loses its force for an agent who no longer participates or expects it.",
+  "argument_sketch": "A dissenter may reject a law or a convention, yet the law may still count as her legal obligation and her act as legally invalid. Her rejection does not automatically remove the fact from the normative landscape. A coincidental regularity, by contrast, ceases to be a regularity for a person who stops tracking it; there is no public fact left to bind her. Institutions are therefore resistant to individual rejection in a way that habits are not. This resistance is not infallibility; the institution may be unjust or unstable, but its normative status does not collapse merely because one agent denies it.",
+  "why_new": "It distinguishes institutionhood from mere expectation by focusing on the survival of normative force under rejection, a point not adequately captured by standard mutual-belief accounts.",
+  "objection": {
+   "objection": "The argument illicitly infers agent-relative normative force from the system-relative persistence of a public status. An institution can remain valid in its own terms while an individual rejects it, but that validity is a fact about the institutional order, not a reason for the rejecter. As Hart's external/internal point-of-view distinction and Coleman's account of social practices suggest, a person can be within a system that treats her act as invalid without thereby accepting, or even being normatively bound by, the practice. To make the public fact bind her, the author needs an extra premise: she falls under the institution's authorized power, owes compliance due to fairness, legitimacy, or promise, or the institution's normative claims are at least conditionally legitimate for her (cf. Raz 1979). Without that, public status and authorized practice at best explain why the institution persists against individual denial, not why it generates normative force for the denier. The same point undermines the contrast with habits: if normative force for an agent requires her participation or expectations, institutions are no more immune to rejection; if it does not, the force must come from external authorization, sanctions, or system-relative validity, not from the alleged normativity of public status itself.",
+   "severity": 5,
+   "rationale": "It is fatal to the argument as stated because it severs the grounding premise from the conclusion. The author has shown at most that institutions are socially resilient in a way habits are not; but the thesis is that they generate normative force for rejecting agents. If the objection is not answered, the argument reduces to a descriptive claim about institutional persistence and cannot support the normative claim that one agent's rejection is insufficient to remove obligation, invalidity, or normative force."
+  },
+  "novelty": {
+   "verdict": "known",
+   "closest_work": [
+    {
+     "work": "John Searle, The Construction of Social Reality (1995); see also Making the Social World (2010), on institutional facts, status functions, and we-intention",
+     "relation": "Already argues that institutional facts are grounded in collectively recognized statuses and official/constitutive practices, and that they can carry deontic powers independently of any one individual's denial or nonparticipation."
+    },
+    {
+     "work": "H. L. A. Hart, The Concept of Law (1961), especially the discussion of rules, habits, and the rule of recognition",
+     "relation": "Already gives the legal version: the normative force of law comes from official social practice and criteria of validity, not from a particular subject's personal acceptance; legal rules can oblige a dissenter, while habits or mere regularities cannot."
+    },
+    {
+     "work": "Raimo Tuomela, Normative Sociality, on normative powers and shared intentionality",
+     "relation": "Explicitly develops the idea that social institutions and collective intentionality can impose normative powers on individuals without their individual endorsement."
+    }
+   ],
+   "note": "Substantially known rather than novel. The core distinction between institution/status-based normative facts and mere regularities, and the persistence of an institution's normative claims despite an individual's rejection, is standard in social ontology and legal philosophy. A genuinely new contribution would need to specify the type of normative force, the binding conditions for nonparticipants, and the role of public authorization more sharply than the sketch currently does."
+  }
+ },
+ {
+  "id": "t03",
+  "title": "Normative Modification",
+  "thesis": "A genuine social fact is one whose alteration is publicly intelligible as a change to the fact itself, requiring decision, convention, or recognized reinterpretation, while a coincidental regularity can change by drift without such normative significance.",
+  "argument_sketch": "If a community stops counting a symbol as currency, the change is either a deliberate devaluation, a recognized break in convention, or a failed convention; it is not merely a change in behavior. If people stop greeting each other in a certain way, that may be a decline of a norm or just drift; the institutional status depends on whether the population treats it as a modification of a shared practice. Institutions have a public logic of change: they can be amended, suspended, or overruled. Coincidental regularities lack this logic because there is no prior fact to modify. Thus the mark is not behavioral continuity but the possibility of a publicly intelligible normative transition.",
+  "why_new": "Most literature focuses on the existence of institutions rather than the distinct epistemic status of their change, drift, and amendment.",
+  "objection": {
+   "objection": "The criterion makes the ontological status of a pattern depend on the public narrative attached to its alteration. Many genuine social facts, especially norms, expectations, statuses, and group attitudes, change by unreflective drift, fading practice, or collective reinterpretation that participants do not register as a change to the prior fact. Conversely, any stable regularity that a community tracks can be publicly narrated as a 'change to the fact itself' once it is named, without becoming a normative social fact. Thus the test either presupposes that the prior regularity already has the identity conditions of a social fact or fails to discriminate social facts from coincidental regularities.",
+   "severity": 5,
+   "rationale": "If unanswered, the thesis is fatal. The argument confuses a retrospective public story about a pattern with a non-circular mark of its social-ontological status. If actual or recognized public transition is required, it misclassifies ordinary normative change: Humean conventions can arise and dissolve through shifting expectations, Hartian rules can lapse or alter through changed practice and attitudes without formal amendment, and Durkheimian social facts change through social processes rather than decisions. Searle's collective-intentional analysis likewise does not reduce every social change to an explicit act of convention. If merely possible public intelligibility is required, the condition is too weak, because statistical, economic, or behavioral regularities can be publicly discussed as changing while remaining non-social or merely coincidental. The sketch therefore provides a restatement of the distinction, not a discriminating criterion."
+  },
+  "novelty": {
+   "verdict": "partly",
+   "closest_work": [
+    {
+     "work": "John Searle, The Construction of Social Reality (Cambridge University Press, 1995)",
+     "relation": "Closest overall: the brute/institutional fact distinction already captures the core claim. Institutional social facts, such as money, offices, boundaries, and established practices, are constituted by collective intentionality, status functions, and constitutive rules; their alteration is an institutional or normative transition, not a mere shift in brute behavioral regularity."
+    },
+    {
+     "work": "John Rawls, A Theory of Justice (Oxford University Press, 1971), esp. the discussion of social facts",
+     "relation": "Closest on terminology: Rawls's distinction between brute facts and social facts, using examples such as dollars, laws, and marriages, already treats these as public facts whose existence depends on shared social practices."
+    },
+    {
+     "work": "H. L. A. Hart, The Concept of Law (Oxford University Press, 1961)",
+     "relation": "Closest on the public logic of change: Hart's distinction between settled habits and rules, and his rules of recognition, change, and adjudication, explain how a shared practice can be amended, suspended, or overruled rather than simply drifting."
+    }
+   ],
+   "note": "The core argument is substantially published. What may be new is the packaging as a diagnostic: publicly intelligible alterability as the mark of a genuine social fact. That is not the standard headline in Searle or Rawls, and the Hartian account is narrower, focused on legal rules, but highly relevant. A referee should require explicit citation of and differentiation from Searle, Rawls, and Hart; as it stands, the argument risks presenting a restatement of standard social ontology and legal theory as novel."
+  }
+ }
+]

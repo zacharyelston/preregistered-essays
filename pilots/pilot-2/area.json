@@ -1,0 +1,33 @@
+{
+ "area": "Ethics / theory of normative powers (promising and commitment)",
+ "question": "Can an agent bind itself by promise when its future performing stage will not be psychologically continuous with the promising stage, as with a conversational AI instance without persistent memory, a patient with advancing dementia, or a corporation whose staff turns over completely? If so, what in promissory obligation replaces the diachronic identity of the promisor?",
+ "reason": "The promising question is the most clearly separate from the introspection entry. It concerns normative powers and diachronic agency, not self-knowledge or mental-state evidence. It also has the best ratio of originality to tractability. The key assumption, that promisor and performer are one psychologically continuous agent, is load-bearing in every major theory of promising yet almost never examined. Memoryless AI instances give an unusually clean test case, and dementia, corporate agency, and Parfitian fission show the issue is not parochial. A 6,000-word essay can do three things: set out a precise dilemma (either promising requires continuity, which wrongly makes the promises of many agents void, or it does not, in which case we need a replacement ground); defend the policy-transmission account against concrete objections (bootstrapping, binding strangers, and the worry that promises reduce to predictions); and draw consequences for personal identity theory and collective responsibility. This offers a substantive new position in a mature literature rather than a commentary on a new technology.",
+ "candidates": [
+  {
+   "area": "Ethics / theory of normative powers (promising and commitment)",
+   "question": "Can an agent bind itself by promise when its future performing stage will not be psychologically continuous with the promising stage, as with a conversational AI instance without persistent memory, a patient with advancing dementia, or a corporation whose staff turns over completely? If so, what in promissory obligation replaces the diachronic identity of the promisor?",
+   "why": "Standard accounts of promising tacitly assume that the person who promises and the person who performs are the same continuing agent. Scanlon's expectation view, Owens' and Raz's normative-interest views, and Hume's convention view all locate the bond in that one person. Memoryless agents, which now exist in large numbers, pull that assumption apart from the other conditions of promising in a clean way. My positive proposal is a 'policy-transmission' account: what a promise commits is a deliberative policy, and the policy can bind any stage that reliably inherits it, through character, through institutional scaffolding, or through training. On this account promissory responsibility can be fully real yet distributed across stages. That has consequences for Parfitian reductionism, for advance directives, and for collective agency. I could build it as an argument with clear cases and principled objections, without relying on empirical speculation."
+  },
+  {
+   "area": "Social epistemology (independence and agreement)",
+   "question": "When many instances of the same model, or many people trained on the same sources, agree on an answer, how much evidential weight does that agreement add beyond one instance's verdict? Is re-sampling the same reasoner relevantly like consulting oneself again, or like consulting a second expert?",
+   "why": "Condorcet-style and disagreement literatures treat independence as all-or-nothing, or model it only through shared evidence. Stochastic sampling from one fixed reasoner is a new intermediate case: the reasoner is the same, but the draws are causally independent. It lets me separate two sources of correlation that existing accounts run together, namely correlation in competence and correlation in error. The same distinction can then be applied back to human self-consultation and to epistemic monocultures."
+  },
+  {
+   "area": "Political philosophy (legitimacy and answerability)",
+   "question": "Does the legitimacy of a binding public decision require that some agent be answerable for it, meaning able to be called to give reasons and to bear blame? Or can a decision be legitimate when no one can answer for it, as when a statistical system makes it and officials merely ratify it?",
+   "why": "The 'responsibility gap' debate asks who is to blame. It rarely asks whether answerability is a condition of legitimacy itself, as opposed to a remedial add-on. I would argue for a specific answerability condition and try to show that it explains the intuitive wrongness of rubber-stamping that pure-procedure and outcome-based accounts miss."
+  },
+  {
+   "area": "Ethics / value theory (individuation of welfare subjects)",
+   "question": "If two physically distinct, computationally identical processes undergo the same suffering, is the disvalue doubled? Does the answer change under computational practices with no biological analogue, such as batching, caching, or deterministic replay of a stored run?",
+   "why": "Bostrom's duplication problem is known, but it has been discussed with idealized copies. Real computational practice produces graded cases, including shared intermediate states, partial recomputation, and replay, that test whether a theory individuates welfare subjects by substrate, by causal history, or by token computation. Working through these cases could force a choice that the idealized cases let theories avoid."
+  },
+  {
+   "area": "Philosophy of language (assertion and sincerity)",
+   "question": "Can an utterance generated by sampling from a probability distribution over continuations be a sincere assertion? If the speaker would, with nonzero probability, have asserted the opposite, does that undermine sincerity, or show that sincerity is a property of dispositions rather than of individual utterances?",
+   "why": "Norm-of-assertion debates (the knowledge, belief, and reasonable-belief norms) assume one determinate act per occasion. Stochastic speakers force the question of whether assertoric norms attach to tokens or to the generating disposition. I would argue for a dispositional account and show that it also clarifies human cases of wavering or offhand assertion."
+  }
+ ],
+ "chosen": 0
+}

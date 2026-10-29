@@ -1,0 +1,142 @@
+[
+ {
+  "id": "t01",
+  "title": "Normative Inertia",
+  "thesis": "A genuine social fact is distinguished from a coincidental regularity by its capacity to remain normatively operative when the population falsely believes it no longer exists or is not in force.",
+  "argument_sketch": "Suppose a law is mistakenly thought repealed, yet officials and citizens continue to act under its obligations. If the practice is institutional, the fact's normative force does not vanish with the false belief because the authority that made it has not revoked it. If it is a mere regularity, the behavior is best explained by residual habit, and once the belief that it persists disappears the pattern should decay. Thus the mark of institution is a kind of normative inertia: the fact can outlast mistaken beliefs about its existence. This contrasts with a coincidental regularity, whose persistence depends on continued causal or conative support.",
+  "why_new": "Existing accounts emphasize mutual belief or collective intention; this thesis isolates normative survival under false abolition as a diagnostic for institutional facts."
+ },
+ {
+  "id": "t02",
+  "title": "Answerability Space",
+  "thesis": "A genuine social fact constitutes a shared space of normative answerability, in which deviation is treated as a violation that may be excused, justified, or punished, whereas a coincidental regularity only yields failed expectations.",
+  "argument_sketch": "When someone skips a queue, we ask for an excuse, blame them, or classify the act as impolite; these responses presuppose that the queueing practice is a norm. When someone does not have coffee at seven, we merely revise a prediction, because the regularity has no authority over them. Institutional facts are therefore marked by the availability of a vocabulary of violation, exception, and sanction. A mere pattern lacks this because it cannot make an agent answerable for failing to conform. The distinction is not that all institutions sanction, but that they make answerability possible.",
+  "why_new": "It shifts the criterion from sanctions or beliefs to the structural feature of answerability, explaining why some norm-like regularities are institutional without heavy punishment."
+ },
+ {
+  "id": "t03",
+  "title": "Normative Modification",
+  "thesis": "A genuine social fact is one whose alteration is publicly intelligible as a change to the fact itself, requiring decision, convention, or recognized reinterpretation, while a coincidental regularity can change by drift without such normative significance.",
+  "argument_sketch": "If a community stops counting a symbol as currency, the change is either a deliberate devaluation, a recognized break in convention, or a failed convention; it is not merely a change in behavior. If people stop greeting each other in a certain way, that may be a decline of a norm or just drift; the institutional status depends on whether the population treats it as a modification of a shared practice. Institutions have a public logic of change: they can be amended, suspended, or overruled. Coincidental regularities lack this logic because there is no prior fact to modify. Thus the mark is not behavioral continuity but the possibility of a publicly intelligible normative transition.",
+  "why_new": "Most literature focuses on the existence of institutions rather than the distinct epistemic status of their change, drift, and amendment."
+ },
+ {
+  "id": "t04",
+  "title": "Second-Order Normative Attention",
+  "thesis": "A genuine social fact exists when a population has a standing disposition to attend to a regularity as an object of normative judgment, correction, and public reflection; a coincidental regularity is only an object of first-order prediction.",
+  "argument_sketch": "We do not merely stop at red lights; we argue about whether the light was properly set, whether an exception applies, and whether the rule should be revised. A coincidental pattern, such as many students arriving at nine, may not be treated as a norm unless people begin to monitor, criticize, and justify it. The disposition to treat the pattern as something that can be normatively wrong or right is not reducible to the belief that it will occur. It is a second-order cognitive stance that makes the regularity an institution. Hence institutionhood is partly a matter of shared normative attention, not merely shared expectation.",
+  "why_new": "It introduces a cognitive-attentional condition distinct from belief, intention, or sanction, accounting for incipient institutions and informal norms."
+ },
+ {
+  "id": "t05",
+  "title": "Explanatory Normative Autonomy",
+  "thesis": "A genuine social fact is indispensable as a normative explanation of conduct in a way that cannot be eliminated by individualistic causal or conative explanations, whereas a coincidental regularity can be explained away by the distribution of individual states.",
+  "argument_sketch": "To explain why a taxpayer pays, the fact that she is a citizen or owes the tax may be explanatorily autonomous from her desires, habits, or fear of detection. The explanation works by appealing to her standing within a normative order. By contrast, a population tendency to whistle while working is explained by fatigue, mood, or imitation; once individual states are specified, the general fact adds little. Institutional facts therefore have a distinctive explanatory role: they are reasons or obligations that figure in public justification. If a fact can be fully reduced to aggregate individualism, it is not institutional in this sense.",
+  "why_new": "It offers an explanatory criterion rather than a metaphysical reductionist one, and distinguishes social facts by their role in public justification."
+ },
+ {
+  "id": "t06",
+  "title": "Normative Category Creation",
+  "thesis": "A genuine social fact creates normative categories of action and object that are not reducible to prior physical or psychological predicates, while a coincidental regularity merely repeats existing categories.",
+  "argument_sketch": "Before the institution of betting, handing over paper may be a physical movement; after, the same movement can count as a bet, a contract, or a wager. The institution does not just cause a behavior; it makes a new kind of action possible. Similarly, an object becomes a token of a promise or a certificate of debt. Coincidental regularities do not generate such new normative categories; they are described using concepts already available. Therefore a mark of institution is the emergence of new intelligible types of action and status.",
+  "why_new": "It extends the status-function idea to category creation, focusing on the generation of new normative types rather than the assignment of status to existing objects."
+ },
+ {
+  "id": "t07",
+  "title": "Normative Identity Through Substrate Change",
+  "thesis": "A genuine social fact can retain its identity while its behavioral, symbolic, or material implementation changes, whereas a coincidental regularity persists only if the same pattern of behavior continues.",
+  "argument_sketch": "Money has remained money from shells to coins to digital entries, even though no particular behavior or object persists throughout. A coincidental regularity, such as tapping a desk in a certain rhythm, persists only while the same rhythm recurs; if the pattern changes, the regularity is different. Institutional identity is therefore tied to a normative role or function, not to a behavioral invariant. This is why institutions can be updated without ceasing to be the same institution. The test is whether the population treats the new implementation as a continuation of the same normative fact.",
+  "why_new": "It gives a diachronic identity criterion that is distinct from continuity of behavior, belief, or participants."
+ },
+ {
+  "id": "t08",
+  "title": "Collective Agency",
+  "thesis": "A genuine social fact is distinguished by enabling a collective subject to act, so that some outcomes are actions of the institution or group rather than mere aggregates of individual actions; coincidental regularities do not create such a subject.",
+  "argument_sketch": "A parliament passes a law as a body; the passing is not simply the sum of individual votes, but an action with a collective author. A crowd murmuring in unison may be a regularity, but it does not thereby deliberate, decide, or promise as a group. Institutional facts make group agency possible by providing roles, procedures, and accountability. Without them, the same behavior can be explained as coordination without collective action. Therefore the presence of an institutional fact is marked by the emergence of group-level agency.",
+  "why_new": "It connects social ontology to group agency, offering a criterion that is not reducible to beliefs or status functions."
+ },
+ {
+  "id": "t09",
+  "title": "Authorized Representation",
+  "thesis": "A genuine social fact includes a non-accidental structure of authorized agency, in which certain persons can speak, decide, or bind others as representatives of the group; a coincidental regularity lacks such authorization.",
+  "argument_sketch": "A club has a treasurer whose signature can bind the club, even though no single member is identical to the club. A pattern of meetings does not by itself create a person who can commit the group. Authorized representation creates deontic facts: what one agent does for the institution counts as what the institution does. This structure is not present in a coincidental population habit. Hence institutions are marked by a public assignment of representative powers that makes collective binding possible.",
+  "why_new": "It focuses on the representative and binding structure of institutions, which is often underemphasized in accounts centered on mutual belief."
+ },
+ {
+  "id": "t10",
+  "title": "Normative Error Structure",
+  "thesis": "A genuine social fact is distinguished by a rich space of normative error, including misunderstanding obligations, roles, and statuses, whereas a coincidental regularity admits only statistical or predictive error.",
+  "argument_sketch": "Participants in a legal system can be wrong about what a law requires, who has authority, or whether an act is valid. They can also be right about the behavior of others but wrong about the normative status of the act. In a coincidental regularity, one can only be wrong about frequency or causation, not about a duty or role. The existence of such normative mistakes is not accidental; it follows from the fact being a norm. Therefore the modal space of possible error is a diagnostic of institutionhood.",
+  "why_new": "It uses the structure of possible mistakes to distinguish institutional facts, an approach less emphasized than beliefs or sanctions."
+ },
+ {
+  "id": "t11",
+  "title": "Deontic Modality as Constitutive",
+  "thesis": "A genuine social fact is marked by the population's constitutive use of deontic modals, such as must, may, and ought, in relation to the regularity; a coincidental regularity supports only probabilistic, habitual, or predictive language.",
+  "argument_sketch": "The statement you must stop at a red light does not merely report a high probability of stopping; it expresses a requirement that can be violated even when obeyed. The statement people usually stop at red lights is a statistical claim. If the population could only use probabilistic language to describe the pattern, there would be no institution, only a tendency. Deontic modality is not merely expressive; it is part of what makes the fact normative. Thus the availability of deontic talk is a symptom of the constitutive presence of a social fact.",
+  "why_new": "It offers a modal-linguistic criterion that can separate institutions from mere expectations, and it avoids reducing institutionhood to observed sanctions."
+ },
+ {
+  "id": "t12",
+  "title": "Normative Sanction Logic",
+  "thesis": "A genuine social fact is sustained by a logic of sanctions in which adverse responses are justified as responses to a violation, not merely as causal deterrents; a coincidental regularity may have consequences but lacks this justificatory structure.",
+  "argument_sketch": "If a driver is fined for running a red light, the fine is justified by the fact that she violated a traffic rule. If a person is ignored for not following an unspoken habit, the response may be explained by social friction but not by a rule violation. Institutions are not always punitive, but when sanctions occur they are evaluated as fitting or unfitting, excessive or lenient. Coincidental regularities do not make sanctions justifiable in this normative sense. Hence the normative logic of sanction, not its presence, is diagnostic.",
+  "why_new": "It distinguishes sanctions as normatively justified from mere causal responses, addressing cases where institutions are informal or non-punitive."
+ },
+ {
+  "id": "t13",
+  "title": "Public Correctability",
+  "thesis": "A genuine social fact is publicly correctable, meaning that its application can be adjudicated by communal standards and revised through collective judgment; a coincidental regularity can only be empirically tested or statistically improved.",
+  "argument_sketch": "Whether a move in a game is legal can be decided by a referee, appealed to the rules, and corrected if the referee errs. Whether people often move that way is a matter of data, not adjudication. Institutional facts are therefore subject to a public practice of correction: we can be wrong about their application, and the community can correct the wrong. Mere regularities lack this because there is no public standard against which the application can be judged. This makes public correctability a distinctive mark of social facts.",
+  "why_new": "It emphasizes the epistemic and procedural dimension of institutions, distinguishing them by the possibility of public adjudication rather than by causal stability."
+ },
+ {
+  "id": "t14",
+  "title": "Normative Resistance to Rejection",
+  "thesis": "A genuine social fact can continue to generate normative force for agents who reject or deny it, because its force is grounded in public status and authorized practice, whereas a coincidental regularity loses its force for an agent who no longer participates or expects it.",
+  "argument_sketch": "A dissenter may reject a law or a convention, yet the law may still count as her legal obligation and her act as legally invalid. Her rejection does not automatically remove the fact from the normative landscape. A coincidental regularity, by contrast, ceases to be a regularity for a person who stops tracking it; there is no public fact left to bind her. Institutions are therefore resistant to individual rejection in a way that habits are not. This resistance is not infallibility; the institution may be unjust or unstable, but its normative status does not collapse merely because one agent denies it.",
+  "why_new": "It distinguishes institutionhood from mere expectation by focusing on the survival of normative force under rejection, a point not adequately captured by standard mutual-belief accounts."
+ },
+ {
+  "id": "t15",
+  "title": "Normative Repair Versus Prediction Update",
+  "thesis": "A genuine social fact is distinguished by the population's characteristic response to deviation: normative repair, such as reprimand, appeal, reinstatement, or justification, rather than mere prediction update.",
+  "argument_sketch": "When a player makes an illegal move, the game proceeds with corrections, penalties, or reversals; the community treats the deviation as something to be repaired within the game. When a habitual pattern of arrivals shifts, people simply adjust their expectations. The repair response presupposes that the deviation is a failure of a norm, not just a change in data. Institutions are therefore marked by the availability of a practice of restoring or interpreting the norm after disruption. This dynamic feature is distinct from the static existence of a rule.",
+  "why_new": "It uses the dynamics of deviation to diagnose institutions, complementing static accounts of norms and collective intention."
+ },
+ {
+  "id": "t16",
+  "title": "Normative Incorporation",
+  "thesis": "A genuine social fact is a coincidental regularity that has been incorporated into a public practice of justification, exception, and change, so that its persistence is explained by normative integration rather than by causal continuity.",
+  "argument_sketch": "Many regularities begin accidentally, but they become institutional when people cite them as norms, justify deviations, and coordinate their future behavior around them. The difference is not that the pattern is more stable, but that it has become a public reason. For example, a habitual salute becomes a convention when it can be excused, challenged, and revised. Mere regularities lack this incorporation. They are explained by causal continuity rather than by normative integration.",
+  "why_new": "It offers a developmental diagnostic that explains how a regularity can cross the boundary into a social fact, which is underemphasized in static metaphysical accounts."
+ },
+ {
+  "id": "t17",
+  "title": "Scope by Status",
+  "thesis": "A genuine social fact binds agents by virtue of a publicly identifiable status or role, such as citizen, member, or officeholder, rather than merely by their participation in a behavioral pattern; a coincidental regularity binds only actual participants.",
+  "argument_sketch": "A tax law applies to all citizens, including those who do not currently interact with the tax office and including new citizens who have not yet performed any taxable act. A coincidental regularity, such as a local custom of greeting, applies only to those who are in a position to participate. Institutional scope is determined by status, not by observed behavior. Therefore a fact is institutional when it can be assigned to an agent on the basis of a role that the agent has or will have. This is a strong mark of social ontology because it explains why institutions can have wide reach.",
+  "why_new": "It focuses on the scope of normative force generated by status, distinguishing institutions from local behavioral habits."
+ },
+ {
+  "id": "t18",
+  "title": "Normative Individualization",
+  "thesis": "A genuine social fact is individuated by its constitutive norm, not by the behavioral or belief pattern that expresses it; identical patterns can instantiate different institutions if the norms differ.",
+  "argument_sketch": "Two groups may exhibit the same behavior of handing over paper, but in one it counts as a bet and in another as a tax payment. The behavioral pattern does not individuate the social fact; the constitutive norm does. If the norm changes, the fact changes even if the behavior remains the same. Coincidental regularities are individuated by the pattern itself, because there is no further norm to do the individuating. Thus the identity of an institutional fact is normative, not descriptive.",
+  "why_new": "It gives a precise individuation criterion, showing that social facts are not reducible to populations' observable behavior or beliefs."
+ },
+ {
+  "id": "t19",
+  "title": "Normative Topology",
+  "thesis": "A genuine social fact has a non-flat topology of permissions, obligations, powers, and roles that is not reducible to a single regularity; a coincidental regularity is flat, containing no internal normative structure.",
+  "argument_sketch": "A game has players, officials, legal moves, fouls, wins, and sanctions, all standing in relations to one another. A coincidental population tendency has no internal architecture of powers and roles; it is just a statistical pattern. Institutions are therefore marked by a network of deontic relations: some agents can modify the fact, some are subject to it, and some are responsible for its maintenance. This topology explains how institutions can be complex, hierarchical, and self-governing. The presence of such a structure is diagnostic of institutionhood.",
+  "why_new": "It captures the internal complexity of institutions, which flat regularities lack, and it avoids reducing institutions to a single norm."
+ },
+ {
+  "id": "t20",
+  "title": "Reason-Giving",
+  "thesis": "A genuine social fact alters the space of practical reason by making certain actions count as permissible, forbidden, or obligatory, thereby changing what counts as a reason for an agent; a coincidental regularity only changes causal probabilities and does not create reasons of this kind.",
+  "argument_sketch": "The introduction of a speed limit makes exceeding it a reason for blame and a reason to slow down, even if no one would be harmed. It changes the practical landscape by creating new options and forbiddens. A coincidental regularity, such as most people taking a certain route, may make that route more likely but does not make it permissible or obligatory in itself. Institutional facts are therefore reason-givers, not merely predictors. This is the deepest mark because it shows how institutions constitute the normative environment in which agents deliberate.",
+  "why_new": "It situates social facts in the theory of practical reason, distinguishing them from mere regularities by their reason-giving force."
+ }
+]

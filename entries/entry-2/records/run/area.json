@@ -1,0 +1,33 @@
+{
+ "area": "Philosophy of science (confirmation theory and predictivism)",
+ "question": "When a hypothesis is chosen by searching a very large space of candidates for fit to the data, does that fit confirm it less than the same fit would confirm a hypothesis proposed in advance? If so, can the 'prediction vs. accommodation' debate be settled by accounting precisely for the search process rather than for timing?",
+ "reason": "The predictivism question offers the best ratio of originality to tractability, and it has real stakes. The debate is old enough to have well-mapped positions and stubborn opposing intuitions, so a reframing that dissolves the standoff would be a clear contribution. Its importance has also grown, because hypothesis selection by large-scale search is now central to empirical practice. I can state the central claim precisely in Bayesian terms within 6,000 words: confirmation from fit is discounted by the effective size of the space the selection process could have returned. I can then test it against canonical cases (Mendeleev, Fresnel and the white spot, Le Verrier, curve-fitting) and use it to explain why use-novelty, temporal novelty and the 'fudging' accounts each capture part of the truth. The other candidates are promising, but either the core argument is harder to make decisive in that length (legitimacy, collective agency) or the space is more crowded (permissivism, moral uncertainty). The question is also clearly distinct from the existing entry on introspection in AI systems: it concerns how the provenance of a hypothesis bears on confirmation in general, not self-knowledge or machine self-reports.",
+ "candidates": [
+  {
+   "area": "Philosophy of science (confirmation theory and predictivism)",
+   "question": "When a hypothesis is chosen by searching a very large space of candidates for fit to the data, does that fit confirm it less than the same fit would confirm a hypothesis proposed in advance? If so, can the 'prediction vs. accommodation' debate be settled by accounting precisely for the search process rather than for timing?",
+   "why": "The predictivism debate (Hitchcock & Sober, Worrall, Lipton, Barnes) treats accommodation as one coarse category. Modern science now routinely selects models by optimizing over huge hypothesis spaces. I would argue that the epistemically relevant variable is neither temporal novelty nor 'use-novelty' but the effective size of the space the search could have returned, given that it hits the data. That variable can be stated in Bayesian terms. The claim yields a graded, testable criterion: some accommodations confirm as much as predictions, and some 'predictions' confirm almost nothing. It explains why both camps have had compelling cases."
+  },
+  {
+   "area": "Normative ethics / decision theory (moral uncertainty)",
+   "question": "Maximizing expected choiceworthiness across moral theories is sensitive to how options are individuated, for example by splitting one act into several finer-grained ones. Is there a principled, theory-neutral way to individuate options, and if not, does that sink the expected-value approach to moral uncertainty?",
+   "why": "Most of the literature focuses on intertheoretic comparison of value scales. A separate, less-discussed problem is that different moral theories carve the option space differently: deontologies individuate by intention or act-type, consequentialisms by outcome. Which partition we aggregate over can therefore change the verdict. I would develop this as an independent impossibility-style argument and assess whether any partition-invariant aggregation rule survives it."
+  },
+  {
+   "area": "Political philosophy (democratic legitimacy)",
+   "question": "If citizens' preferences are substantially shaped by the institutions and officials whose decisions those preferences are supposed to legitimize, can aggregating those preferences confer legitimacy, or is there a vicious circularity?",
+   "why": "Debates over manipulation and 'adaptive preferences' usually ask whether particular preferences are autonomous. The structural issue is different. Legitimacy-conferring inputs may be endogenous to the outputs they legitimize. I would distinguish benign from vicious forms of this feedback, using a fixed-point analysis. The proposed criterion asks whether citizens would endorse the process under counterfactual variation in who holds power."
+  },
+  {
+   "area": "Epistemology (permissivism and the point of reasoning)",
+   "question": "If evidence sometimes rationally permits several different credences, what makes careful deliberation on that evidence rationally better than simply picking a credence within the permitted range?",
+   "why": "Anti-permissivists argue that permissivism makes rationality arbitrary (White, Schoenfield). An underexplored version of that worry concerns the value of reasoning itself. I would argue that permissivists can answer it only by locating the value of deliberation in the reliability of the credence-forming policy rather than in particular credences. I would then show that this answer imposes substantive constraints that narrow permissivism to a specific, defensible form."
+  },
+  {
+   "area": "Metaphysics / philosophy of action (collective agency)",
+   "question": "Can a group be responsible for an outcome that no member intended or foresaw, where the outcome arises from the interaction of members' individually permissible policies, without being reducible to member responsibility and without positing a group mind?",
+   "why": "Accounts of group agency (List & Pettit, Gilbert, Bratman) tend to require either joint intentions or a group-level rational point of view. I would propose a third route. A group's responsibility tracks its capacity to have adopted a different decision procedure, plus a duty to monitor emergent effects. This explains blame for 'structural' harms while blocking the inflation of responsibility to every aggregate."
+  }
+ ],
+ "chosen": 0
+}

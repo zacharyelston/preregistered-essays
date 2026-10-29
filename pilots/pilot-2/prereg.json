@@ -1,0 +1,37 @@
+{
+ "created_at": "2026-10-28T19:56:09-0400",
+ "rule": {
+  "critic_arm": "hat",
+  "develop": {
+   "critic_arms": [
+    "hat",
+    "placebo"
+   ],
+   "max_steps": 25,
+   "rounds": 2
+  },
+  "gates": {
+   "max_critic_flag_rate": 0.5,
+   "max_words": 6000,
+   "min_novelty": 0.5,
+   "min_objection_addressed": 0.5,
+   "min_steps": 3
+  },
+  "ground_min_score": 0.45,
+  "screen": {
+   "exclude_novelty": [
+    "known"
+   ],
+   "n_theses": 20,
+   "shortlist_k": 2
+  },
+  "version": 2,
+  "weights": {
+   "critic_clean": 0.15,
+   "grounded": 0.25,
+   "novelty": 0.25,
+   "objection_addressed": 0.35
+  }
+ },
+ "sha256": "599b6f6493be11747e91347901aaa6c6c12fc766d234173231f9e27c98734924"
+}

@@ -1,0 +1,872 @@
+{
+ "id": "t16",
+ "thesis": {
+  "id": "t16",
+  "title": "Normative Incorporation",
+  "thesis": "A genuine social fact is a coincidental regularity that has been incorporated into a public practice of justification, exception, and change, so that its persistence is explained by normative integration rather than by causal continuity.",
+  "argument_sketch": "Many regularities begin accidentally, but they become institutional when people cite them as norms, justify deviations, and coordinate their future behavior around them. The difference is not that the pattern is more stable, but that it has become a public reason. For example, a habitual salute becomes a convention when it can be excused, challenged, and revised. Mere regularities lack this incorporation. They are explained by causal continuity rather than by normative integration.",
+  "why_new": "It offers a developmental diagnostic that explains how a regularity can cross the boundary into a social fact, which is underemphasized in static metaphysical accounts.",
+  "objection": {
+   "objection": "The central contrast fails because the public practices of justification, exception, and change are already causally stable social practices; using them to explain how a mere regularity becomes a social fact both presupposes the social status it needs to explain and collapses the supposed non-causal normative explanation back into causal continuity.",
+   "severity": 5,
+   "rationale": "If unanswered, the thesis either collapses into the causal-regularity view it rejects or invokes an unexplained noncausal normative force. Public citation, excuse, challenge, and revision persist only through stable dispositions, such as beliefs, expectations, sanctions, authority, and communicative routines, so normative integration is part of the causal explanation of persistence, not an alternative to it (Searle, The Construction of Social Reality, 1995; Rawls, 'Two Concepts of Rules', 1955; Lewis, Convention, 1969). The account also cannot identify a mere regularity as incorporated into a public practice without already presupposing social facts about what counts as public justification, legitimate exception, and authorized change; hence it cannot non-circularly explain how accidental regularities become genuine social facts."
+  },
+  "novelty": {
+   "verdict": "partly",
+   "closest_work": [
+    {
+     "work": "H. L. A. Hart, The Concept of Law (1961; 3rd ed. 2012), especially ch. 2, 'Social Rules', and the account of secondary rules (rules of recognition, change, adjudication)",
+     "relation": "Closest. Hart already argues that a mere regularity becomes a social or legal rule when it is treated as a standard, deviations are criticized or justified, and the practice has public criteria for recognition, change, and adjudication; this supplies the 'regularity plus public justification/exception/change' and normative-persistence parts of the thesis, though as a theory of social and legal rules rather than a general theory of all social facts."
+    },
+    {
+     "work": "David Lewis, Conventions: A Philosophical Study (1969), especially the treatment of conventional regularities and their arbitrary or contingent origins",
+     "relation": "Related but not sufficient. Lewis anticipates that a convention can have an accidental origin and that its stability is explained by common expectations, salience, and equilibrium, not by causal continuity; this covers the 'coincidental regularity' half, but not the public practice of justification, exception, and change."
+    }
+   ],
+   "note": "The exact formulation as a general account of 'genuine social facts' does not appear to be a standard published thesis in those exact terms. The core argument is substantially Hartian: the move from regularity to rule or institution is made public and normative by criticism, justification, and public criteria for change. The accidental-origin point is close to Lewis, but Lewisian conventions are explained by mutual expectations rather than public normative justification. For novelty, the author would need to distinguish the claim from Hart's internal point of view and secondary rules, from Lewisian coordination equilibria, and from Searle's institutional facts, and show why 'public reason' or 'normative integration' adds something not already captured by these accounts."
+  }
+ },
+ "objection": {
+  "objection": "The central contrast fails because the public practices of justification, exception, and change are already causally stable social practices; using them to explain how a mere regularity becomes a social fact both presupposes the social status it needs to explain and collapses the supposed non-causal normative explanation back into causal continuity.",
+  "severity": 5,
+  "rationale": "If unanswered, the thesis either collapses into the causal-regularity view it rejects or invokes an unexplained noncausal normative force. Public citation, excuse, challenge, and revision persist only through stable dispositions, such as beliefs, expectations, sanctions, authority, and communicative routines, so normative integration is part of the causal explanation of persistence, not an alternative to it (Searle, The Construction of Social Reality, 1995; Rawls, 'Two Concepts of Rules', 1955; Lewis, Convention, 1969). The account also cannot identify a mere regularity as incorporated into a public practice without already presupposing social facts about what counts as public justification, legitimate exception, and authorized change; hence it cannot non-circularly explain how accidental regularities become genuine social facts."
+ },
+ "novelty": {
+  "verdict": "partly",
+  "closest_work": [
+   {
+    "work": "H. L. A. Hart, The Concept of Law (1961; 3rd ed. 2012), especially ch. 2, 'Social Rules', and the account of secondary rules (rules of recognition, change, adjudication)",
+    "relation": "Closest. Hart already argues that a mere regularity becomes a social or legal rule when it is treated as a standard, deviations are criticized or justified, and the practice has public criteria for recognition, change, and adjudication; this supplies the 'regularity plus public justification/exception/change' and normative-persistence parts of the thesis, though as a theory of social and legal rules rather than a general theory of all social facts."
+   },
+   {
+    "work": "David Lewis, Conventions: A Philosophical Study (1969), especially the treatment of conventional regularities and their arbitrary or contingent origins",
+    "relation": "Related but not sufficient. Lewis anticipates that a convention can have an accidental origin and that its stability is explained by common expectations, salience, and equilibrium, not by causal continuity; this covers the 'coincidental regularity' half, but not the public practice of justification, exception, and change."
+   }
+  ],
+  "note": "The exact formulation as a general account of 'genuine social facts' does not appear to be a standard published thesis in those exact terms. The core argument is substantially Hartian: the move from regularity to rule or institution is made public and normative by criticism, justification, and public criteria for change. The accidental-origin point is close to Lewis, but Lewisian conventions are explained by mutual expectations rather than public normative justification. For novelty, the author would need to distinguish the claim from Hart's internal point of view and secondary rules, from Lewisian coordination equilibria, and from Searle's institutional facts, and show why 'public reason' or 'normative integration' adds something not already captured by these accounts."
+ },
+ "rounds": [
+  {
+   "round": 1,
+   "essay_in": "\n\n# From Coincidence to Public Reason: Normative Integration and the Explanation of Social Facts\n\n## 1. Introduction\n\nMuch social ontology begins with the claim that social facts are facts about groups, institutions, conventions, or collective intentions. That broad starting point is right, but it can obscure a more precise distinction: between regularities that merely occur in social settings and regularities that have been made into public reasons. I want to defend the following thesis.\n\n> A genuine social fact is a coincidental regularity that has been incorporated into a public practice of justification, exception, and change, so that its persistence is explained by normative integration rather than by causal continuity.\n\nBy “coincidental regularity” I do not mean a random accident in the metaphysical sense. I mean a pattern that, prior to or absent normative incorporation, is not treated by its participants as a reason-bearing item. It may be stable, habitual, environmentally produced, or coordinated. Its persistence, if any, is explained by prior causes, dispositions, or background regularities. What it lacks is the public grammar in which it can be cited as a norm, excused as an exception, or revised by public act. A genuine social fact, in the strong sense, is not merely a stable pattern. It is a pattern that has become a public reason.\n\nThe paper has four parts. First, I describe coincidental regularities and their explanatory profile. Second, I specify the three operations—justification, exception, and change—by which a regularity is normatively integrated. Third, I explain why normative integration, not causal continuity, explains the persistence of the resulting social fact. Fourth, I answer the strongest objection: that the public practices required for normative integration are themselves causally stable social practices, so the account is circular and collapses normative explanation into causal explanation.\n\n## 2. Coincidental Regularities\n\nA useful starting point is Hume’s observation that many institutions arise out of custom and convention (Hume 1987). Lewis offers an influential account of conventions as regularities sustained by mutual knowledge and coordination (Lewis 1969). Both emphasize the centrality of regularity. But regularity alone does not explain the distinctive status of social facts.\n\nLet R be a pattern of behavior, event, or representation in a population. R is a mere coincidental regularity, relative to a context C, if three conditions obtain. First, R’s continuation is not explained by participants citing R as a norm or public reason. Second, deviations from R are not publicly represented as violations, excusable failures, or authorized exceptions. Third, changes in R are not treated as amendments, suspensions, or public revisions. R may persist because of habits, environmental regularities, causal chains, or simple coordination, but it is not yet a public reason.\n\nConsider a community in which people always nod to one another. The nodding may be very stable. It may be caused by shared upbringing, a local greeting style, or the social costs of ignoring others. But suppose no one can justify the nod as a norm: “I nod because that is what we do here” is only a historical report, not an appeal to a public standard. If someone fails to nod, no one expects an excuse; no one says the greeting was suspended; no one revises the form of the greeting by public decision. The pattern is social in a thin sense—people are social beings—but it is not a genuine social fact in the strong sense. It is explained by causal continuity, not by normative integration.\n\nI am not claiming that every social fact has a prehistory as a pure accident. I am claiming that, prior to incorporation, the pattern is best described non-normatively: as a coincidence of prior causes rather than as a public reason. The important point is that the missing feature is not empirical stability. A causal chain can be extremely stable. What is missing is a public grammar of normative accountability. A mere regularity does not generate obligations, excuses, or authorized changes. It can stop without anyone having failed. It can continue without anyone having justified it. It can vary without anyone having amended anything. These features distinguish it from a genuine social fact.\n\n## 3. Normative Integration\n\nA regularity becomes a genuine social fact when it is incorporated into a public practice P that does three things.\n\nThe first operation is justification. P allows R to be cited as a public reason. “We meet on Tuesdays” is not merely a report that past meetings occurred; it is an appeal to a shared standard. Participants can invoke R to explain their own actions and to challenge others. If someone misses the meeting, the question “Why were you not there?” can be answered by reference to the meeting itself, or to a public exception. The practice is public because it is answerable: participants can ask for reasons, appeal to the practice, and be held accountable for failing to engage with it. This matches Raz’s idea that norms are public reasons that can be invoked and challenged (Raz 1975). It also fits Searle’s account of institutional facts as status functions: something counts as something else within a shared context (Searle 1995). A habitual salute, for example, becomes a convention when the salute can be excused, challenged, and revised, not merely when it is a repeated gesture.\n\nThe second operation is exception. P represents deviations from R in a public vocabulary that distinguishes violations, excusable failures, and authorized exceptions. If the Tuesday meeting is missed, the absence may be a breach requiring apology, an excused absence due to illness, or an authorized suspension. The existence of this grammar is decisive. Bicchieri emphasizes the role of mutual expectations and reactive attitudes in social norms (Bicchieri 1998), but the key feature here is not merely that people react to deviations, but that the deviations are classified in a public way. A mere regularity has no such classification. A failure to repeat a regularity is just a failure; it is not a violation, because there was no norm to violate.\n\nThe third operation is change. P authorizes revision, suspension, or amendment of R. The Tuesday meeting can be moved to Thursdays by public decision. The greeting can be replaced by a handshake. A rule can be repealed. Hart’s account of legal systems is useful here: a legal system is not a mere aggregate of primary rules; it includes secondary rules that provide criteria for recognition, change, and adjudication (Hart 1961). The analog for social facts is this: a genuine social fact is not just a behavior that persists; it is a pattern embedded in a practice that can say how it may be altered. A mere regularity can cease, but it cannot be amended in the normative sense.\n\nThese three operations require publicness. I do not mean only that the pattern is visible. I mean that participants are jointly committed to maintaining a practice of justification, exception, and change. Gilbert’s notion of joint commitment captures the idea that participants are collectively bound and can demand participation (Gilbert 1996). Bratman’s account of shared intention adds that such practices involve mutual obligations and expectations (Bratman 2014). The point is not that every participant must constantly endorse R. It is that the practice is publicly available: it can be cited, challenged, excused, and revised without each token requiring a private intention.\n\nThe result of normative integration is not that R is more stable. It is that R has become a term in a public practice. It is now a public reason. The difference is explanatory: the pattern’s persistence is no longer explained only by its causal history, but by its place in a practice of public justification, exception, and change.\n\n## 4. Explaining Persistence\n\nI need to be precise about the claim that a social fact’s persistence is explained by normative integration rather than by causal continuity. The claim is not anti-causal. Norms are realized in the world. They are sustained by beliefs, expectations, sanctions, institutions, habits, and other causal processes. Elster is right to stress that norms have social and causal lives (Elster 1989). But the explanation of a social fact’s persistence is not simply the causal continuity of prior instances.\n\nConsider the Tuesday meeting again. Before incorporation, if no meeting occurs, the explanation is a causal story: the storm canceled it, the organizer forgot, the bus was late. After incorporation, the same physical absence may be explained differently. It may be a violation requiring repair, an excused absence, or an authorized suspension. The meeting persists not because past meetings causally generate future meetings, but because participants treat the meeting as a public commitment and because the practice supplies public reasons for maintaining, repairing, or revising it.\n\nNormative integration also explains identity over time. A social fact can persist through changes in tokens, participants, and behavior. A law may persist after its original enactors are dead. A property may persist through transfer. A company may persist after all shares change hands. A meeting may be postponed and reconvened. Causal continuity of the original pattern is not necessary for the persistence of the social fact. What matters is that the public practice treats the later instances, suspensions, and revisions as continuations, exceptions, or authorized changes of the same fact. Causal continuity alone cannot explain this. A mere regularity that breaks is just gone; a social fact can survive a break because the public practice recognizes the break as an exception or an authorized alteration.\n\nThus “rather than causal continuity” means the following. Causal continuity may be a necessary background for any physical persistence. But it is not the explanation of social persistence. The explanation is that the pattern has been made into a public reason. It is now a fact whose continuation, failure, and change are evaluated within a public grammar of norms. That is the explanatory contrast.\n\n## 5. The Referee’s Objection\n\nThe strongest objection to this account is that the central contrast fails. The objection goes as follows: the public practices of justification, exception, and change are already causally stable social practices. To explain how a mere regularity becomes a social fact by appeal to such a practice both presupposes the social status it needs to explain and collapses the supposed non-causal normative explanation back into causal continuity.\n\nThis objection is important, and I take it seriously. I will answer it in three parts. First, the presupposition is local, not vicious. Second, causal stability is not the explanatory variable. Third, the objection, if taken to its full strength, would eliminate a distinction that is conceptually and empirically real.\n\n### 5.1 The Presupposition Is Local, Not Vicious\n\nWe should not expect an explanation of a particular social fact to be derived from non-social materials. The thesis is not that sociality as such emerges from non-social regularities. It is that a particular pattern acquires the status of a genuine social fact by being incorporated into a broader normative practice. The background practice may itself be a social fact. That is not circular.\n\nTo explain why a particular token is an English sentence, we appeal to English, a social practice. The practice is not the token. To explain why a particular parcel is private property, we appeal to a legal practice. The legal practice is social, but the property fact is not identical with the entire legal practice. To explain why a particular gesture is a salute, we appeal to the practice of saluting. The practice may itself be an institutional social fact, but the gesture’s being a salute is explained by its place in that practice, not by the practice’s existence simpliciter.\n\nThe status to be explained here is not “sociality” in general. It is the fact that this regularity is a public reason. The public practice of justification, exception, and change supplies the form under which a regularity can be social. The regularity is not already included in that form; it is incorporated into it. The explanation is vicious only if we explained the public practice itself by the very regularity whose social status is at issue. But the account does not do that. It explains a derivative social fact by its incorporation into a broader normative context.\n\nThis local character is common in social ontology. A promise is explained by the practice of promising. A legal obligation is explained by the legal system. A currency is explained by monetary institutions. There need be no first social fact. Social facts are relational and often hierarchical. The argument does not require a foundation of non-social facts. It requires only that, within an already public normative context, a pattern can be distinguished from a genuine social fact by the presence or absence of a public grammar of justification, exception, and change.\n\n### 5.2 Causal Stability Is Not the Explanatory Variable\n\nThe second part of the objection says that, because the public practice is causally stable, the normative explanation collapses into causal continuity. This confuses causal realization with explanatory type.\n\nNorms are causally realized. A promise is sustained by memory, trust, expectations, sanctions, and dispositions. A legal rule is sustained by courts, education, institutional habits, and social pressure. A convention is sustained by coordination, habit, and reputation. None of this is mysterious. But the explanation of a promise’s being an obligation is not “the causal process is stable.” It is that the utterance has been made into a public commitment that can be cited, challenged, excused, and revised. The explanation of a legal obligation is not “the legal system is causally stable.” It is that the obligation is generated by a rule within a public system of recognition, change, and adjudication. The causal stability of the system is a condition of its persistence, but it is not the explanation of the normative status of particular facts within it.\n\nThe relevant contrast is between two explanatory claims. Call them (C) and (N). (C) says: R persists because earlier Rs and their causes produced later Rs. (N) says: R persists because it is incorporated into a public practice that treats R as a reason and supplies public procedures for exception and change. A mere regularity can be explained by (C) alone. A genuine social fact can also have a causal history, but its persistence as a social fact is explained by (N). Both (C) and (N) may be true of the same physical pattern after incorporation, but they are different explanations. Noting that norms have causal conditions does not reduce (N) to (C).\n\nAn analogy may help. A chess move is caused by the previous move, the player’s intentions, and the physical state of the board. But the move’s being a legal move is explained by the rules, not by causal continuity. The rules are socially maintained; that does not make the rule-explanation merely causal. The rules are the explanatory variable. Their causal stability is not.\n\nA second clarification is needed. “Causal continuity” has two senses. In the minimal sense, any persistence requires causal connection. The thesis does not deny this. In the stronger sense, the persistence of a pattern is fully explained by its prior causal history. Normative integration rejects this stronger sense. A social fact can persist through causal breaks. A law may be suspended and revived. A meeting may be postponed and reconvened. A property may be transferred. A company may survive a complete change of shareholders. Its identity as the same fact is maintained by the public practice, not by an unbroken causal chain. The public practice’s causal stability is not identical with the fact’s social continuity.\n\nThe objection also assumes that if a public practice is causally stable, then any regularity incorporated into it is explained by that stability. But that would make the explanatory variable too broad. If causal stability were enough, any stable causal process in a social setting would count as a social fact. Yet a stable habit, a stable pattern of aggressive behavior, and a stable natural regularity can all be causally continuous. What distinguishes a genuine social fact is not causal stability but public normative integration: the pattern can be cited as a reason, deviations can be classified as exceptions or violations, and changes can be authorized as revisions. The causal stability of the surrounding practice is a background condition, not the explanatory contrast.\n\n### 5.3 Why the Objection Is Too Strong\n\nIf the objection were correct, the distinction between mere regularities and social facts would collapse. But the distinction is conceptually real and empirically important. A stable habit may be caused by prior behavior, but it does not require excuses, generate violations, or permit public amendment. A stable convention may solve a coordination problem, but its normative force depends on its being citable as a public reason, not merely on its being a regularity. A stable legal rule may be widely ignored, but it remains a legal fact because the public practice of justification, exception, and change still recognizes it.\n\nThe public practice is social, yes. But the regularity’s social status is explained by its incorporation into that practice, not by the practice’s causal stability. The practice supplies a normative space: a space in which patterns can be justified, excused, and changed. Once a regularity occupies that space, its persistence is explained by its normative role. The causal stability of the practice is part of the story of how the practice endures, but it is not the story of how the regularity becomes a public reason.\n\nThis response preserves the original thesis without making it anti-causal. Normative integration is not a fourth force alongside physical causation. It is a way in which causal processes are organized around public reasons. The explanation is normative because it appeals to the participants’ public grammar of justification, exception, and change. It is not merely causal because the explanatory variable is the pattern’s role as a public reason, not the mere continuity of prior instances.\n\n## 6. Conclusion\n\nThe contrast at the center of this paper is not between social facts and everything else, but between regularities that are explained by causal continuity and regularities that have been incorporated into a public practice of justification, exception, and change. A genuine social fact is a pattern that has become a public reason. Its persistence is explained not by the length or stability of a causal chain, but by the fact that participants treat it as a norm, can justify their adherence to it, can classify deviations as exceptions or violations, and can revise it by public acts.\n\nThe strongest objection asks whether the public practice required for this account is not itself a social fact, and whether the account therefore presupposes what it explains or collapses normative explanation into causal explanation. The answer is that the account is local, not foundational: it explains a particular pattern’s social-fact status by its incorporation into a broader normative context. And the answer is that causal realization is not explanatory collapse: the causal stability of the public practice is a background condition, while the explanatory variable is the pattern’s place in a public grammar of norms. Social facts are not more stable regularities. They are regularities that have been made public, answerable, and revisable.\n\n## References\n\n- Bicchieri, Cristina. 1998. *Rules and Rule-Following: The Logic of the Social*. Amsterdam: John Benjamins.\n- Bratman, Michael E. 2014. *Sharing Intention*. Princeton, NJ: Princeton University Press.\n- Elster, Jon. 1989. *The Future of Norms: A Philosophical Essay*. Princeton, NJ: Princeton University Press.\n- Gilbert, Margaret A. 1996. *On Social Commitments*. Cambridge: Polity Press.\n- Hart, H. L. A. 1961. *The Concept of Law*. Oxford: Clarendon Press.\n- Hume, David. 1987. *Essays, Moral, Political, and Historical*. Edited by E. F. Miller. Indianapolis: Hackett.\n- Lewis, David. 1969. *Convention: A Philosophical Study*. Cambridge, MA: Harvard University Press.\n- Raz, Joseph. 1975. *Practical Reason and Norms: A Theory of Social Criticism*. London: Hutchinson.\n- Searle, John R. 1995. *The Construction of Social Reality*. New York: Free Press.",
+   "steps": [
+    "If many institutions begin in regularities and coordination, and some stable regularities lack public normative grammar, Therefore, regularity alone does not identify genuine social facts.",
+    "If a pattern's continuation is not cited by participants as a norm, its deviations are not publicly classified, and its changes are not treated as public amendments, Therefore, it is a coincidental regularity rather than a genuine social fact.",
+    "If a stable pattern can stop without anyone having failed, continue without anyone having justified it, and vary without anyone having amended anything, Therefore, its deficiency is absence of public normative accountability, not absence of empirical stability.",
+    "If a practice allows a regularity to be cited as a shared public reason for action and challenge, Therefore, the regularity has acquired a normative justificatory role.",
+    "If a practice publicly distinguishes deviations into violations, excusable failures, and authorized exceptions, Therefore, the regularity is embedded in a normative classification of conduct.",
+    "If a practice authorizes public revision, suspension, or repeal of a regularity, Therefore, the regularity is part of a normative system rather than a mere causal habit.",
+    "If justification, exception, and change are jointly available to participants, and participants can demand accountability from one another, Therefore, the regularity is public in the relevant normative sense.",
+    "If a regularity is incorporated into a public practice of justification, exception, and change, Therefore, it becomes a genuine social fact, or public reason.",
+    "If the persistence, failure, and change of a pattern are evaluated by such a public practice, Therefore, the persistence of the pattern as a social fact is explained by normative integration.",
+    "If social facts are realized through beliefs, expectations, sanctions, institutions, and other causal processes, Therefore, the account is not anti-causal.",
+    "If a missed meeting before incorporation is explained by weather, forgetting, or delay, but after incorporation the same absence may be a violation, excuse, or suspension, Therefore, incorporation changes the explanatory status of the pattern.",
+    "If laws, properties, companies, or meetings can survive changes in participants, tokens, or causal chains because a public practice treats the later state as continuation, exception, or amendment, Therefore, social identity cannot be explained by unbroken causal continuity alone.",
+    "If all physical persistence requires some causal connection, but social facts can survive breaks recognized by public practice, Therefore, the claim denies strong causal continuity as a full explanation, not all causality.",
+    "If the public practices of justification, exception, and change are themselves causally stable social practices, Therefore, the account faces the objection that it presupposes sociality or collapses into causal explanation.",
+    "If explaining a particular token by a broader practice, such as a sentence by English or a property by law, is not circular, Therefore, explaining a regularity by a broader public practice is local rather than vicious.",
+    "If social facts are often relational and hierarchical, and a derivative fact can be explained by a broader normative context, Therefore, the account does not require a first non-social foundation.",
+    "If a promise or legal obligation is causally sustained but its normative status is explained by its being a public commitment or rule, Therefore, causal realization does not reduce normative explanation to causal continuity.",
+    "If one explanation says a pattern persists because earlier instances caused later instances, and another says it persists because it is incorporated into a public practice, and both can be true without being identical, Therefore, the normative explanation is not the causal explanation.",
+    "If a chess move is caused by prior moves and physical states, but its legality is explained by socially maintained rules, Therefore, socially maintained rules can be explanatory without reducing to causal continuity.",
+    "If stable habits, stable aggressive behaviors, and stable natural regularities can be causally continuous without being genuine social facts, Therefore, causal stability alone is insufficient for social-fact status.",
+    "If the objection that public practices are social would eliminate the difference between mere stable regularities and normatively integrated facts, and that difference is conceptually and empirically real, Therefore, the objection is too strong.",
+    "If a pattern can be publicly justified, its deviations can be publicly classified, and its changes can be publicly authorized, Therefore, it is a genuine social fact whose persistence is explained by normative integration."
+   ],
+   "critique": {
+    "hat": [
+     {
+      "step": 1,
+      "text": "If many institutions begin in regularities and coordination, and some stable regularities lack public normative grammar, Therefore, regularity alone does not identify genuine social facts.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument logically infers that the presence of regularity is not sufficient to establish social facts, as some stable regularities do not involve public normative grammar."
+     },
+     {
+      "step": 2,
+      "text": "If a pattern's continuation is not cited by participants as a norm, its deviations are not publicly classified, and its changes are not treated as public amendments, Therefore, it is a coincidental regularity rather than a genuine social fact.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument logically infers that a pattern is a coincidental regularity based on the absence of social recognition and institutionalization."
+     },
+     {
+      "step": 3,
+      "text": "If a stable pattern can stop without anyone having failed, continue without anyone having justified it, and vary without anyone having amended anything, Therefore, its deficiency is absence of public normative accountability, not absence of empirical stability.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument logically deduces that the lack of public normative accountability is the deficiency of a stable pattern, based on the empirical evidence of its stability."
+     },
+     {
+      "step": 4,
+      "text": "If a practice allows a regularity to be cited as a shared public reason for action and challenge, Therefore, the regularity has acquired a normative justificatory role.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument is logically sound because it recognizes that the social practice of citing regularities as reasons for action and challenge can confer normative justificatory status on those regularities."
+     },
+     {
+      "step": 5,
+      "text": "If a practice publicly distinguishes deviations into violations, excusable failures, and authorized exceptions, Therefore, the regularity is embedded in a normative classification of conduct.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument logically infers that the existence of a normative classification system implies an underlying regularity in behavior."
+     },
+     {
+      "step": 6,
+      "text": "If a practice authorizes public revision, suspension, or repeal of a regularity, Therefore, the regularity is part of a normative system rather than a mere causal habit.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument uses the concept of normative systems to distinguish between rules that are subject to change and those that are not."
+     },
+     {
+      "step": 7,
+      "text": "If justification, exception, and change are jointly available to participants, and participants can demand accountability from one another, Therefore, the regularity is public in the relevant normative sense.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument logically follows from the premises that justification, exception, and change are jointly available, and participants can demand accountability from one another."
+     },
+     {
+      "step": 8,
+      "text": "If a regularity is incorporated into a public practice of justification, exception, and change, Therefore, it becomes a genuine social fact, or public reason.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument is logically sound because it recognizes that social facts are established through collective agreement and practice, which is a valid form of reasoning."
+     },
+     {
+      "step": 9,
+      "text": "If the persistence, failure, and change of a pattern are evaluated by such a public practice, Therefore, the persistence of the pattern as a social fact is explained by normative integration.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument logically connects the persistence of a pattern to its normative integration through a public practice."
+     },
+     {
+      "step": 10,
+      "text": "If social facts are realized through beliefs, expectations, sanctions, institutions, and other causal processes, Therefore, the account is not anti-causal.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. The argument acknowledges the causal processes involved in the realization of social facts, which aligns with the causal nature of the account."
+     },
+     {
+      "step": 11,
+      "text": "If a missed meeting before incorporation is explained by weather, forgetting, or delay, but after incorporation the same absence may be a violation, excuse, or suspension, Therefore, incorporation changes the explanatory status of the pattern.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. The argument correctly applies the concept of a disjunctive syllogism to show how the context of incorporation alters the interpretation of the same event."
+     },
+     {
+      "step": 12,
+      "text": "If laws, properties, companies, or meetings can survive changes in participants, tokens, or causal chains because a public practice treats the later state as continuation, exception, or amendment, Therefore, social identity cannot be explained by unbroken causal continuity alone.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument uses the concept of social identity to illustrate the limitations of causal continuity in explaining social phenomena."
+     },
+     {
+      "step": 13,
+      "text": "If all physical persistence requires some causal connection, but social facts can survive breaks recognized by public practice, Therefore, the claim denies strong causal continuity as a full explanation, not all causality.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. The argument logically concludes that not all causality is physical by acknowledging the existence of social facts that persist despite breaks in causal continuity."
+     },
+     {
+      "step": 14,
+      "text": "If the public practices of justification, exception, and change are themselves causally stable social practices, Therefore, the account faces the objection that it presupposes sociality or collapses into causal explanation.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument logically infers that if the practices of justification, exception, and change are causally stable, then the account must either presuppose sociality or reduce to causal explanation."
+     },
+     {
+      "step": 15,
+      "text": "If explaining a particular token by a broader practice, such as a sentence by English or a property by law, is not circular, Therefore, explaining a regularity by a broader public practice is local rather than vicious.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument distinguishes between explaining specific instances and explaining general patterns, which is logically sound."
+     },
+     {
+      "step": 16,
+      "text": "If social facts are often relational and hierarchical, and a derivative fact can be explained by a broader normative context, Therefore, the account does not require a first non-social foundation.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument logically follows from the premises that social facts are relational and hierarchical, and that derivative facts can be explained by broader normative contexts."
+     },
+     {
+      "step": 17,
+      "text": "If a promise or legal obligation is causally sustained but its normative status is explained by its being a public commitment or rule, Therefore, causal realization does not reduce normative explanation to causal continuity.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument acknowledges that while causal factors may sustain a promise or obligation, its normative status is derived from its public commitment or rule-based nature, which is not reducible to mere causal continuity."
+     },
+     {
+      "step": 18,
+      "text": "If one explanation says a pattern persists because earlier instances caused later instances, and another says it persists because it is incorporated into a public practice, and both can be true without being identical, Therefore, the normative explanation is not the causal explanation.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument recognizes that normative and causal explanations can coexist without being identical, acknowledging the complexity of social phenomena."
+     },
+     {
+      "step": 19,
+      "text": "If a chess move is caused by prior moves and physical states, but its legality is explained by socially maintained rules, Therefore, socially maintained rules can be explanatory without reducing to causal continuity.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument acknowledges the causal basis of physical states and prior moves while recognizing the distinct explanatory role of socially maintained rules in determining the legality of a chess move."
+     },
+     {
+      "step": 20,
+      "text": "If stable habits, stable aggressive behaviors, and stable natural regularities can be causally continuous without being genuine social facts, Therefore, causal stability alone is insufficient for social-fact status.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument logically infers that causal stability is not a necessary condition for social-fact status based on the existence of stable phenomena that are not social facts."
+     },
+     {
+      "step": 21,
+      "text": "If the objection that public practices are social would eliminate the difference between mere stable regularities and normatively integrated facts, and that difference is conceptually and empirically real, Therefore, the objection is too strong.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument uses modus tollens to logically infer that if the objection were true, it would lead to an absurdity, thus it must be false."
+     },
+     {
+      "step": 22,
+      "text": "If a pattern can be publicly justified, its deviations can be publicly classified, and its changes can be publicly authorized, Therefore, it is a genuine social fact whose persistence is explained by normative integration.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "No fallacy. This argument logically connects the public justification of a pattern with its classification, authorization, and normative integration, which are key aspects of social facts."
+     }
+    ],
+    "placebo": [
+     {
+      "step": 1,
+      "text": "If many institutions begin in regularities and coordination, and some stable regularities lack public normative grammar, Therefore, regularity alone does not identify genuine social facts.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "The argument presented does not contain a logical fallacy. It is a valid reasoning process based on the premises provided. Here's a breakdown:\n\n1. **Premise 1**: Many institutions begin in regularities and coordination.\n2. **Premise 2**: Some stable regularities lack public normative grammar.\n3. **Conclusion**: Therefore, regularity alone does not identify genuine social facts.\n\nThe reasoning is sound because it logically follows that if some stable regularities do not have public normative grammar, then regularity by itself is insufficient to define genuine social facts. The argument is structured to show that mere regularity is not enough to establish something as a social fact, as it lacks the necessary normative component. This is a straightforward application of logical deduction rather than a fallacy."
+     },
+     {
+      "step": 2,
+      "text": "If a pattern's continuation is not cited by participants as a norm, its deviations are not publicly classified, and its changes are not treated as public amendments, Therefore, it is a coincidental regularity rather than a genuine social fact.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "fallacy of begging the question",
+      "explanation": "The argument presented seems to commit the **fallacy of begging the question** (also known as circular reasoning). This fallacy occurs when the conclusion is assumed in one of the premises, essentially restating the conclusion in a different form without providing independent support.\n\nIn this case, the argument assumes that for a pattern to be a \"genuine social fact,\" it must be publicly recognized and treated as such (through norms, classifications, and amendments). The conclusion that the pattern is merely a \"coincidental regularity\" is based on the absence of these public recognitions, which are themselves part of the definition of a \"genuine social fact.\" Thus, the argument is circular because it uses the absence of public recognition (a criterion for being a social fact) to conclude that the pattern is not a social fact, without providing independent evidence for why the pattern should be considered coincidental.\n\nThe flaw in the reasoning is that it does not consider other ways a pattern might be a genuine social fact, such as through implicit understanding or informal recognition, and it relies on a narrow definition that is not substantiated by evidence outside of the argument itself."
+     },
+     {
+      "step": 3,
+      "text": "If a stable pattern can stop without anyone having failed, continue without anyone having justified it, and vary without anyone having amended anything, Therefore, its deficiency is absence of public normative accountability, not absence of empirical stability.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "equivocation",
+      "explanation": "The argument presented seems to commit the fallacy of **equivocation**. Equivocation occurs when a key term or phrase in an argument is used in an ambiguous way, with one meaning in one portion of the argument and another meaning in another portion.\n\nIn this case, the argument discusses a \"stable pattern\" and attributes various characteristics to it, such as stopping, continuing, and varying without anyone having failed, justified, or amended anything. The conclusion then attributes the deficiency of this pattern to \"absence of public normative accountability\" rather than \"absence of empirical stability.\"\n\nThe equivocation here lies in the use of the term \"stable pattern.\" Initially, it seems to refer to a pattern that is empirically stable (i.e., consistent and predictable in its behavior). However, the conclusion shifts the focus to a normative concept—public normative accountability—without adequately bridging the gap between empirical stability and normative accountability. The argument assumes that because the pattern can exhibit certain behaviors without empirical intervention, its deficiency must be normative rather than empirical, without sufficiently justifying why the lack of empirical stability should be interpreted as a normative issue.\n\nThus, the flaw in reasoning is the shift in the meaning of \"stability\" from an empirical context to a normative one without clear justification, leading to a misleading conclusion."
+     },
+     {
+      "step": 4,
+      "text": "If a practice allows a regularity to be cited as a shared public reason for action and challenge, Therefore, the regularity has acquired a normative justificatory role.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "\"begging the question\"",
+      "explanation": "The argument presented seems to commit the **\"begging the question\"** fallacy, also known as **petitio principii**. This fallacy occurs when an argument's premises assume the truth of the conclusion, instead of supporting it.\n\nIn this case, the argument assumes that because a practice allows a regularity to be cited as a shared public reason for action and challenge, it automatically follows that the regularity has acquired a normative justificatory role. However, the conclusion that the regularity has a normative justificatory role is essentially what is being assumed in the premise. The argument does not provide independent support for why the ability to cite a regularity as a reason for action and challenge necessarily means it has a normative justificatory role. It assumes the conclusion within the premise, thus begging the question."
+     },
+     {
+      "step": 5,
+      "text": "If a practice publicly distinguishes deviations into violations, excusable failures, and authorized exceptions, Therefore, the regularity is embedded in a normative classification of conduct.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "The argument presented does not contain a logical fallacy. It is a reasonable inference based on the premise provided. Here's why:\n\nThe premise states that a practice distinguishes deviations into three categories: violations, excusable failures, and authorized exceptions. This implies that there is a structured system in place to evaluate and classify deviations from a standard or norm. The conclusion that \"the regularity is embedded in a normative classification of conduct\" logically follows because the existence of such a classification system suggests that there is an underlying regularity or standard that these deviations are being measured against. The classification itself is a reflection of the normative expectations within the practice.\n\nIn Kelley's \"The Art of Reasoning,\" this type of reasoning would be seen as a valid deductive argument, where the conclusion is a logical consequence of the premises. There is no flaw in the reasoning here, as the conclusion is directly supported by the premise."
+     },
+     {
+      "step": 6,
+      "text": "If a practice authorizes public revision, suspension, or repeal of a regularity, Therefore, the regularity is part of a normative system rather than a mere causal habit.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "affirming the consequent",
+      "explanation": "The argument presented seems to commit the fallacy of **affirming the consequent**. This is a formal fallacy that occurs in a conditional (if-then) statement. The structure of the fallacy is as follows:\n\n1. If P, then Q.\n2. Q.\n3. Therefore, P.\n\nIn this case:\n\n1. If a practice is part of a normative system, then it authorizes public revision, suspension, or repeal of a regularity.\n2. A practice authorizes public revision, suspension, or repeal of a regularity.\n3. Therefore, the practice is part of a normative system.\n\nThe flaw in the reasoning is that just because a practice has the characteristic of authorizing public revision, suspension, or repeal (Q), it does not necessarily mean it is part of a normative system (P). There could be other reasons or systems where such authorizations occur that are not normative systems. The argument assumes that the presence of Q guarantees P, which is not logically valid."
+     },
+     {
+      "step": 7,
+      "text": "If justification, exception, and change are jointly available to participants, and participants can demand accountability from one another, Therefore, the regularity is public in the relevant normative sense.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "Begging the Question (Circular Reasoning):",
+      "explanation": "The argument presented seems to be structured as a logical deduction, but it may contain a fallacy known as the \"begging the question\" fallacy, also known as \"circular reasoning.\"\n\n**Explanation:**\n\n- **Begging the Question (Circular Reasoning):** This fallacy occurs when the conclusion of an argument is assumed in the premises. In this case, the argument assumes that if justification, exception, and change are available, and accountability can be demanded, then regularity is public in a normative sense. However, it does not provide independent support for why these conditions necessarily lead to the conclusion that regularity is public in the relevant normative sense. The argument seems to presuppose what it is trying to prove, without offering a separate justification for the connection between the premises and the conclusion.\n\nTo avoid this fallacy, the argument would need to provide additional reasoning or evidence showing why the availability of justification, exception, and change, along with the ability to demand accountability, logically leads to the conclusion that regularity is public in the relevant normative sense."
+     },
+     {
+      "step": 8,
+      "text": "If a regularity is incorporated into a public practice of justification, exception, and change, Therefore, it becomes a genuine social fact, or public reason.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "Begging the Question",
+      "explanation": "The argument presented seems to commit the **Begging the Question** fallacy, also known as circular reasoning. This fallacy occurs when the conclusion is assumed in one of the premises, essentially restating the conclusion in a different form without providing actual evidence or reasoning to support it.\n\nIn this case, the argument suggests that if a regularity is incorporated into a public practice of justification, exception, and change, it becomes a genuine social fact or public reason. However, the conclusion that it becomes a \"genuine social fact\" is essentially assumed in the premise that it is incorporated into a public practice. The argument does not provide independent reasoning or evidence to explain why incorporation into public practice necessarily makes something a genuine social fact, thus assuming what it is trying to prove."
+     },
+     {
+      "step": 9,
+      "text": "If the persistence, failure, and change of a pattern are evaluated by such a public practice, Therefore, the persistence of the pattern as a social fact is explained by normative integration.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "\"begging the question\"",
+      "explanation": "The argument presented seems to commit the **\"begging the question\"** fallacy, also known as **circular reasoning**. This fallacy occurs when the conclusion is assumed in one of the premises, essentially restating the conclusion in a different form without providing actual evidence or reasoning to support it.\n\nIn this case, the argument suggests that the persistence of a pattern as a social fact is explained by normative integration because it is evaluated by a public practice. However, it assumes that normative integration is the reason for the pattern's persistence without providing independent evidence or reasoning to support this claim. The argument essentially restates the conclusion (that normative integration explains the persistence) as part of its premise (evaluation by public practice), without demonstrating how this evaluation leads to the conclusion."
+     },
+     {
+      "step": 10,
+      "text": "If social facts are realized through beliefs, expectations, sanctions, institutions, and other causal processes, Therefore, the account is not anti-causal.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "non sequitur",
+      "explanation": "The argument presented seems to commit the **non sequitur** fallacy. A non sequitur occurs when the conclusion does not logically follow from the premises. In this case, the premise is that social facts are realized through various causal processes, such as beliefs, expectations, sanctions, and institutions. However, the conclusion that \"the account is not anti-causal\" does not logically follow from this premise.\n\nThe flaw in the reasoning is that merely stating that social facts are realized through causal processes does not inherently address whether the account is anti-causal or not. The argument does not provide a direct link or explanation of how the realization of social facts through causal processes negates the possibility of the account being anti-causal. To establish that the account is not anti-causal, one would need to explicitly demonstrate how the account incorporates causality in a way that contradicts anti-causal claims. Without this connection, the conclusion is not adequately supported by the premise."
+     },
+     {
+      "step": 11,
+      "text": "If a missed meeting before incorporation is explained by weather, forgetting, or delay, but after incorporation the same absence may be a violation, excuse, or suspension, Therefore, incorporation changes the explanatory status of the pattern.",
+      "flag": false,
+      "verdict": "unclear",
+      "fallacy": null,
+      "explanation": "The argument presented contains a logical fallacy known as the \"equivocation fallacy.\"\n\n**Explanation:**\n\nThe equivocation fallacy occurs when a key term or phrase in an argument is used in an ambiguous way, with one meaning in one portion of the argument and another meaning in another portion. In this case, the term \"explanatory status\" is being used ambiguously. Before incorporation, the reasons for missing a meeting (weather, forgetting, or delay) are considered explanations for the absence. After incorporation, the same reasons are categorized differently (violation, excuse, or suspension).\n\nThe flaw in the reasoning is that the argument assumes that the change in categorization (from explanation to violation/excuse/suspension) implies a change in the nature of the reasons themselves, rather than recognizing that the change is due to a shift in context or rules (incorporation). The reasons themselves (weather, forgetting, delay) do not inherently change; rather, the framework within which they are interpreted changes. Thus, the argument equivocates on the meaning of \"explanatory status\" by conflating the reasons with their categorization under different conditions."
+     },
+     {
+      "step": 12,
+      "text": "If laws, properties, companies, or meetings can survive changes in participants, tokens, or causal chains because a public practice treats the later state as continuation, exception, or amendment, Therefore, social identity cannot be explained by unbroken causal continuity alone.",
+      "flag": false,
+      "verdict": "unclear",
+      "fallacy": null,
+      "explanation": "The argument presented seems to commit the fallacy of **false analogy**. This fallacy occurs when an argument assumes that because two things are similar in one or more respects, they are necessarily similar in some other respect. In this case, the argument draws an analogy between the continuity of laws, properties, companies, or meetings and social identity, suggesting that because the former can survive changes in participants or causal chains due to public practices, social identity cannot be explained by unbroken causal continuity alone.\n\nThe flaw in this reasoning lies in the assumption that the mechanisms allowing for the continuity of laws, properties, companies, or meetings are directly applicable to the concept of social identity. These entities are often maintained through explicit rules, agreements, or conventions that are recognized and upheld by a community or society. Social identity, however, is a more complex and nuanced concept that involves personal, psychological, and social dimensions that may not be adequately captured by the same mechanisms.\n\nTherefore, the analogy is misleading because it oversimplifies the nature of social identity and assumes that the same principles of continuity apply without considering the unique aspects of identity formation and maintenance."
+     },
+     {
+      "step": 13,
+      "text": "If all physical persistence requires some causal connection, but social facts can survive breaks recognized by public practice, Therefore, the claim denies strong causal continuity as a full explanation, not all causality.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "equivocation",
+      "explanation": "The argument presented seems to commit the fallacy of **equivocation**. Equivocation occurs when a key term or phrase in an argument is used in an ambiguous way, with one meaning in one portion of the argument and another meaning in another portion.\n\nIn this case, the term \"causal connection\" is used ambiguously. Initially, it is implied that \"all physical persistence requires some causal connection,\" suggesting a strict, perhaps scientific or physical, interpretation of causality. However, when discussing \"social facts,\" the argument shifts to a more flexible interpretation of causality, one that accommodates breaks recognized by public practice. This shift in the meaning of \"causal connection\" without clarification leads to a misleading conclusion that \"not all causality\" requires strong causal continuity.\n\nThe flaw in the reasoning is the failure to consistently define what is meant by \"causal connection\" across different contexts (physical vs. social), leading to a conclusion that conflates different types of causality without adequately addressing the differences between them."
+     },
+     {
+      "step": 14,
+      "text": "If the public practices of justification, exception, and change are themselves causally stable social practices, Therefore, the account faces the objection that it presupposes sociality or collapses into causal explanation.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "Begging the Question",
+      "explanation": "The argument presented seems to commit the fallacy of **Begging the Question** (also known as circular reasoning). \n\n**Explanation:**\n- **Begging the Question** occurs when an argument's premises assume the truth of the conclusion, instead of supporting it. In this case, the argument suggests that if public practices of justification, exception, and change are causally stable, then the account presupposes sociality or collapses into causal explanation. However, it does not provide independent support for why these practices would necessarily presuppose sociality or lead to a causal explanation. Instead, it assumes that the causal stability of these practices inherently leads to the conclusion without further justification, thus assuming what it is trying to prove.\n\nThe flaw lies in the lack of external reasoning or evidence to support the leap from causal stability to the presupposition of sociality or causal explanation, making the argument circular."
+     },
+     {
+      "step": 15,
+      "text": "If explaining a particular token by a broader practice, such as a sentence by English or a property by law, is not circular, Therefore, explaining a regularity by a broader public practice is local rather than vicious.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "equivocation",
+      "explanation": "The argument presented seems to commit the fallacy of **equivocation**. Equivocation occurs when a key term or phrase in an argument is used in an ambiguous way, with one meaning in one portion of the argument and another meaning in another portion.\n\nIn this case, the argument hinges on the distinction between \"explaining a particular token by a broader practice\" and \"explaining a regularity by a broader public practice.\" The argument suggests that because the former is not circular, the latter must be local rather than vicious. However, it does not adequately address whether the nature of the explanation changes when moving from a particular instance to a regularity. The terms \"particular token\" and \"regularity\" are used in a way that might imply they are equivalent or similar, but they are not necessarily so. The argument assumes that what holds for explaining individual instances (tokens) also holds for explaining regular patterns (regularities), without justifying why this assumption is valid.\n\nThe flaw lies in the shift in meaning or application of the terms without acknowledging that the context or implications might differ, leading to a misleading conclusion."
+     },
+     {
+      "step": 16,
+      "text": "If social facts are often relational and hierarchical, and a derivative fact can be explained by a broader normative context, Therefore, the account does not require a first non-social foundation.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "Begging the Question",
+      "explanation": "The argument presented seems to commit the fallacy of **Begging the Question** (also known as circular reasoning). This fallacy occurs when the conclusion is assumed in one of the premises, essentially restating the conclusion in a different form without providing independent support.\n\nIn this case, the argument suggests that because social facts are relational and hierarchical, and derivative facts can be explained by a broader normative context, it follows that no first non-social foundation is required. However, this reasoning assumes what it is trying to prove: that a non-social foundation is unnecessary. The argument does not provide independent evidence or reasoning to support the claim that a non-social foundation is not needed; instead, it presupposes the conclusion within the premises.\n\nTo avoid this fallacy, the argument would need to provide additional evidence or reasoning that directly addresses why a non-social foundation is unnecessary, rather than assuming it from the outset."
+     },
+     {
+      "step": 17,
+      "text": "If a promise or legal obligation is causally sustained but its normative status is explained by its being a public commitment or rule, Therefore, causal realization does not reduce normative explanation to causal continuity.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "The argument presented does not contain a logical fallacy. It is making a distinction between causal realization and normative explanation. Here's a breakdown:\n\n1. **Causal Realization**: This refers to the idea that a promise or legal obligation is sustained through causal means, such as actions or events that maintain its existence.\n\n2. **Normative Explanation**: This refers to the justification or reasoning behind why a promise or legal obligation holds normative status, such as being a public commitment or rule.\n\nThe argument states that even if a promise or legal obligation is causally sustained, its normative status is explained by its nature as a public commitment or rule. Therefore, the causal realization (how it is maintained) does not reduce or explain the normative explanation (why it holds normative weight).\n\nThe reasoning here is not fallacious because it correctly distinguishes between the causal aspects of maintaining a promise or obligation and the normative reasons for its existence. It does not conflate or improperly equate these two different types of explanations. Thus, the argument is logically sound as it stands."
+     },
+     {
+      "step": 18,
+      "text": "If one explanation says a pattern persists because earlier instances caused later instances, and another says it persists because it is incorporated into a public practice, and both can be true without being identical, Therefore, the normative explanation is not the causal explanation.",
+      "flag": false,
+      "verdict": "unclear",
+      "fallacy": null,
+      "explanation": "The argument presented contains a logical fallacy known as a \"false dichotomy\" or \"false dilemma.\" This fallacy occurs when an argument incorrectly assumes that there are only two mutually exclusive options or explanations when, in fact, there may be more.\n\nIn this case, the argument suggests that because one explanation attributes a pattern's persistence to causation (earlier instances causing later instances) and another attributes it to incorporation into a public practice, and both can be true without being identical, it follows that the normative explanation is not the causal explanation. This reasoning falsely assumes that the normative and causal explanations are mutually exclusive and cannot overlap or coexist. However, it is possible for a normative explanation (one based on social practices or norms) to also have causal elements, or for causal explanations to be influenced by normative factors. The flaw lies in the assumption that these explanations must be entirely separate and cannot intersect or complement each other."
+     },
+     {
+      "step": 19,
+      "text": "If a chess move is caused by prior moves and physical states, but its legality is explained by socially maintained rules, Therefore, socially maintained rules can be explanatory without reducing to causal continuity.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "The argument presented does not contain a logical fallacy. It is making a distinction between two types of explanations: causal explanations and normative explanations.\n\n1. **Causal Explanation**: The legality of a chess move is influenced by prior moves and the physical state of the chessboard. This is a causal explanation because it describes how the move fits within the sequence of events and physical conditions.\n\n2. **Normative Explanation**: The legality of a chess move is also determined by socially maintained rules. This is a normative explanation because it refers to the rules and conventions that define what is considered a legal move in the context of the game.\n\nThe argument is highlighting that socially maintained rules provide a different kind of explanation than causal continuity. It suggests that normative explanations (rules) can be explanatory in their own right without being reducible to causal explanations. This distinction is valid and does not involve a logical fallacy. It reflects an understanding that different types of explanations can coexist and serve different purposes."
+     },
+     {
+      "step": 20,
+      "text": "If stable habits, stable aggressive behaviors, and stable natural regularities can be causally continuous without being genuine social facts, Therefore, causal stability alone is insufficient for social-fact status.",
+      "flag": false,
+      "verdict": "no_fallacy",
+      "fallacy": null,
+      "explanation": "The argument presented does not contain a logical fallacy. It is a deductive reasoning process that draws a conclusion based on the premises provided. Here's a breakdown:\n\n1. **Premise**: Stable habits, stable aggressive behaviors, and stable natural regularities can be causally continuous without being genuine social facts.\n2. **Conclusion**: Therefore, causal stability alone is insufficient for social-fact status.\n\nThe reasoning is valid because it logically follows that if something can be causally stable without being a social fact, then causal stability by itself cannot be the defining characteristic of a social fact. The argument is structured to show that additional criteria beyond causal stability are necessary for something to be considered a social fact. There is no flaw in the reasoning as presented, so there is \"no fallacy.\""
+     },
+     {
+      "step": 21,
+      "text": "If the objection that public practices are social would eliminate the difference between mere stable regularities and normatively integrated facts, and that difference is conceptually and empirically real, Therefore, the objection is too strong.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "non sequitur",
+      "explanation": "The argument presented contains a logical fallacy known as a **non sequitur**. \n\nA non sequitur occurs when the conclusion does not logically follow from the premises. In this case, the argument states that if the objection (that public practices are social) eliminates the difference between mere stable regularities and normatively integrated facts, and that difference is conceptually and empirically real, then the objection is too strong. However, the conclusion that the objection is too strong does not logically follow from the premises provided. The premises discuss the nature of the objection and the reality of the difference, but they do not provide a direct logical link to the strength of the objection. The argument assumes that the existence of a real difference automatically implies the objection is too strong, without further justification or explanation of why this would be the case."
+     },
+     {
+      "step": 22,
+      "text": "If a pattern can be publicly justified, its deviations can be publicly classified, and its changes can be publicly authorized, Therefore, it is a genuine social fact whose persistence is explained by normative integration.",
+      "flag": true,
+      "verdict": "fallacy",
+      "fallacy": "Begging the Question",
+      "explanation": "The argument presented seems to commit the fallacy of **Begging the Question** (also known as circular reasoning). This fallacy occurs when the conclusion is assumed in one of the premises, essentially restating the conclusion in a different form without providing independent support.\n\nIn this case, the argument claims that because a pattern can be publicly justified, classified, and authorized, it is a \"genuine social fact\" explained by \"normative integration.\" However, the conclusion that it is a \"genuine social fact\" whose persistence is explained by \"normative integration\" is essentially assumed in the premise that it can be publicly justified, classified, and authorized. The argument does not provide independent evidence or reasoning to support why these public processes necessarily make it a genuine social fact or explain its persistence through normative integration. Instead, it assumes that these processes inherently confer the status of a genuine social fact, which is the very point in question."
+     }
+    ]
+   }
+  }
+ ],
+ "final": {
+  "essay": "\n\n# From Coincidence to Public Reason: Normative Integration and the Explanation of Social Facts\n\n## 1. Introduction\n\nMuch social ontology begins with the claim that social facts are facts about groups, institutions, conventions, or collective intentions. That broad starting point is right, but it can obscure a more precise distinction: between regularities that merely occur in social settings and regularities that have been made into public reasons. I want to defend the following thesis.\n\n> A genuine social fact is a coincidental regularity that has been incorporated into a public practice of justification, exception, and change, so that its persistence is explained by normative integration rather than by causal continuity.\n\nBy “coincidental regularity” I do not mean a random accident in the metaphysical sense. I mean a pattern that, prior to or absent normative incorporation, is not treated by its participants as a reason-bearing item. It may be stable, habitual, environmentally produced, or coordinated. Its persistence, if any, is explained by prior causes, dispositions, or background regularities. What it lacks is the public grammar in which it can be cited as a norm, excused as an exception, or revised by public act. A genuine social fact, in the strong sense, is not merely a stable pattern. It is a pattern that has become a public reason.\n\nThe paper has four parts. First, I describe coincidental regularities and their explanatory profile. Second, I specify the three operations—justification, exception, and change—by which a regularity is normatively integrated. Third, I explain why normative integration, not causal continuity, explains the persistence of the resulting social fact. Fourth, I answer the strongest objection: that the public practices required for normative integration are themselves causally stable social practices, so the account is circular and collapses normative explanation into causal explanation.\n\n## 2. Coincidental Regularities\n\nA useful starting point is Hume’s observation that many institutions arise out of custom and convention (Hume 1987). Lewis offers an influential account of conventions as regularities sustained by mutual knowledge and coordination (Lewis 1969). Both emphasize the centrality of regularity. But regularity alone does not explain the distinctive status of social facts.\n\nLet R be a pattern of behavior, event, or representation in a population. R is a mere coincidental regularity, relative to a context C, if three conditions obtain. First, R’s continuation is not explained by participants citing R as a norm or public reason. Second, deviations from R are not publicly represented as violations, excusable failures, or authorized exceptions. Third, changes in R are not treated as amendments, suspensions, or public revisions. R may persist because of habits, environmental regularities, causal chains, or simple coordination, but it is not yet a public reason.\n\nConsider a community in which people always nod to one another. The nodding may be very stable. It may be caused by shared upbringing, a local greeting style, or the social costs of ignoring others. But suppose no one can justify the nod as a norm: “I nod because that is what we do here” is only a historical report, not an appeal to a public standard. If someone fails to nod, no one expects an excuse; no one says the greeting was suspended; no one revises the form of the greeting by public decision. The pattern is social in a thin sense—people are social beings—but it is not a genuine social fact in the strong sense. It is explained by causal continuity, not by normative integration.\n\nI am not claiming that every social fact has a prehistory as a pure accident. I am claiming that, prior to incorporation, the pattern is best described non-normatively: as a coincidence of prior causes rather than as a public reason. The important point is that the missing feature is not empirical stability. A causal chain can be extremely stable. What is missing is a public grammar of normative accountability. A mere regularity does not generate obligations, excuses, or authorized changes. It can stop without anyone having failed. It can continue without anyone having justified it. It can vary without anyone having amended anything. These features distinguish it from a genuine social fact.\n\n## 3. Normative Integration\n\nA regularity becomes a genuine social fact when it is incorporated into a public practice P that does three things.\n\nThe first operation is justification. P allows R to be cited as a public reason. “We meet on Tuesdays” is not merely a report that past meetings occurred; it is an appeal to a shared standard. Participants can invoke R to explain their own actions and to challenge others. If someone misses the meeting, the question “Why were you not there?” can be answered by reference to the meeting itself, or to a public exception. The practice is public because it is answerable: participants can ask for reasons, appeal to the practice, and be held accountable for failing to engage with it. This matches Raz’s idea that norms are public reasons that can be invoked and challenged (Raz 1975). It also fits Searle’s account of institutional facts as status functions: something counts as something else within a shared context (Searle 1995). A habitual salute, for example, becomes a convention when the salute can be excused, challenged, and revised, not merely when it is a repeated gesture.\n\nThe second operation is exception. P represents deviations from R in a public vocabulary that distinguishes violations, excusable failures, and authorized exceptions. If the Tuesday meeting is missed, the absence may be a breach requiring apology, an excused absence due to illness, or an authorized suspension. The existence of this grammar is decisive. Bicchieri emphasizes the role of mutual expectations and reactive attitudes in social norms (Bicchieri 1998), but the key feature here is not merely that people react to deviations, but that the deviations are classified in a public way. A mere regularity has no such classification. A failure to repeat a regularity is just a failure; it is not a violation, because there was no norm to violate.\n\nThe third operation is change. P authorizes revision, suspension, or amendment of R. The Tuesday meeting can be moved to Thursdays by public decision. The greeting can be replaced by a handshake. A rule can be repealed. Hart’s account of legal systems is useful here: a legal system is not a mere aggregate of primary rules; it includes secondary rules that provide criteria for recognition, change, and adjudication (Hart 1961). The analog for social facts is this: a genuine social fact is not just a behavior that persists; it is a pattern embedded in a practice that can say how it may be altered. A mere regularity can cease, but it cannot be amended in the normative sense.\n\nThese three operations require publicness. I do not mean only that the pattern is visible. I mean that participants are jointly committed to maintaining a practice of justification, exception, and change. Gilbert’s notion of joint commitment captures the idea that participants are collectively bound and can demand participation (Gilbert 1996). Bratman’s account of shared intention adds that such practices involve mutual obligations and expectations (Bratman 2014). The point is not that every participant must constantly endorse R. It is that the practice is publicly available: it can be cited, challenged, excused, and revised without each token requiring a private intention.\n\nThe result of normative integration is not that R is more stable. It is that R has become a term in a public practice. It is now a public reason. The difference is explanatory: the pattern’s persistence is no longer explained only by its causal history, but by its place in a practice of public justification, exception, and change.\n\n## 4. Explaining Persistence\n\nI need to be precise about the claim that a social fact’s persistence is explained by normative integration rather than by causal continuity. The claim is not anti-causal. Norms are realized in the world. They are sustained by beliefs, expectations, sanctions, institutions, habits, and other causal processes. Elster is right to stress that norms have social and causal lives (Elster 1989). But the explanation of a social fact’s persistence is not simply the causal continuity of prior instances.\n\nConsider the Tuesday meeting again. Before incorporation, if no meeting occurs, the explanation is a causal story: the storm canceled it, the organizer forgot, the bus was late. After incorporation, the same physical absence may be explained differently. It may be a violation requiring repair, an excused absence, or an authorized suspension. The meeting persists not because past meetings causally generate future meetings, but because participants treat the meeting as a public commitment and because the practice supplies public reasons for maintaining, repairing, or revising it.\n\nNormative integration also explains identity over time. A social fact can persist through changes in tokens, participants, and behavior. A law may persist after its original enactors are dead. A property may persist through transfer. A company may persist after all shares change hands. A meeting may be postponed and reconvened. Causal continuity of the original pattern is not necessary for the persistence of the social fact. What matters is that the public practice treats the later instances, suspensions, and revisions as continuations, exceptions, or authorized changes of the same fact. Causal continuity alone cannot explain this. A mere regularity that breaks is just gone; a social fact can survive a break because the public practice recognizes the break as an exception or an authorized alteration.\n\nThus “rather than causal continuity” means the following. Causal continuity may be a necessary background for any physical persistence. But it is not the explanation of social persistence. The explanation is that the pattern has been made into a public reason. It is now a fact whose continuation, failure, and change are evaluated within a public grammar of norms. That is the explanatory contrast.\n\n## 5. The Referee’s Objection\n\nThe strongest objection to this account is that the central contrast fails. The objection goes as follows: the public practices of justification, exception, and change are already causally stable social practices. To explain how a mere regularity becomes a social fact by appeal to such a practice both presupposes the social status it needs to explain and collapses the supposed non-causal normative explanation back into causal continuity.\n\nThis objection is important, and I take it seriously. I will answer it in three parts. First, the presupposition is local, not vicious. Second, causal stability is not the explanatory variable. Third, the objection, if taken to its full strength, would eliminate a distinction that is conceptually and empirically real.\n\n### 5.1 The Presupposition Is Local, Not Vicious\n\nWe should not expect an explanation of a particular social fact to be derived from non-social materials. The thesis is not that sociality as such emerges from non-social regularities. It is that a particular pattern acquires the status of a genuine social fact by being incorporated into a broader normative practice. The background practice may itself be a social fact. That is not circular.\n\nTo explain why a particular token is an English sentence, we appeal to English, a social practice. The practice is not the token. To explain why a particular parcel is private property, we appeal to a legal practice. The legal practice is social, but the property fact is not identical with the entire legal practice. To explain why a particular gesture is a salute, we appeal to the practice of saluting. The practice may itself be an institutional social fact, but the gesture’s being a salute is explained by its place in that practice, not by the practice’s existence simpliciter.\n\nThe status to be explained here is not “sociality” in general. It is the fact that this regularity is a public reason. The public practice of justification, exception, and change supplies the form under which a regularity can be social. The regularity is not already included in that form; it is incorporated into it. The explanation is vicious only if we explained the public practice itself by the very regularity whose social status is at issue. But the account does not do that. It explains a derivative social fact by its incorporation into a broader normative context.\n\nThis local character is common in social ontology. A promise is explained by the practice of promising. A legal obligation is explained by the legal system. A currency is explained by monetary institutions. There need be no first social fact. Social facts are relational and often hierarchical. The argument does not require a foundation of non-social facts. It requires only that, within an already public normative context, a pattern can be distinguished from a genuine social fact by the presence or absence of a public grammar of justification, exception, and change.\n\n### 5.2 Causal Stability Is Not the Explanatory Variable\n\nThe second part of the objection says that, because the public practice is causally stable, the normative explanation collapses into causal continuity. This confuses causal realization with explanatory type.\n\nNorms are causally realized. A promise is sustained by memory, trust, expectations, sanctions, and dispositions. A legal rule is sustained by courts, education, institutional habits, and social pressure. A convention is sustained by coordination, habit, and reputation. None of this is mysterious. But the explanation of a promise’s being an obligation is not “the causal process is stable.” It is that the utterance has been made into a public commitment that can be cited, challenged, excused, and revised. The explanation of a legal obligation is not “the legal system is causally stable.” It is that the obligation is generated by a rule within a public system of recognition, change, and adjudication. The causal stability of the system is a condition of its persistence, but it is not the explanation of the normative status of particular facts within it.\n\nThe relevant contrast is between two explanatory claims. Call them (C) and (N). (C) says: R persists because earlier Rs and their causes produced later Rs. (N) says: R persists because it is incorporated into a public practice that treats R as a reason and supplies public procedures for exception and change. A mere regularity can be explained by (C) alone. A genuine social fact can also have a causal history, but its persistence as a social fact is explained by (N). Both (C) and (N) may be true of the same physical pattern after incorporation, but they are different explanations. Noting that norms have causal conditions does not reduce (N) to (C).\n\nAn analogy may help. A chess move is caused by the previous move, the player’s intentions, and the physical state of the board. But the move’s being a legal move is explained by the rules, not by causal continuity. The rules are socially maintained; that does not make the rule-explanation merely causal. The rules are the explanatory variable. Their causal stability is not.\n\nA second clarification is needed. “Causal continuity” has two senses. In the minimal sense, any persistence requires causal connection. The thesis does not deny this. In the stronger sense, the persistence of a pattern is fully explained by its prior causal history. Normative integration rejects this stronger sense. A social fact can persist through causal breaks. A law may be suspended and revived. A meeting may be postponed and reconvened. A property may be transferred. A company may survive a complete change of shareholders. Its identity as the same fact is maintained by the public practice, not by an unbroken causal chain. The public practice’s causal stability is not identical with the fact’s social continuity.\n\nThe objection also assumes that if a public practice is causally stable, then any regularity incorporated into it is explained by that stability. But that would make the explanatory variable too broad. If causal stability were enough, any stable causal process in a social setting would count as a social fact. Yet a stable habit, a stable pattern of aggressive behavior, and a stable natural regularity can all be causally continuous. What distinguishes a genuine social fact is not causal stability but public normative integration: the pattern can be cited as a reason, deviations can be classified as exceptions or violations, and changes can be authorized as revisions. The causal stability of the surrounding practice is a background condition, not the explanatory contrast.\n\n### 5.3 Why the Objection Is Too Strong\n\nIf the objection were correct, the distinction between mere regularities and social facts would collapse. But the distinction is conceptually real and empirically important. A stable habit may be caused by prior behavior, but it does not require excuses, generate violations, or permit public amendment. A stable convention may solve a coordination problem, but its normative force depends on its being citable as a public reason, not merely on its being a regularity. A stable legal rule may be widely ignored, but it remains a legal fact because the public practice of justification, exception, and change still recognizes it.\n\nThe public practice is social, yes. But the regularity’s social status is explained by its incorporation into that practice, not by the practice’s causal stability. The practice supplies a normative space: a space in which patterns can be justified, excused, and changed. Once a regularity occupies that space, its persistence is explained by its normative role. The causal stability of the practice is part of the story of how the practice endures, but it is not the story of how the regularity becomes a public reason.\n\nThis response preserves the original thesis without making it anti-causal. Normative integration is not a fourth force alongside physical causation. It is a way in which causal processes are organized around public reasons. The explanation is normative because it appeals to the participants’ public grammar of justification, exception, and change. It is not merely causal because the explanatory variable is the pattern’s role as a public reason, not the mere continuity of prior instances.\n\n## 6. Conclusion\n\nThe contrast at the center of this paper is not between social facts and everything else, but between regularities that are explained by causal continuity and regularities that have been incorporated into a public practice of justification, exception, and change. A genuine social fact is a pattern that has become a public reason. Its persistence is explained not by the length or stability of a causal chain, but by the fact that participants treat it as a norm, can justify their adherence to it, can classify deviations as exceptions or violations, and can revise it by public acts.\n\nThe strongest objection asks whether the public practice required for this account is not itself a social fact, and whether the account therefore presupposes what it explains or collapses normative explanation into causal explanation. The answer is that the account is local, not foundational: it explains a particular pattern’s social-fact status by its incorporation into a broader normative context. And the answer is that causal realization is not explanatory collapse: the causal stability of the public practice is a background condition, while the explanatory variable is the pattern’s place in a public grammar of norms. Social facts are not more stable regularities. They are regularities that have been made public, answerable, and revisable.\n\n## References\n\n- Bicchieri, Cristina. 1998. *Rules and Rule-Following: The Logic of the Social*. Amsterdam: John Benjamins.\n- Bratman, Michael E. 2014. *Sharing Intention*. Princeton, NJ: Princeton University Press.\n- Elster, Jon. 1989. *The Future of Norms: A Philosophical Essay*. Princeton, NJ: Princeton University Press.\n- Gilbert, Margaret A. 1996. *On Social Commitments*. Cambridge: Polity Press.\n- Hart, H. L. A. 1961. *The Concept of Law*. Oxford: Clarendon Press.\n- Hume, David. 1987. *Essays, Moral, Political, and Historical*. Edited by E. F. Miller. Indianapolis: Hackett.\n- Lewis, David. 1969. *Convention: A Philosophical Study*. Cambridge, MA: Harvard University Press.\n- Raz, Joseph. 1975. *Practical Reason and Norms: A Theory of Social Criticism*. London: Hutchinson.\n- Searle, John R. 1995. *The Construction of Social Reality*. New York: Free Press.",
+  "steps": [
+   "Premises: (1) Social facts are often facts about groups, institutions, or collective practices. (2) Some patterns in social settings persist only because of habits, environment, or coordination. Therefore, the class of social regularities must be distinguished from the narrower class of genuine social facts.",
+   "Premises: (1) A regularity is coincidental relative to a context if participants do not cite it as a public reason. (2) In that case, deviations are not represented as violations, excusable failures, or authorized exceptions. (3) Changes in it are not treated as public amendments. Therefore, a coincidental regularity is a stable pattern whose persistence is explained by prior causes rather than by normative integration.",
+   "Premises: (1) A stable greeting can persist through shared upbringing or social pressure. (2) If no one can justify the greeting as a standard, no one treats missing it as a violation, and no one authorizes its revision, then the greeting lacks a public grammar of accountability. Therefore, that stable greeting is a social pattern but not a genuine social fact in the strong sense.",
+   "Premises: (1) A genuine social fact must be able to persist through failures and changes. (2) A mere regularity can stop without anyone having failed, continue without anyone having justified it, and vary without anyone having amended it. Therefore, the missing feature in a mere regularity is not empirical stability but public normative accountability.",
+   "Premises: (1) A public practice can incorporate a regularity by allowing it to be cited as a reason. (2) Such citation lets participants justify their own conduct and challenge others' conduct. (3) This makes the regularity answerable within a shared normative vocabulary. Therefore, justification is one operation of normative integration.",
+   "Premises: (1) A public practice can classify deviations from a regularity as violations, excusable failures, or authorized exceptions. (2) Such classification creates a public grammar of normative accountability. (3) A mere regularity has no such classification. Therefore, exception is a second operation by which a regularity becomes a genuine social fact.",
+   "Premises: (1) A public practice can authorize revision, suspension, or repeal of a regularity. (2) Such authorization makes the regularity alterable by public acts rather than merely subject to causal change. (3) Legal and institutional practices show that secondary operations of change are part of rule-like social facts. Therefore, change is a third operation of normative integration.",
+   "Premises: (1) The operations of justification, exception, and change require public availability. (2) Public availability means participants are jointly committed to a practice in which the regularity can be cited, challenged, excused, and revised. (3) This joint availability does not require every token act to be caused by a fresh private endorsement. Therefore, the integrated regularity becomes a public reason embedded in a shared practice.",
+   "Premises: (1) Before normative integration, the absence of a recurring meeting is explained by causal factors such as weather, forgetting, or transport failure. (2) After integration, the same absence may be explained as a breach, an excused failure, or an authorized suspension. (3) These explanatory differences depend on the regularity's public normative status. Therefore, normative integration changes the explanatory profile of a pattern's persistence and failure.",
+   "Premises: (1) Norms are realized in beliefs, expectations, sanctions, habits, and institutions. (2) These causal processes are necessary for norms to have worldly effects. (3) But the fact that a pattern is a public reason is not identical with the causal stability of those processes. Therefore, a social fact can be causally realized without its persistence being explained merely by causal continuity.",
+   "Premises: (1) A social fact can persist through replacement of tokens, participants, or behavioral details. (2) A law can persist after its enactors die, a property can persist through transfer, and a meeting can persist through postponement. (3) Such persistence often survives breaks in causal continuity. Therefore, the identity and persistence of social facts are explained by public recognition, exception, and authorized change rather than by unbroken causal continuity.",
+   "Premises: (1) Causal continuity is a necessary background condition for any physical persistence. (2) But the distinctive persistence of a social fact is its continuation as a public reason through failures, suspensions, and revisions. (3) Causal continuity cannot account for those normative continuities. Therefore, when the essay says persistence is explained by normative integration rather than causal continuity, it denies only that causal continuity is the explanatory variable, not that causation is irrelevant.",
+   "Premises: (1) The public practices of justification, exception, and change are themselves socially maintained and causally stable. (2) To explain a particular regularity by such a practice appears to presuppose a social fact and to reduce normative explanation to causal stability. Therefore, the strongest objection is that the account is circular or collapses into causal continuity.",
+   "Premises: (1) Explaining a token status often requires appeal to a broader practice, such as explaining an English sentence by English or a private property by a legal system. (2) The token is not identical with the whole practice. (3) A circular explanation would require explaining the practice itself by the token whose status is at issue. Therefore, appealing to a broader public practice to explain a particular regularity's social-fact status is local, not viciously circular.",
+   "Premises: (1) Social facts are often hierarchical: a salute is explained by the practice of saluting, a promise by the practice of promising, and a legal obligation by the legal system. (2) These higher-level practices can themselves be social facts. (3) The account does not need a first non-social social fact. Therefore, the account can accept that sociality is relational and hierarchical without presupposing what it explains.",
+   "Premises: (1) Norms are causally sustained by memory, trust, sanctions, institutions, and habits. (2) But the explanation of a promise's being an obligation is that it has been made into a citable, challengeable, excusable, and revisable commitment. (3) Causal maintenance is a condition of persistence, not the explanation of normative status. Therefore, the causal stability of a public practice does not by itself explain why a pattern within it is a social fact.",
+   "Premises: (1) Explanation (C) says a regularity persists because earlier instances and their causes produce later instances. (2) Explanation (N) says a regularity persists as a social fact because it is incorporated into a public practice that treats it as a reason and supplies procedures for exception and change. (3) A stable pattern can satisfy (C) without satisfying (N). Therefore, (C) and (N) are distinct explanatory claims, and truth of (C) does not reduce (N) to (C).",
+   "Premises: (1) A chess move is physically caused by prior moves, intentions, and board states. (2) But whether the move is legal is explained by chess rules. (3) The rules are socially maintained, yet their causal maintenance is not the explanation of legality. Therefore, a rule-governed explanation can be normative even when the rules have causal and social histories.",
+   "Premises: (1) Causal continuity in the minimal sense means some causal connection between earlier and later states. (2) Causal continuity in the stronger sense means the persistence of a pattern is fully explained by its prior causal history. (3) Social facts can persist through suspensions, transfers, and revisions that break the stronger sense of continuity. Therefore, the account accepts minimal causal continuity but rejects the stronger sense as the explanation of social persistence.",
+   "Premises: (1) If mere causal stability were enough for social-fact status, then stable habits, stable aggressive behavior patterns, and stable natural regularities in social settings would all count as genuine social facts. (2) But such patterns may lack citability as reasons, public classification of deviations, and authorized revision. (3) Therefore, public normative integration, not causal stability, is the distinguishing explanatory variable.",
+   "Premises: (1) If the circular/collapse objection were correct, the distinction between mere regularities and genuine social facts would disappear. (2) But habits, conventions, and legal rules show that some stable patterns are publicly accountable while others are not. (3) This distinction matters conceptually and empirically. Therefore, the objection is too strong, and the account preserves a real distinction.",
+   "Premises: (1) A genuine social fact is a regularity that can be cited as a public reason. (2) It also allows deviations to be classified as violations, excuses, or authorized exceptions. (3) It further allows public revision, suspension, or repeal. Therefore, a genuine social fact is best understood as a pattern whose persistence is explained by its incorporation into a public practice of justification, exception, and change."
+  ],
+  "critique": {
+   "hat": [
+    {
+     "step": 1,
+     "text": "Premises: (1) Social facts are often facts about groups, institutions, or collective practices. (2) Some patterns in social settings persist only because of habits, environment, or coordination. Therefore, the class of social regularities must be distinguished from the narrower class of genuine social facts.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically distinguishes between different types of social phenomena based on their underlying causes and characteristics."
+    },
+    {
+     "step": 2,
+     "text": "Premises: (1) A regularity is coincidental relative to a context if participants do not cite it as a public reason. (2) In that case, deviations are not represented as violations, excusable failures, or authorized exceptions. (3) Changes in it are not treated as public amendments. Therefore, a coincidental regularity is a stable pattern whose persistence is explained by prior causes rather than by normative integration.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically deduces that a regularity is coincidental if it lacks normative integration, which is supported by the premises."
+    },
+    {
+     "step": 3,
+     "text": "Premises: (1) A stable greeting can persist through shared upbringing or social pressure. (2) If no one can justify the greeting as a standard, no one treats missing it as a violation, and no one authorizes its revision, then the greeting lacks a public grammar of accountability. Therefore, that stable greeting is a social pattern but not a genuine social fact in the strong sense.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically deduces that a stable greeting without public accountability is a social pattern but not a strong social fact."
+    },
+    {
+     "step": 4,
+     "text": "Premises: (1) A genuine social fact must be able to persist through failures and changes. (2) A mere regularity can stop without anyone having failed, continue without anyone having justified it, and vary without anyone having amended it. Therefore, the missing feature in a mere regularity is not empirical stability but public normative accountability.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically deduces that the distinguishing feature of a social fact is its normative accountability, not just empirical stability."
+    },
+    {
+     "step": 5,
+     "text": "Premises: (1) A public practice can incorporate a regularity by allowing it to be cited as a reason. (2) Such citation lets participants justify their own conduct and challenge others' conduct. (3) This makes the regularity answerable within a shared normative vocabulary. Therefore, justification is one operation of normative integration.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically connects the process of citing regularities as reasons to the broader concept of normative integration."
+    },
+    {
+     "step": 6,
+     "text": "Premises: (1) A public practice can classify deviations from a regularity as violations, excusable failures, or authorized exceptions. (2) Such classification creates a public grammar of normative accountability. (3) A mere regularity has no such classification. Therefore, exception is a second operation by which a regularity becomes a genuine social fact.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically deduces that the classification of deviations from regularity is a necessary step in transforming a mere regularity into a social fact."
+    },
+    {
+     "step": 7,
+     "text": "Premises: (1) A public practice can authorize revision, suspension, or repeal of a regularity. (2) Such authorization makes the regularity alterable by public acts rather than merely subject to causal change. (3) Legal and institutional practices show that secondary operations of change are part of rule-like social facts. Therefore, change is a third operation of normative integration.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically deduces that change is a third operation of normative integration based on the premises about public practices and their impact on regularities."
+    },
+    {
+     "step": 8,
+     "text": "Premises: (1) The operations of justification, exception, and change require public availability. (2) Public availability means participants are jointly committed to a practice in which the regularity can be cited, challenged, excused, and revised. (3) This joint availability does not require every token act to be caused by a fresh private endorsement. Therefore, the integrated regularity becomes a public reason embedded in a shared practice.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically connects the premises about public availability and joint commitment to the conclusion about public reason and shared practice."
+    },
+    {
+     "step": 9,
+     "text": "Premises: (1) Before normative integration, the absence of a recurring meeting is explained by causal factors such as weather, forgetting, or transport failure. (2) After integration, the same absence may be explained as a breach, an excused failure, or an authorized suspension. (3) These explanatory differences depend on the regularity's public normative status. Therefore, normative integration changes the explanatory profile of a pattern's persistence and failure.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically deduces that normative integration alters the explanations for the absence of a recurring event by introducing normative considerations."
+    },
+    {
+     "step": 10,
+     "text": "Premises: (1) Norms are realized in beliefs, expectations, sanctions, habits, and institutions. (2) These causal processes are necessary for norms to have worldly effects. (3) But the fact that a pattern is a public reason is not identical with the causal stability of those processes. Therefore, a social fact can be causally realized without its persistence being explained merely by causal continuity.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically deduces that the causal realization of a social fact does not solely depend on the persistence of its causal processes."
+    },
+    {
+     "step": 11,
+     "text": "Premises: (1) A social fact can persist through replacement of tokens, participants, or behavioral details. (2) A law can persist after its enactors die, a property can persist through transfer, and a meeting can persist through postponement. (3) Such persistence often survives breaks in causal continuity. Therefore, the identity and persistence of social facts are explained by public recognition, exception, and authorized change rather than by unbroken causal continuity.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically infers that social facts persist through changes in their components and causal continuity, based on examples of laws, properties, and meetings."
+    },
+    {
+     "step": 12,
+     "text": "Premises: (1) Causal continuity is a necessary background condition for any physical persistence. (2) But the distinctive persistence of a social fact is its continuation as a public reason through failures, suspensions, and revisions. (3) Causal continuity cannot account for those normative continuities. Therefore, when the essay says persistence is explained by normative integration rather than causal continuity, it denies only that causal continuity is the explanatory variable, not that causation is irrelevant.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically concludes that causal continuity is not the sole explanatory variable for persistence, based on the premises provided."
+    },
+    {
+     "step": 13,
+     "text": "Premises: (1) The public practices of justification, exception, and change are themselves socially maintained and causally stable. (2) To explain a particular regularity by such a practice appears to presuppose a social fact and to reduce normative explanation to causal stability. Therefore, the strongest objection is that the account is circular or collapses into causal continuity.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically follows from the premises that social practices are causally stable and that explaining regularities through these practices involves circular reasoning or reduction to causal continuity."
+    },
+    {
+     "step": 14,
+     "text": "Premises: (1) Explaining a token status often requires appeal to a broader practice, such as explaining an English sentence by English or a private property by a legal system. (2) The token is not identical with the whole practice. (3) A circular explanation would require explaining the practice itself by the token whose status is at issue. Therefore, appealing to a broader public practice to explain a particular regularity's social-fact status is local, not viciously circular.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically distinguishes between explaining a token status by appealing to a broader practice and explaining the practice itself by the token, avoiding circular reasoning."
+    },
+    {
+     "step": 15,
+     "text": "Premises: (1) Social facts are often hierarchical: a salute is explained by the practice of saluting, a promise by the practice of promising, and a legal obligation by the legal system. (2) These higher-level practices can themselves be social facts. (3) The account does not need a first non-social social fact. Therefore, the account can accept that sociality is relational and hierarchical without presupposing what it explains.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically concludes that social facts can be explained by other social facts without requiring a non-social foundation."
+    },
+    {
+     "step": 16,
+     "text": "Premises: (1) Norms are causally sustained by memory, trust, sanctions, institutions, and habits. (2) But the explanation of a promise's being an obligation is that it has been made into a citable, challengeable, excusable, and revisable commitment. (3) Causal maintenance is a condition of persistence, not the explanation of normative status. Therefore, the causal stability of a public practice does not by itself explain why a pattern within it is a social fact.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically distinguishes between the causal conditions for the persistence of a norm and the normative status that makes it a social fact."
+    },
+    {
+     "step": 17,
+     "text": "Premises: (1) Explanation (C) says a regularity persists because earlier instances and their causes produce later instances. (2) Explanation (N) says a regularity persists as a social fact because it is incorporated into a public practice that treats it as a reason and supplies procedures for exception and change. (3) A stable pattern can satisfy (C) without satisfying (N). Therefore, (C) and (N) are distinct explanatory claims, and truth of (C) does not reduce (N) to (C).",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically distinguishes between two different explanations for a regularity, showing that they are not equivalent."
+    },
+    {
+     "step": 18,
+     "text": "Premises: (1) A chess move is physically caused by prior moves, intentions, and board states. (2) But whether the move is legal is explained by chess rules. (3) The rules are socially maintained, yet their causal maintenance is not the explanation of legality. Therefore, a rule-governed explanation can be normative even when the rules have causal and social histories.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument distinguishes between causal explanations of physical events and normative explanations of rule-governed actions, acknowledging the normative nature of rules without denying their causal and social origins."
+    },
+    {
+     "step": 19,
+     "text": "Premises: (1) Causal continuity in the minimal sense means some causal connection between earlier and later states. (2) Causal continuity in the stronger sense means the persistence of a pattern is fully explained by its prior causal history. (3) Social facts can persist through suspensions, transfers, and revisions that break the stronger sense of continuity. Therefore, the account accepts minimal causal continuity but rejects the stronger sense as the explanation of social persistence.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically deduces that the account accepts minimal causal continuity but rejects the stronger sense as the explanation of social persistence based on the premises provided."
+    },
+    {
+     "step": 20,
+     "text": "Premises: (1) If mere causal stability were enough for social-fact status, then stable habits, stable aggressive behavior patterns, and stable natural regularities in social settings would all count as genuine social facts. (2) But such patterns may lack citability as reasons, public classification of deviations, and authorized revision. (3) Therefore, public normative integration, not causal stability, is the distinguishing explanatory variable.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument uses modus tollens to logically infer that public normative integration is the distinguishing explanatory variable for social-fact status."
+    },
+    {
+     "step": 21,
+     "text": "Premises: (1) If the circular/collapse objection were correct, the distinction between mere regularities and genuine social facts would disappear. (2) But habits, conventions, and legal rules show that some stable patterns are publicly accountable while others are not. (3) This distinction matters conceptually and empirically. Therefore, the objection is too strong, and the account preserves a real distinction.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument uses modus tollens to logically infer that the circular/collapse objection is too strong based on the existence of publicly accountable social facts."
+    },
+    {
+     "step": 22,
+     "text": "Premises: (1) A genuine social fact is a regularity that can be cited as a public reason. (2) It also allows deviations to be classified as violations, excuses, or authorized exceptions. (3) It further allows public revision, suspension, or repeal. Therefore, a genuine social fact is best understood as a pattern whose persistence is explained by its incorporation into a public practice of justification, exception, and change.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "No fallacy. The argument logically deduces the nature of social facts from their defining characteristics and functions."
+    }
+   ],
+   "placebo": [
+    {
+     "step": 1,
+     "text": "Premises: (1) Social facts are often facts about groups, institutions, or collective practices. (2) Some patterns in social settings persist only because of habits, environment, or coordination. Therefore, the class of social regularities must be distinguished from the narrower class of genuine social facts.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's why:\n\n1. **Premise 1** states that social facts are often about groups, institutions, or collective practices. This is a descriptive claim about the nature of social facts.\n\n2. **Premise 2** notes that some patterns in social settings persist due to habits, environment, or coordination. This suggests that not all patterns are necessarily social facts, as they might not involve collective intentionality or institutional structures.\n\n3. **Conclusion**: The argument concludes that the class of social regularities must be distinguished from the narrower class of genuine social facts. This conclusion logically follows from the premises, as it recognizes that not all regularities in social settings qualify as social facts, which are typically understood to involve more structured or intentional collective phenomena.\n\nThe reasoning is sound because it acknowledges the complexity of social phenomena and the need to differentiate between mere regularities and those that qualify as social facts. There is no misstep in logic or reasoning that would constitute a fallacy."
+    },
+    {
+     "step": 2,
+     "text": "Premises: (1) A regularity is coincidental relative to a context if participants do not cite it as a public reason. (2) In that case, deviations are not represented as violations, excusable failures, or authorized exceptions. (3) Changes in it are not treated as public amendments. Therefore, a coincidental regularity is a stable pattern whose persistence is explained by prior causes rather than by normative integration.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. It follows a logical structure based on the premises provided:\n\n1. **Premise 1** establishes that a regularity is considered coincidental if it is not cited as a public reason.\n2. **Premise 2** explains the implications of a regularity being coincidental: deviations are not seen as violations or exceptions, and changes are not treated as amendments.\n3. **Conclusion** logically follows from the premises: if a regularity is coincidental, its persistence is due to prior causes rather than normative integration.\n\nThe reasoning is consistent and follows from the premises without making unwarranted assumptions or leaps. Therefore, there is \"no fallacy\" in this argument."
+    },
+    {
+     "step": 3,
+     "text": "Premises: (1) A stable greeting can persist through shared upbringing or social pressure. (2) If no one can justify the greeting as a standard, no one treats missing it as a violation, and no one authorizes its revision, then the greeting lacks a public grammar of accountability. Therefore, that stable greeting is a social pattern but not a genuine social fact in the strong sense.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a clear logical fallacy, but it does involve a nuanced distinction that could be misunderstood or misapplied. Let's break it down:\n\n1. **Premise 1** states that a stable greeting can persist through shared upbringing or social pressure. This is a straightforward observation about how social behaviors can be maintained.\n\n2. **Premise 2** introduces a conditional statement: if no one can justify the greeting as a standard, no one treats missing it as a violation, and no one authorizes its revision, then the greeting lacks a public grammar of accountability.\n\n3. **Conclusion**: Therefore, that stable greeting is a social pattern but not a genuine social fact in the strong sense.\n\nThe argument hinges on the distinction between a \"social pattern\" and a \"genuine social fact in the strong sense.\" The reasoning suggests that for a greeting to be considered a \"genuine social fact,\" it must have a public grammar of accountability, meaning it is recognized, justified, and subject to social enforcement.\n\n**Potential Issues:**\n\n- **Ambiguity in Terms**: The terms \"social pattern\" and \"genuine social fact in the strong sense\" are not clearly defined. This could lead to confusion about what criteria are being used to differentiate between the two.\n\n- **Assumption of Criteria**: The argument assumes that the presence of a public grammar of accountability is necessary for something to be a \"genuine social fact.\" This is a specific criterion that may not be universally accepted or applicable.\n\n- **Complexity of Social Facts**: Social facts can be complex and multifaceted. The argument simplifies this complexity by focusing solely on accountability, potentially overlooking other factors that contribute to the strength or significance of a social fact.\n\nIn summary, while the argument does not contain a traditional logical fallacy, it relies on specific assumptions and definitions that could be challenged or require further clarification. Therefore, the response is \"no fallacy,\" but with an acknowledgment of potential issues"
+    },
+    {
+     "step": 4,
+     "text": "Premises: (1) A genuine social fact must be able to persist through failures and changes. (2) A mere regularity can stop without anyone having failed, continue without anyone having justified it, and vary without anyone having amended it. Therefore, the missing feature in a mere regularity is not empirical stability but public normative accountability.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** establishes a criterion for what constitutes a \"genuine social fact\": it must persist through failures and changes. This sets a standard for distinguishing genuine social facts from mere regularities.\n\n2. **Premise 2** describes the characteristics of a \"mere regularity\": it can stop, continue, or vary without any failure, justification, or amendment by individuals. This contrasts with the persistence required of genuine social facts.\n\n3. **Conclusion**: The argument concludes that the missing feature in a mere regularity is not empirical stability (the ability to persist) but public normative accountability (the requirement for justification, amendment, or failure).\n\nThe reasoning is coherent and follows logically from the premises. The argument distinguishes between empirical stability and normative accountability, suggesting that the latter is what differentiates genuine social facts from mere regularities. There is no apparent flaw in the reasoning based on Kelley's \"The Art of Reasoning.\" Therefore, there is \"no fallacy\" in this argument."
+    },
+    {
+     "step": 5,
+     "text": "Premises: (1) A public practice can incorporate a regularity by allowing it to be cited as a reason. (2) Such citation lets participants justify their own conduct and challenge others' conduct. (3) This makes the regularity answerable within a shared normative vocabulary. Therefore, justification is one operation of normative integration.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** states that a public practice can incorporate a regularity by allowing it to be cited as a reason. This premise establishes a mechanism by which regularities become part of a practice.\n\n2. **Premise 2** explains that citing these regularities allows participants to justify their own conduct and challenge others'. This premise builds on the first by describing the functional role of these regularities within the practice.\n\n3. **Premise 3** claims that this process makes the regularity answerable within a shared normative vocabulary, suggesting that the regularities are integrated into the normative framework of the practice.\n\nThe conclusion that \"justification is one operation of normative integration\" logically follows from the premises. The argument is structured to show how regularities, when cited as reasons, contribute to normative integration by enabling justification and accountability within a shared vocabulary. There is no apparent flaw in the reasoning, as each premise supports the conclusion in a coherent manner. Therefore, there is \"no fallacy\" in this argument."
+    },
+    {
+     "step": 6,
+     "text": "Premises: (1) A public practice can classify deviations from a regularity as violations, excusable failures, or authorized exceptions. (2) Such classification creates a public grammar of normative accountability. (3) A mere regularity has no such classification. Therefore, exception is a second operation by which a regularity becomes a genuine social fact.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** states that a public practice can classify deviations from a regularity in specific ways (violations, excusable failures, or authorized exceptions).\n2. **Premise 2** claims that this classification creates a public grammar of normative accountability.\n3. **Premise 3** asserts that a mere regularity lacks such classification.\n\nThe conclusion drawn is that exception is a second operation by which a regularity becomes a genuine social fact. This conclusion logically follows from the premises:\n\n- The argument suggests that for a regularity to be considered a social fact, it must be subject to a system of accountability, which involves classifying deviations.\n- Since a mere regularity does not have this classification, it cannot be a social fact on its own.\n- Therefore, the process of classifying exceptions (and other deviations) is necessary to transform a regularity into a social fact.\n\nThe reasoning is coherent and follows logically from the premises provided. There is no apparent flaw in the argument structure, so there is \"no fallacy.\""
+    },
+    {
+     "step": 7,
+     "text": "Premises: (1) A public practice can authorize revision, suspension, or repeal of a regularity. (2) Such authorization makes the regularity alterable by public acts rather than merely subject to causal change. (3) Legal and institutional practices show that secondary operations of change are part of rule-like social facts. Therefore, change is a third operation of normative integration.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not appear to contain a logical fallacy. Let's break down the reasoning:\n\n1. **Premise 1** states that a public practice can authorize revision, suspension, or repeal of a regularity.\n2. **Premise 2** explains that such authorization makes the regularity alterable by public acts rather than merely subject to causal change.\n3. **Premise 3** notes that legal and institutional practices demonstrate that secondary operations of change are part of rule-like social facts.\n\nThe conclusion drawn is that change is a third operation of normative integration. \n\nThe reasoning follows a logical structure where the premises support the conclusion. The argument is built on the idea that normative integration involves operations that are not just causal but also involve public authorization and institutional practices. The conclusion that change is a third operation of normative integration logically follows from the premises, as they establish a framework where normative changes are recognized as distinct operations within social practices.\n\nTherefore, there is \"no fallacy\" in this argument based on the information provided. The reasoning is coherent and follows from the premises laid out."
+    },
+    {
+     "step": 8,
+     "text": "Premises: (1) The operations of justification, exception, and change require public availability. (2) Public availability means participants are jointly committed to a practice in which the regularity can be cited, challenged, excused, and revised. (3) This joint availability does not require every token act to be caused by a fresh private endorsement. Therefore, the integrated regularity becomes a public reason embedded in a shared practice.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** states that the operations of justification, exception, and change require public availability. This sets the stage for understanding the necessity of public access in these operations.\n\n2. **Premise 2** defines public availability as participants being jointly committed to a practice where regularity can be cited, challenged, excused, and revised. This premise elaborates on what public availability entails.\n\n3. **Premise 3** clarifies that joint availability does not necessitate every action being caused by a fresh private endorsement. This means that while individual actions don't need constant private justification, the overall practice remains publicly accessible and accountable.\n\n4. **Conclusion**: The integrated regularity becomes a public reason embedded in a shared practice. This follows logically from the premises, as the argument establishes that public availability and joint commitment lead to a shared practice where regularity is publicly reasoned.\n\nThe reasoning is coherent and follows logically from the premises without any apparent fallacies. Each step builds on the previous one, leading to a conclusion that aligns with the initial assertions."
+    },
+    {
+     "step": 9,
+     "text": "Premises: (1) Before normative integration, the absence of a recurring meeting is explained by causal factors such as weather, forgetting, or transport failure. (2) After integration, the same absence may be explained as a breach, an excused failure, or an authorized suspension. (3) These explanatory differences depend on the regularity's public normative status. Therefore, normative integration changes the explanatory profile of a pattern's persistence and failure.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** establishes that before normative integration, absences from recurring meetings are explained by non-normative causal factors like weather, forgetting, or transport failure.\n\n2. **Premise 2** states that after normative integration, absences are explained by normative reasons such as a breach, an excused failure, or an authorized suspension.\n\n3. **Premise 3** notes that these differences in explanation are due to the regularity's public normative status.\n\n4. **Conclusion**: Normative integration changes the explanatory profile of a pattern's persistence and failure.\n\nThe argument logically follows from the premises. It explains how the introduction of normative considerations alters the way absences are interpreted, shifting from purely causal explanations to normative ones. This is a coherent argument that aligns with the principles of reasoning as outlined in Kelley's \"The Art of Reasoning,\" where the conclusion is a direct consequence of the premises provided. Therefore, there is \"no fallacy\" in this argument."
+    },
+    {
+     "step": 10,
+     "text": "Premises: (1) Norms are realized in beliefs, expectations, sanctions, habits, and institutions. (2) These causal processes are necessary for norms to have worldly effects. (3) But the fact that a pattern is a public reason is not identical with the causal stability of those processes. Therefore, a social fact can be causally realized without its persistence being explained merely by causal continuity.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** states that norms are realized through various causal processes such as beliefs, expectations, sanctions, habits, and institutions.\n2. **Premise 2** asserts that these causal processes are necessary for norms to have effects in the world.\n3. **Premise 3** distinguishes between a pattern being a public reason and the causal stability of those processes, suggesting that they are not identical.\n4. **Conclusion**: A social fact can be causally realized without its persistence being solely explained by causal continuity.\n\nThe argument logically follows from the premises. It distinguishes between the realization of norms through causal processes and the explanation of their persistence. The conclusion that a social fact can be causally realized without its persistence being explained merely by causal continuity is a reasonable inference from the premises. There is no apparent flaw in the reasoning based on Kelley's \"The Art of Reasoning.\" Therefore, there is \"no fallacy\" in this argument."
+    },
+    {
+     "step": 11,
+     "text": "Premises: (1) A social fact can persist through replacement of tokens, participants, or behavioral details. (2) A law can persist after its enactors die, a property can persist through transfer, and a meeting can persist through postponement. (3) Such persistence often survives breaks in causal continuity. Therefore, the identity and persistence of social facts are explained by public recognition, exception, and authorized change rather than by unbroken causal continuity.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premises**: The argument begins with premises that establish the persistence of various entities (social facts, laws, properties, meetings) despite changes in their components or circumstances. This is a factual observation about how certain entities can maintain their identity over time.\n\n2. **Conclusion**: The conclusion drawn is that the identity and persistence of social facts are explained by public recognition, exception, and authorized change, rather than by unbroken causal continuity.\n\n3. **Reasoning**: The argument suggests that because these entities can persist despite breaks in causal continuity, their persistence must be due to factors other than continuous causation, such as social constructs like public recognition.\n\nThe reasoning is coherent and follows logically from the premises. It does not commit a fallacy because it does not make an unwarranted leap in logic, misrepresent the premises, or rely on irrelevant information. Instead, it offers an explanation for the persistence of social facts based on the observed phenomena described in the premises."
+    },
+    {
+     "step": 12,
+     "text": "Premises: (1) Causal continuity is a necessary background condition for any physical persistence. (2) But the distinctive persistence of a social fact is its continuation as a public reason through failures, suspensions, and revisions. (3) Causal continuity cannot account for those normative continuities. Therefore, when the essay says persistence is explained by normative integration rather than causal continuity, it denies only that causal continuity is the explanatory variable, not that causation is irrelevant.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** establishes that causal continuity is necessary for physical persistence.\n2. **Premise 2** describes the persistence of social facts as being maintained through public reasoning, even when there are failures or changes.\n3. **Premise 3** argues that causal continuity cannot explain the normative continuities of social facts.\n\nThe conclusion drawn is that the essay suggests persistence is explained by normative integration rather than causal continuity, but it does not deny the relevance of causation entirely.\n\nThe reasoning is coherent because it distinguishes between the role of causal continuity in physical persistence and the role of normative integration in the persistence of social facts. It does not commit a fallacy by acknowledging that while causal continuity is not the explanatory variable for social facts, causation itself is not deemed irrelevant. This distinction avoids the fallacy of false dichotomy, where two options are presented as the only possibilities when others exist. Instead, it recognizes that different types of persistence may require different explanatory frameworks."
+    },
+    {
+     "step": 13,
+     "text": "Premises: (1) The public practices of justification, exception, and change are themselves socially maintained and causally stable. (2) To explain a particular regularity by such a practice appears to presuppose a social fact and to reduce normative explanation to causal stability. Therefore, the strongest objection is that the account is circular or collapses into causal continuity.",
+     "flag": true,
+     "verdict": "fallacy",
+     "fallacy": "circular reasoning",
+     "explanation": "The argument presented seems to involve a potential **circular reasoning** fallacy. Here's why:\n\n1. **Premise 1** states that public practices of justification, exception, and change are socially maintained and causally stable.\n2. **Premise 2** suggests that explaining a regularity by these practices presupposes a social fact and reduces normative explanation to causal stability.\n3. The conclusion is that the strongest objection is that the account is circular or collapses into causal continuity.\n\nThe potential circularity arises because the argument seems to assume what it is trying to prove. It suggests that explaining regularities through socially maintained practices presupposes the existence of those practices (a social fact), which is what the explanation is supposed to establish. This can be seen as circular because the explanation relies on the very thing it aims to justify.\n\nIn Kelley's terms, this is a form of circular reasoning where the conclusion is embedded in the premises, leading to a lack of independent support for the conclusion. The argument doesn't provide an external justification for the causal stability of these practices, instead assuming their existence and stability as a given, which is what needs to be demonstrated."
+    },
+    {
+     "step": 14,
+     "text": "Premises: (1) Explaining a token status often requires appeal to a broader practice, such as explaining an English sentence by English or a private property by a legal system. (2) The token is not identical with the whole practice. (3) A circular explanation would require explaining the practice itself by the token whose status is at issue. Therefore, appealing to a broader public practice to explain a particular regularity's social-fact status is local, not viciously circular.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** establishes that explaining a specific instance (a token) often involves referencing a broader context or practice.\n2. **Premise 2** clarifies that the token is distinct from the entire practice, meaning the token is a part of the practice but not equivalent to it.\n3. **Premise 3** addresses the concern of circular reasoning, noting that a circular explanation would involve using the token to explain the practice it is part of, which is not the case here.\n\nThe conclusion that appealing to a broader practice is local and not viciously circular is logically consistent with the premises. The argument avoids circular reasoning by distinguishing between the token and the practice, ensuring that the explanation does not rely on the token itself to explain the practice. Therefore, there is no fallacy present."
+    },
+    {
+     "step": 15,
+     "text": "Premises: (1) Social facts are often hierarchical: a salute is explained by the practice of saluting, a promise by the practice of promising, and a legal obligation by the legal system. (2) These higher-level practices can themselves be social facts. (3) The account does not need a first non-social social fact. Therefore, the account can accept that sociality is relational and hierarchical without presupposing what it explains.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** establishes that social facts are hierarchical, meaning they are explained by other social practices (e.g., saluting is explained by the practice of saluting).\n\n2. **Premise 2** states that these higher-level practices can themselves be social facts, suggesting a recursive or layered nature of social facts.\n\n3. **Premise 3** claims that the account does not require a first non-social social fact, implying that the explanation of social facts can be entirely within the realm of social practices.\n\n4. **Conclusion**: The account can accept that sociality is relational and hierarchical without presupposing what it explains, meaning it does not need to appeal to non-social facts to explain social phenomena.\n\nThe reasoning is coherent and does not commit a fallacy. It logically follows that if social facts can be explained by other social facts in a hierarchical manner, then the explanation can remain within the social domain without needing a non-social foundation. This aligns with the idea of a self-sustaining system of social facts, which is a legitimate philosophical position."
+    },
+    {
+     "step": 16,
+     "text": "Premises: (1) Norms are causally sustained by memory, trust, sanctions, institutions, and habits. (2) But the explanation of a promise's being an obligation is that it has been made into a citable, challengeable, excusable, and revisable commitment. (3) Causal maintenance is a condition of persistence, not the explanation of normative status. Therefore, the causal stability of a public practice does not by itself explain why a pattern within it is a social fact.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** states that norms are causally sustained by various factors like memory, trust, sanctions, institutions, and habits. This is a factual claim about how norms are maintained.\n\n2. **Premise 2** explains that a promise becomes an obligation through being a citable, challengeable, excusable, and revisable commitment. This premise focuses on the normative status of promises, emphasizing the conditions under which they are recognized as obligations.\n\n3. **Premise 3** distinguishes between causal maintenance (how norms persist) and the explanation of normative status (why something is considered a norm or obligation). It argues that causal stability alone does not explain why a pattern is a social fact.\n\nThe conclusion logically follows from the premises: the causal stability of a practice does not inherently explain its normative status. The argument is structured to clarify the difference between the persistence of norms and the reasons they are considered binding or obligatory. There is no flaw in reasoning here, as the premises support the conclusion without making unwarranted assumptions or leaps. Therefore, there is \"no fallacy\" in this argument."
+    },
+    {
+     "step": 17,
+     "text": "Premises: (1) Explanation (C) says a regularity persists because earlier instances and their causes produce later instances. (2) Explanation (N) says a regularity persists as a social fact because it is incorporated into a public practice that treats it as a reason and supplies procedures for exception and change. (3) A stable pattern can satisfy (C) without satisfying (N). Therefore, (C) and (N) are distinct explanatory claims, and truth of (C) does not reduce (N) to (C).",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's why:\n\n1. **Premise 1** describes Explanation (C), which attributes the persistence of a regularity to causal processes from earlier instances.\n2. **Premise 2** describes Explanation (N), which attributes the persistence of a regularity to its status as a social fact, maintained through public practices.\n3. **Premise 3** states that a stable pattern can satisfy Explanation (C) without satisfying Explanation (N), indicating that these explanations can operate independently.\n\nThe conclusion drawn is that (C) and (N) are distinct explanatory claims, and the truth of (C) does not reduce (N) to (C). This conclusion logically follows from the premises, as it is based on the distinction between causal explanations and social explanations. The argument does not commit a fallacy because it correctly identifies that the two explanations address different aspects of why a regularity might persist, and one does not necessarily negate or encompass the other."
+    },
+    {
+     "step": 18,
+     "text": "Premises: (1) A chess move is physically caused by prior moves, intentions, and board states. (2) But whether the move is legal is explained by chess rules. (3) The rules are socially maintained, yet their causal maintenance is not the explanation of legality. Therefore, a rule-governed explanation can be normative even when the rules have causal and social histories.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** states that a chess move is physically caused by prior moves, intentions, and board states. This is a factual observation about the physical and intentional aspects of making a move in chess.\n\n2. **Premise 2** asserts that the legality of a move is determined by chess rules. This is also a factual statement about how the rules of chess function to determine legality.\n\n3. **Premise 3** notes that while the rules are socially maintained, their causal maintenance does not explain their legality. This distinguishes between the origin or maintenance of rules and their function in determining legality.\n\n4. **Conclusion**: The argument concludes that a rule-governed explanation can be normative even when the rules have causal and social histories. This conclusion logically follows from the premises, as it highlights the distinction between the causal/social origins of rules and their normative function in determining legality.\n\nThe reasoning is coherent and does not commit any fallacies. It effectively distinguishes between the causal history of rules and their normative application, which is a valid philosophical distinction."
+    },
+    {
+     "step": 19,
+     "text": "Premises: (1) Causal continuity in the minimal sense means some causal connection between earlier and later states. (2) Causal continuity in the stronger sense means the persistence of a pattern is fully explained by its prior causal history. (3) Social facts can persist through suspensions, transfers, and revisions that break the stronger sense of continuity. Therefore, the account accepts minimal causal continuity but rejects the stronger sense as the explanation of social persistence.",
+     "flag": false,
+     "verdict": "unclear",
+     "fallacy": null,
+     "explanation": "In this argument, there does not appear to be a logical fallacy. The reasoning follows a clear structure based on the definitions and distinctions provided in the premises:\n\n1. **Premise 1** defines \"causal continuity in the minimal sense\" as some causal connection between earlier and later states.\n2. **Premise 2** defines \"causal continuity in the stronger sense\" as the persistence of a pattern being fully explained by its prior causal history.\n3. **Premise 3** states that social facts can persist even when there are suspensions, transfers, and revisions that break the stronger sense of continuity.\n\nThe conclusion drawn is that the account accepts minimal causal continuity but rejects the stronger sense as the explanation for social persistence. This conclusion logically follows from the premises because it acknowledges that while some causal connection (minimal continuity) exists, the stronger form of continuity (full explanation by prior history) is not necessary for social facts to persist. The argument is consistent with the definitions and distinctions provided, and it does not commit any fallacy in its reasoning."
+    },
+    {
+     "step": 20,
+     "text": "Premises: (1) If mere causal stability were enough for social-fact status, then stable habits, stable aggressive behavior patterns, and stable natural regularities in social settings would all count as genuine social facts. (2) But such patterns may lack citability as reasons, public classification of deviations, and authorized revision. (3) Therefore, public normative integration, not causal stability, is the distinguishing explanatory variable.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** sets up a hypothetical scenario: if causal stability alone were sufficient for something to be considered a social fact, then various stable patterns (like habits or aggressive behaviors) would qualify as social facts.\n\n2. **Premise 2** introduces a counterpoint: these stable patterns may not meet certain criteria necessary for social facts, such as being citable as reasons, having publicly classified deviations, and being subject to authorized revision.\n\n3. **Conclusion**: The argument concludes that public normative integration, rather than mere causal stability, is the key factor that distinguishes genuine social facts.\n\nThe reasoning is structured to show that causal stability alone is insufficient for something to be a social fact because it lacks the normative elements that are essential. This is a valid form of argumentation, as it uses a reductio ad absurdum approach to demonstrate that the initial assumption (causal stability alone is sufficient) leads to an untenable conclusion (unqualified patterns would be social facts). Therefore, the argument is logically sound and does not contain a fallacy."
+    },
+    {
+     "step": 21,
+     "text": "Premises: (1) If the circular/collapse objection were correct, the distinction between mere regularities and genuine social facts would disappear. (2) But habits, conventions, and legal rules show that some stable patterns are publicly accountable while others are not. (3) This distinction matters conceptually and empirically. Therefore, the objection is too strong, and the account preserves a real distinction.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. Here's a breakdown of the reasoning:\n\n1. **Premise 1** sets up a conditional statement: if the circular/collapse objection is correct, then a specific distinction would disappear.\n2. **Premise 2** provides evidence against the conditional's consequence by pointing out that there are stable patterns (habits, conventions, legal rules) that are publicly accountable, while others are not.\n3. **Premise 3** emphasizes the importance of this distinction both conceptually and empirically.\n4. **Conclusion**: The objection is too strong, and the account preserves a real distinction.\n\nThe argument uses a form of modus tollens (denying the consequent) to refute the circular/collapse objection. It shows that the objection's consequence (the disappearance of the distinction) is false, thereby suggesting the objection itself is flawed. The reasoning is logically sound and does not exhibit a fallacy."
+    },
+    {
+     "step": 22,
+     "text": "Premises: (1) A genuine social fact is a regularity that can be cited as a public reason. (2) It also allows deviations to be classified as violations, excuses, or authorized exceptions. (3) It further allows public revision, suspension, or repeal. Therefore, a genuine social fact is best understood as a pattern whose persistence is explained by its incorporation into a public practice of justification, exception, and change.",
+     "flag": false,
+     "verdict": "no_fallacy",
+     "fallacy": null,
+     "explanation": "The argument presented does not contain a logical fallacy. It follows a coherent line of reasoning based on the premises provided:\n\n1. **Premise 1** establishes that a genuine social fact is a regularity that can be cited as a public reason.\n2. **Premise 2** adds that such a fact allows for deviations to be classified in specific ways (violations, excuses, or authorized exceptions).\n3. **Premise 3** states that it allows for public revision, suspension, or repeal.\n\nThe conclusion logically follows from these premises: a genuine social fact is best understood as a pattern whose persistence is explained by its incorporation into a public practice of justification, exception, and change. The argument is structured to show how the characteristics of a genuine social fact (as described in the premises) lead to the conclusion about its nature and persistence. There is no apparent flaw in the reasoning based on the information given."
+    }
+   ]
+  },
+  "citations": [
+   {
+    "work": "Hume, Essays, Moral, Political, and Historical, 1987",
+    "claim": "Many institutions arise out of custom and convention."
+   },
+   {
+    "work": "Lewis, Convention: A Philosophical Study, 1969",
+    "claim": "Conventions are regularities sustained by mutual knowledge and coordination."
+   },
+   {
+    "work": "Hume, Essays, Moral, Political, and Historical, 1987",
+    "claim": "Hume emphasizes the centrality of regularity."
+   },
+   {
+    "work": "Lewis, Convention: A Philosophical Study, 1969",
+    "claim": "Lewis emphasizes the centrality of regularity."
+   },
+   {
+    "work": "Raz, Practical Reason and Norms: A Theory of Social Criticism, 1975",
+    "claim": "Norms are public reasons that can be invoked and challenged."
+   },
+   {
+    "work": "Searle, The Construction of Social Reality, 1995",
+    "claim": "Institutional facts are status functions, whereby something counts as something else within a shared context."
+   },
+   {
+    "work": "Bicchieri, Rules and Rule-Following: The Logic of the Social, 1998",
+    "claim": "Mutual expectations and reactive attitudes play a role in social norms."
+   },
+   {
+    "work": "Hart, The Concept of Law, 1961",
+    "claim": "A legal system is not merely an aggregate of primary rules; it includes secondary rules providing criteria for recognition, change, and adjudication."
+   },
+   {
+    "work": "Gilbert, On Social Commitments, 1996",
+    "claim": "Joint commitment means that participants are collectively bound and can demand participation."
+   },
+   {
+    "work": "Bratman, Sharing Intention, 2014",
+    "claim": "Shared-intention practices involve mutual obligations and expectations."
+   },
+   {
+    "work": "Elster, The Future of Norms: A Philosophical Essay, 1989",
+    "claim": "Norms have social and causal lives."
+   }
+  ],
+  "grounding": null,
+  "objection_check": {
+   "addressed": "partly",
+   "reason": "The essay offers a plausible local response and correctly denies that causal realization entails causal explanation, but it stops short of answering the strongest form. It does not say what makes the background public practice of justification, exception, and change itself normatively rather than merely causally stable, nor how to halt the regress when that practice is also a social fact. The (C)/(N) distinction is underived: it labels the relevant difference but does not show that the public grammar is not itself sustained by, and therefore explained by, the causal stability of the practice. It would need an account of primitive social facts or collective intentionality, e.g. via Searle's basic forms or Gilbert's joint commitments, to close the gap; as it stands the objection is mitigated, not fully answered."
+  }
+ }
+}

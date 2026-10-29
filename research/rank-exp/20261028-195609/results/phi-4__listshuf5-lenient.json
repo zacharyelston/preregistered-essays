@@ -1,0 +1,31 @@
+{
+ "model": "phi-4",
+ "variant": "listshuf5-lenient",
+ "ranking": [
+  "t03",
+  "t19",
+  "t13",
+  "t09",
+  "t10",
+  "t01",
+  "t06",
+  "t14",
+  "t15",
+  "t16",
+  "t07",
+  "t04",
+  "t05",
+  "t11",
+  "t12",
+  "t18",
+  "t02",
+  "t08",
+  "t17",
+  "t20"
+ ],
+ "info": {
+  "strict": 2,
+  "lenient": 3,
+  "unusable": 0
+ }
+}

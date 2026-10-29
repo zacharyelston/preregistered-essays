@@ -1,0 +1,43 @@
+{
+ "area": null,
+ "arm": "qwen",
+ "avoid_areas": [
+  "Philosophy of mind (introspection and artificial systems) (Can the self-reports of a system trained on human self-reports ever be evidence about that system's own internal states, or are they screened off by the training explanation?)",
+  "Philosophy of science (confirmation theory and predictivism) (When a hypothesis is chosen by searching a very large space of candidates for fit to the data, does that fit confirm it less than the same fit would confirm a hypothesis proposed in advance? If so, can the 'prediction vs. accommodation' debate be settled by accounting precisely for the search process rather than for timing?)"
+ ],
+ "critic": {
+  "base_model": "phi-4",
+  "hat_model": "fallacy-restraint",
+  "key_env": null,
+  "kind": "openai-compat",
+  "url": "http://localhost:8001/api/v1/namespaces/[redacted-project]/services/[redacted-project]-serve:8000/proxy"
+ },
+ "myvect": null,
+ "objector": {
+  "extra": {
+   "chat_template_kwargs": {
+    "reasoning_effort": "xhigh"
+   }
+  },
+  "key_env": "VLLM_API_KEY",
+  "kind": "openai-compat",
+  "model": "qwen3.8-27b",
+  "temperature": 1.0,
+  "timeout": 3600,
+  "url": "https://[redacted-host]"
+ },
+ "objector_same_model_as_writer": true,
+ "writer": {
+  "extra": {
+   "chat_template_kwargs": {
+    "reasoning_effort": "xhigh"
+   }
+  },
+  "key_env": "VLLM_API_KEY",
+  "kind": "openai-compat",
+  "model": "qwen3.8-27b",
+  "temperature": 1.0,
+  "timeout": 3600,
+  "url": "https://[redacted-host]"
+ }
+}

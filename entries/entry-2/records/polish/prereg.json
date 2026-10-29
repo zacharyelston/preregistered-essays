@@ -1,0 +1,21 @@
+{
+ "created_at": "2026-10-29T00:43:08-0400",
+ "rule": {
+  "accept": "strict majority of the head-to-head verdicts, both orders",
+  "citations": {
+   "edition_title_ratio": 0.95,
+   "fix_rounds": 1,
+   "min_title_ratio": 0.85,
+   "sources": [
+    "openalex",
+    "crossref"
+   ],
+   "year_tolerance": 1
+  },
+  "compare_rounds": 3,
+  "max_words": 6000,
+  "rounds": 3,
+  "version": "polish-1"
+ },
+ "sha256": "b4b2c2654abb3ff1b47531ea3257ab1490b6b2beb68d80c629ad18f1570f5c96"
+}

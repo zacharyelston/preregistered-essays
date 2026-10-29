@@ -1,0 +1,472 @@
+{
+ "run": "20261028-194705",
+ "models": {
+  "phi-4": {
+   "stages": {
+    "area": {
+     "calls": 1,
+     "samples": 3,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "1/1",
+     "single_agree": 0.0,
+     "single_kappa": 0.0,
+     "vote_usable": "1/1",
+     "vote_agree": 0.0,
+     "vote_kappa": 0.0,
+     "frontier_labels": {
+      "Philosophy of mind / epistemology of introspection": 1
+     },
+     "majority_baseline_agree": 1.0
+    },
+    "theses": {
+     "calls": 1,
+     "samples": 3,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "1/1",
+     "single_size_ratio": 1.05,
+     "vote_usable": "1/1",
+     "vote_size_ratio": 1.05
+    },
+    "objection": {
+     "calls": 20,
+     "samples": 60,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "20/20",
+     "single_agree": 1.0,
+     "single_mean_abs_diff": 0.1,
+     "single_kappa": -0.053,
+     "vote_usable": "20/20",
+     "vote_agree": 1.0,
+     "vote_mean_abs_diff": 0.15,
+     "vote_kappa": -0.071,
+     "frontier_labels": {
+      "4": 19,
+      "5": 1
+     },
+     "majority_baseline_agree": 0.95
+    },
+    "novelty": {
+     "calls": 20,
+     "samples": 60,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "20/20",
+     "single_agree": 1.0,
+     "single_kappa": null,
+     "vote_usable": "20/20",
+     "vote_agree": 1.0,
+     "vote_kappa": null,
+     "frontier_labels": {
+      "partly": 20
+     },
+     "majority_baseline_agree": 1.0
+    },
+    "steps": {
+     "calls": 4,
+     "samples": 12,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "4/4",
+     "single_size_ratio": 0.84,
+     "vote_usable": "4/4",
+     "vote_size_ratio": 0.86
+    },
+    "citations": {
+     "calls": 2,
+     "samples": 6,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "2/2",
+     "single_size_ratio": 0.577,
+     "vote_usable": "2/2",
+     "vote_size_ratio": 0.577
+    },
+    "objection-check": {
+     "calls": 2,
+     "samples": 6,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "2/2",
+     "single_agree": 0.5,
+     "single_kappa": 0.0,
+     "vote_usable": "2/2",
+     "vote_agree": 0.5,
+     "vote_kappa": 0.0,
+     "frontier_labels": {
+      "partly": 2
+     },
+     "majority_baseline_agree": 1.0
+    }
+   },
+   "counterfactual_single": {
+    "shortlist": {
+     "actual": [
+      "t01",
+      "t02"
+     ],
+     "replayed": [
+      "t01",
+      "t02"
+     ],
+     "same": true,
+     "overlap": 2,
+     "substituted": 40,
+     "actual_tie_at_cut": true,
+     "replayed_tie_at_cut": true
+    },
+    "winner": {
+     "actual": "t01",
+     "replayed": "t02",
+     "same": false,
+     "substituted": 2
+    }
+   },
+   "counterfactual_vote": {
+    "shortlist": {
+     "actual": [
+      "t01",
+      "t02"
+     ],
+     "replayed": [
+      "t01",
+      "t02"
+     ],
+     "same": true,
+     "overlap": 2,
+     "substituted": 40,
+     "actual_tie_at_cut": true,
+     "replayed_tie_at_cut": true
+    },
+    "winner": {
+     "actual": "t01",
+     "replayed": "t02",
+     "same": false,
+     "substituted": 2
+    }
+   }
+  },
+  "qwen-low": {
+   "stages": {
+    "area": {
+     "calls": 1,
+     "samples": 3,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "1/1",
+     "single_agree": 0.0,
+     "single_kappa": 0.0,
+     "vote_usable": "1/1",
+     "vote_agree": 0.0,
+     "vote_kappa": 0.0,
+     "frontier_labels": {
+      "Philosophy of mind / epistemology of introspection": 1
+     },
+     "majority_baseline_agree": 1.0
+    },
+    "theses": {
+     "calls": 1,
+     "samples": 1,
+     "format_ok_rate": 0.0,
+     "errors": 0,
+     "single_usable": "0/1",
+     "vote_usable": "0/1"
+    },
+    "objection": {
+     "calls": 20,
+     "samples": 60,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "20/20",
+     "single_agree": 1.0,
+     "single_mean_abs_diff": 0.2,
+     "single_kappa": -0.081,
+     "vote_usable": "20/20",
+     "vote_agree": 1.0,
+     "vote_mean_abs_diff": 0.15,
+     "vote_kappa": -0.071,
+     "frontier_labels": {
+      "4": 19,
+      "5": 1
+     },
+     "majority_baseline_agree": 0.95
+    },
+    "novelty": {
+     "calls": 20,
+     "samples": 60,
+     "format_ok_rate": 0.983,
+     "errors": 0,
+     "single_usable": "19/20",
+     "single_agree": 0.75,
+     "single_kappa": 0.0,
+     "vote_usable": "20/20",
+     "vote_agree": 0.9,
+     "vote_kappa": 0.0,
+     "frontier_labels": {
+      "partly": 20
+     },
+     "majority_baseline_agree": 1.0
+    }
+   },
+   "counterfactual_single": {
+    "shortlist": {
+     "actual": [
+      "t01",
+      "t02"
+     ],
+     "replayed": [
+      "t03",
+      "t20"
+     ],
+     "same": false,
+     "overlap": 0,
+     "substituted": 39,
+     "actual_tie_at_cut": true,
+     "replayed_tie_at_cut": false
+    },
+    "winner": {
+     "actual": "t01",
+     "replayed": "t01",
+     "same": true,
+     "substituted": 0
+    }
+   },
+   "counterfactual_vote": {
+    "shortlist": {
+     "actual": [
+      "t01",
+      "t02"
+     ],
+     "replayed": [
+      "t05",
+      "t20"
+     ],
+     "same": false,
+     "overlap": 0,
+     "substituted": 40,
+     "actual_tie_at_cut": true,
+     "replayed_tie_at_cut": false
+    },
+    "winner": {
+     "actual": "t01",
+     "replayed": "t01",
+     "same": true,
+     "substituted": 0
+    }
+   }
+  },
+  "qwen-medium": {
+   "stages": {
+    "area": {
+     "calls": 1,
+     "samples": 3,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "1/1",
+     "single_agree": 0.0,
+     "single_kappa": 0.0,
+     "vote_usable": "1/1",
+     "vote_agree": 0.0,
+     "vote_kappa": 0.0,
+     "frontier_labels": {
+      "Philosophy of mind / epistemology of introspection": 1
+     },
+     "majority_baseline_agree": 1.0
+    },
+    "objection": {
+     "calls": 4,
+     "samples": 12,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "4/4",
+     "single_agree": 1.0,
+     "single_mean_abs_diff": 0,
+     "single_kappa": null,
+     "vote_usable": "4/4",
+     "vote_agree": 1.0,
+     "vote_mean_abs_diff": 0,
+     "vote_kappa": null,
+     "frontier_labels": {
+      "4": 4
+     },
+     "majority_baseline_agree": 1.0
+    },
+    "novelty": {
+     "calls": 2,
+     "samples": 6,
+     "format_ok_rate": 0.833,
+     "errors": 0,
+     "single_usable": "2/2",
+     "single_agree": 1.0,
+     "single_kappa": null,
+     "vote_usable": "2/2",
+     "vote_agree": 1.0,
+     "vote_kappa": null,
+     "frontier_labels": {
+      "partly": 2
+     },
+     "majority_baseline_agree": 1.0
+    }
+   },
+   "counterfactual_single": {
+    "shortlist": {
+     "actual": [
+      "t01",
+      "t02"
+     ],
+     "replayed": [
+      "t01",
+      "t02"
+     ],
+     "same": true,
+     "overlap": 2,
+     "substituted": 6,
+     "actual_tie_at_cut": true,
+     "replayed_tie_at_cut": true
+    },
+    "winner": {
+     "actual": "t01",
+     "replayed": "t01",
+     "same": true,
+     "substituted": 0
+    }
+   },
+   "counterfactual_vote": {
+    "shortlist": {
+     "actual": [
+      "t01",
+      "t02"
+     ],
+     "replayed": [
+      "t01",
+      "t02"
+     ],
+     "same": true,
+     "overlap": 2,
+     "substituted": 6,
+     "actual_tie_at_cut": true,
+     "replayed_tie_at_cut": true
+    },
+    "winner": {
+     "actual": "t01",
+     "replayed": "t01",
+     "same": true,
+     "substituted": 0
+    }
+   }
+  },
+  "qwen-off": {
+   "stages": {
+    "area": {
+     "calls": 1,
+     "samples": 3,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "1/1",
+     "single_agree": 0.0,
+     "single_kappa": 0.0,
+     "vote_usable": "1/1",
+     "vote_agree": 0.0,
+     "vote_kappa": 0.0,
+     "frontier_labels": {
+      "Philosophy of mind / epistemology of introspection": 1
+     },
+     "majority_baseline_agree": 1.0
+    },
+    "theses": {
+     "calls": 1,
+     "samples": 3,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "1/1",
+     "single_size_ratio": 1.0,
+     "vote_usable": "1/1",
+     "vote_size_ratio": 1.0
+    },
+    "objection": {
+     "calls": 20,
+     "samples": 60,
+     "format_ok_rate": 1.0,
+     "errors": 0,
+     "single_usable": "20/20",
+     "single_agree": 1.0,
+     "single_mean_abs_diff": 0.5,
+     "single_kappa": 0.083,
+     "vote_usable": "20/20",
+     "vote_agree": 1.0,
+     "vote_mean_abs_diff": 0.55,
+     "vote_kappa": 0.068,
+     "frontier_labels": {
+      "4": 19,
+      "5": 1
+     },
+     "majority_baseline_agree": 0.95
+    },
+    "novelty": {
+     "calls": 20,
+     "samples": 60,
+     "format_ok_rate": 0.983,
+     "errors": 0,
+     "single_usable": "20/20",
+     "single_agree": 0.85,
+     "single_kappa": 0.0,
+     "vote_usable": "20/20",
+     "vote_agree": 0.85,
+     "vote_kappa": 0.0,
+     "frontier_labels": {
+      "partly": 20
+     },
+     "majority_baseline_agree": 1.0
+    }
+   },
+   "counterfactual_single": {
+    "shortlist": {
+     "actual": [
+      "t01",
+      "t02"
+     ],
+     "replayed": [
+      "t05",
+      "t08"
+     ],
+     "same": false,
+     "overlap": 0,
+     "substituted": 40,
+     "actual_tie_at_cut": true,
+     "replayed_tie_at_cut": true
+    },
+    "winner": {
+     "actual": "t01",
+     "replayed": "t01",
+     "same": true,
+     "substituted": 0
+    }
+   },
+   "counterfactual_vote": {
+    "shortlist": {
+     "actual": [
+      "t01",
+      "t02"
+     ],
+     "replayed": [
+      "t01",
+      "t05"
+     ],
+     "same": false,
+     "overlap": 1,
+     "substituted": 40,
+     "actual_tie_at_cut": true,
+     "replayed_tie_at_cut": true
+    },
+    "winner": {
+     "actual": "t01",
+     "replayed": "t01",
+     "same": true,
+     "substituted": 0
+    }
+   }
+  }
+ }
+}

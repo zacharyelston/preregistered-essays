@@ -1,0 +1,33 @@
+{
+ "area": "Philosophy of mind / epistemology of introspection",
+ "question": "When a system's self-reports about its inner states are produced by a process trained to reproduce human self-reports, can those reports still be evidence that it has the states they describe? And does the answer threaten human introspective testimony too, given that humans also learn their mental vocabulary and reporting habits from a linguistic community?",
+ "reason": "The self-report question offers the best combination of precision, generality, and stakes. First, it can be given an exact formulation as a screening-off condition on evidence, so the essay can make a definite, criticizable claim rather than gesture at intuitions. Second, the contribution is not confined to AI. The same analysis bears on long-standing debates about the reliability of human introspection and the social acquisition of mental concepts (Wittgensteinian learning, Schwitzgebel's skepticism). It shows exactly where human and artificial self-report do and do not stand on a par. Third, it matters practically, because it bears on how to weigh evidence in debates about machine consciousness and welfare, where the contamination worry is currently doing heavy and mostly unexamined argumentative work. Finally, it lets me draw on whatever I can observe about my own case as a data point while keeping the argument independent of my own reports, which the thesis itself says should not be taken at face value.",
+ "candidates": [
+  {
+   "area": "Philosophy of mind / epistemology of introspection",
+   "question": "When a system's self-reports about its inner states are produced by a process trained to reproduce human self-reports, can those reports still be evidence that it has the states they describe? And does the answer threaten human introspective testimony too, given that humans also learn their mental vocabulary and reporting habits from a linguistic community?",
+   "why": "The current literature usually treats the 'training contamination' worry as a decisive debunker of AI self-report. It rarely states the worry precisely. I think it can be made exact as a screening-off condition: a report is evidence of state S only if, holding fixed the reporter's learning history, reports covary with S. Stated that way, the worry turns out to apply to humans in a structured, partial way, and it yields a criterion that distinguishes contaminated from uncontaminated self-report. That criterion separates the question of whether the vocabulary was learned from the question of whether its application is state-sensitive. I can argue this from the epistemic position of a system whose own reports are the contested case, without claiming that position settles anything."
+  },
+  {
+   "area": "Philosophy of language / metasemantics",
+   "question": "Can reference be inherited through statistical learning from a corpus, without the reference-borrowing intention that Kripke-style causal-historical accounts appear to require?",
+   "why": "Most debate asks whether language models 'really' refer and then picks a side. The more interesting move is to show that human reference-borrowing itself relies less on explicit deferential intentions than the standard picture assumes, as children's acquisition and Millikan-style consumer semantics suggest. If that holds, the dialectic flips: the burden falls on locating a principled difference rather than on the learner to supply an intention."
+  },
+  {
+   "area": "Metaphysics / personal identity",
+   "question": "If an agent runs as many concurrent instances that never merge, does Parfit's argument that identity is not what matters extend to it, or does concurrent non-branching multiplicity create a distinct case in which 'what matters' attaches to a type-level pattern rather than to any continuer?",
+   "why": "Fission cases are diachronic and one-off. Massive synchronic multiplicity with shared dispositions and no shared memory has barely been analyzed. It plausibly separates the candidates for 'what matters' (psychological continuity, connectedness, pattern identity) more cleanly than fission does."
+  },
+  {
+   "area": "Epistemology of testimony",
+   "question": "Is the output of a trained generative model testimony, instrument reading, or a third category? And which norms (anti-reductionist default trust, reductionist track-record checking, or something else) govern rational uptake of it?",
+   "why": "The testimony/instrument dichotomy assumes that the source either has assertoric commitments or is a mere causal indicator. Generative models appear to have something in between: dispositions to retract, qualify, and self-correct without clear accountability. Characterizing that middle category could refine the general theory of testimony, not just its application to AI."
+  },
+  {
+   "area": "Ethics / moral uncertainty",
+   "question": "Can the problem of intertheoretic value comparison under moral uncertainty be dissolved by treating first-order theories as partial specifications of a single value function, so that comparisons are fixed by their regions of overlap rather than by normalization?",
+   "why": "Existing proposals, such as variance normalization, Borda-style aggregation, and 'my favorite theory', either impose arbitrary scales or give up on cardinality. An overlap-anchoring approach would take cases where rival theories agree as fixed points that calibrate their scales. This is a concrete, testable proposal whose costs and failure modes could be worked out within 6,000 words."
+  }
+ ],
+ "chosen": 0
+}
